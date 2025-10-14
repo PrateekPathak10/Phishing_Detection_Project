@@ -1,8 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react';
 
-// NOTE ON BACKEND: 
-// This URL assumes your Flask app.py is running on the default port 5000.
-const API_BASE_URL = 'http://127.0.0.1:5000'; 
+// !!! REPLACE THIS WITH THE LIVE URL YOU GOT FROM RENDER (or similar host) !!!
+const API_BASE_URL = 'https://phishing-detection-project-b6wj.onrender.com'; 
 
 // --- MOCK DATA FOR DEMONSTRATION & UI ---
 const CRITICAL_SECTORS = [
@@ -13,13 +12,13 @@ const CRITICAL_SECTORS = [
 ];
 
 const LABEL_COLORS = {
-    0: { text: "Legitimate (0)", color: "text-green-600", bg: "bg-green-100" },
-    1: { text: "Suspected (1)", color: "text-yellow-600", bg: "bg-yellow-100" },
-    2: { text: "Phishing (2)", textDanger: "text-red-700 font-bold", color: "text-red-500", bg: "bg-red-100" },
+    // Adjusted colors for better visibility on dark backgrounds
+    0: { text: "Legitimate (0)", color: "text-green-400", bg: "bg-green-800" },
+    1: { text: "Suspected (1)", color: "text-yellow-400", bg: "bg-yellow-800" },
+    2: { text: "Phishing (2)", textDanger: "text-red-400 font-bold", color: "text-red-500", bg: "bg-red-800" },
 };
 
-// --- MOCK DATABASE AND MONITORING LOGIC (Replacing Firestore for single-file deployment) ---
-// In a real deployment, the backend would manage this data persistence.
+// --- MOCK DATABASE AND MONITORING LOGIC ---
 let MONITORING_DB = JSON.parse(localStorage.getItem('MONITORING_DB_MOCK')) || [];
 
 const saveMockDB = (newDb) => {
@@ -37,22 +36,17 @@ const App = () => {
     const [selectedReport, setSelectedReport] = useState(null);
     const [systemAlert, setSystemAlert] = useState(null);
 
-    // --- 2. Suspected Domain Monitoring Cycle (Simulated Backend Cron Job) ---
-    // This effect simulates the continuous monitoring engine (Requirement 3.3).
+    // --- 2. Suspected Domain Monitoring Cycle ---
     useEffect(() => {
         const checkMonitoring = () => {
             let updatedResults = [...MONITORING_DB];
             let alertTriggered = false;
 
             updatedResults = updatedResults.map(item => {
-                // Only monitor domains currently classified as Suspected (1)
                 if (item.prediction_id === 1 && item.monitoring.status === 'Monitoring') {
-                    // SIMULATION: 1 in 10 chance of reclassification to Phishing
                     if (Math.random() < 0.1) {
                         alertTriggered = true;
                         
-                        // Update status and reclassify (Label 2)
-                        const now = new Date();
                         const newReport = { ...item.report_data };
                         newReport.final_classification = 'PHISHING (RECLASSIFIED)';
                         newReport.classification_id = 2;
@@ -67,9 +61,8 @@ const App = () => {
                         };
                     }
                 }
-                // Update elapsed time
                 if (item.monitoring.status === 'Monitoring') {
-                    item.monitoring.daysElapsed += 0.1; // Simulate partial day check
+                    item.monitoring.daysElapsed += 0.1; 
                     if (item.monitoring.daysElapsed >= 90) {
                         item.monitoring.status = 'COMPLETED (Timed Out)';
                     }
@@ -84,9 +77,9 @@ const App = () => {
             setResults(updatedResults);
         };
 
-        const interval = setInterval(checkMonitoring, 10000); // Runs every 10 seconds
+        const interval = setInterval(checkMonitoring, 10000); 
 
-        return () => clearInterval(interval); // Cleanup on unmount
+        return () => clearInterval(interval); 
     }, []);
 
     // --- 3. API Communication Function ---
@@ -109,7 +102,8 @@ const App = () => {
             });
 
             if (!response.ok) {
-                throw new Error(`API Error: ${response.statusText}`);
+                const errorText = await response.text();
+                throw new Error(`API Error: ${response.status} - ${errorText.substring(0, 100)}...`);
             }
 
             const data = await response.json();
@@ -148,12 +142,13 @@ const App = () => {
 
     const getStatusDisplay = (item) => {
         const { prediction_id, label, monitoring } = item;
-        const color = LABEL_COLORS[prediction_id]?.bg || 'bg-gray-200';
-        const textColor = LABEL_COLORS[prediction_id]?.color || 'text-gray-800';
+        // Use darker background colors for the badge in dark mode
+        const color = LABEL_COLORS[prediction_id]?.bg || 'bg-gray-700';
+        const textColor = LABEL_COLORS[prediction_id]?.color || 'text-gray-300';
 
         if (prediction_id === 1 && monitoring.status === 'Monitoring') {
             return (
-                <span className="flex items-center text-sm font-medium text-yellow-700">
+                <span className="flex items-center text-sm font-medium text-yellow-400">
                     <span className="relative flex h-3 w-3 mr-2">
                         <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-yellow-400 opacity-75"></span>
                         <span className="relative inline-flex rounded-full h-3 w-3 bg-yellow-500"></span>
@@ -163,7 +158,7 @@ const App = () => {
             );
         }
         if (monitoring.status === 'RECLASSIFIED') {
-            return <span className="text-sm font-bold text-red-700">RECLASSIFIED (Phishing)</span>;
+            return <span className="text-sm font-bold text-red-500">RECLASSIFIED (Phishing)</span>;
         }
 
         return <span className={`px-2 inline-flex text-xs leading-5 font-semibold rounded-full ${color} ${textColor}`}>{label}</span>;
@@ -172,41 +167,45 @@ const App = () => {
     // --- 5. UI Structure ---
 
     return (
-        <div className="min-h-screen bg-gray-50 p-4 sm:p-8 font-sans">
+        // Global Dark Mode Container and Background
+        <div className="min-h-screen p-4 sm:p-8 font-sans bg-gray-900 text-gray-200">
             <script src="https://cdn.tailwindcss.com"></script>
             <div className="max-w-6xl mx-auto">
-                <header className="mb-8 p-6 bg-white rounded-xl shadow-lg">
-                    <h1 className="text-4xl font-extrabold text-indigo-800 mb-2">AI Grand Challenge 2025: Phishing Engine</h1>
-                    <p className="text-gray-600">Scalable, efficient, automated detection and monitoring of Phishing and Suspected domains for Critical Sector Entities (CSEs).</p>
-                    <div className="mt-4 border-t pt-4">
+                
+                {/* Header */}
+                <header className="mb-8 p-6 rounded-xl shadow-2xl bg-gray-800 border-b border-indigo-700">
+                    <h1 className="text-4xl font-extrabold text-indigo-400 mb-2">AI Grand Challenge 2025: Phishing Engine</h1>
+                    <p className="text-gray-400">Scalable, efficient, automated detection and monitoring of Phishing and Suspected domains for Critical Sector Entities (CSEs).</p>
+                    <div className="mt-4 border-t border-gray-700 pt-4">
                         <p className="text-sm font-medium text-gray-500">System Status:</p>
                         {systemAlert ? (
-                            <div className="mt-2 p-3 rounded-lg bg-red-100 border border-red-400 text-red-800 font-semibold text-sm animate-pulse">{systemAlert}</div>
+                            <div className="mt-2 p-3 rounded-lg bg-red-900/50 border border-red-700 text-red-300 font-semibold text-sm animate-pulse">{systemAlert}</div>
                         ) : (
-                            <div className="mt-2 text-sm text-green-700 font-semibold">Backend connection stable. Monitoring cycle running every 10s.</div>
+                            <div className="mt-2 text-sm text-green-400 font-semibold">Backend connection stable. Monitoring cycle running every 10s.</div>
                         )}
                     </div>
                 </header>
 
                 {/* Domain Input Form */}
-                <section className="mb-8 p-6 bg-white rounded-xl shadow-lg border-t-4 border-indigo-500">
-                    <h2 className="text-2xl font-semibold text-gray-800 mb-4">Analyze New Domain</h2>
+                <section className="mb-8 p-6 rounded-xl shadow-2xl bg-gray-800 border-t-4 border-indigo-500">
+                    <h2 className="text-2xl font-semibold text-gray-200 mb-4">Analyze New Domain</h2>
                     <form onSubmit={handleDomainCheck} className="space-y-4">
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                             <div>
-                                <label htmlFor="domain" className="block text-sm font-medium text-gray-700">Domain to Check</label>
+                                <label htmlFor="domain" className="block text-sm font-medium text-gray-400">Domain to Check</label>
                                 <input
                                     type="text"
                                     id="domain"
                                     value={domainInput}
                                     onChange={(e) => setDomainInput(e.target.value)}
                                     placeholder="e.g., airtel-support.in"
-                                    className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 p-2 border"
+                                    // Input styling adjusted for dark mode
+                                    className="mt-1 block w-full rounded-md shadow-sm p-2 border border-gray-600 bg-gray-700 text-gray-100 focus:border-indigo-500 focus:ring-indigo-500"
                                     required
                                 />
                             </div>
                             <div>
-                                <label htmlFor="cseDomain" className="block text-sm font-medium text-gray-700">Target CSE</label>
+                                <label htmlFor="cseDomain" className="block text-sm font-medium text-gray-400">Target CSE</label>
                                 <select
                                     id="cseDomain"
                                     value={cseDomain}
@@ -215,7 +214,8 @@ const App = () => {
                                         setCseDomain(selectedCse.domain);
                                         setCseName(selectedCse.name);
                                     }}
-                                    className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500 p-2 border bg-white"
+                                    // Select styling adjusted for dark mode
+                                    className="mt-1 block w-full rounded-md shadow-sm p-2 border border-gray-600 bg-gray-700 text-gray-100 focus:border-indigo-500 focus:ring-indigo-500"
                                 >
                                     {CRITICAL_SECTORS.map((cse, index) => (
                                         <option key={index} value={cse.domain}>{cse.name} ({cse.domain})</option>
@@ -225,7 +225,7 @@ const App = () => {
                             <div className="self-end">
                                 <button
                                     type="submit"
-                                    className={`w-full py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white ${isLoading ? 'bg-indigo-400 cursor-not-allowed' : 'bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 transition duration-150'}`}
+                                    className={`w-full py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white ${isLoading ? 'bg-indigo-700 cursor-not-allowed' : 'bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 focus:ring-offset-gray-900 transition duration-150'}`}
                                     disabled={isLoading}
                                 >
                                     {isLoading ? 'Analyzing...' : 'Run AI Classification'}
@@ -236,27 +236,27 @@ const App = () => {
                 </section>
 
                 {/* Results Table (Requirement 3.1) */}
-                <section className="bg-white rounded-xl shadow-lg overflow-hidden">
-                    <h2 className="text-2xl font-semibold text-gray-800 p-6 border-b">Detection Results ({results.length} Total)</h2>
+                <section className="rounded-xl shadow-2xl overflow-hidden bg-gray-800">
+                    <h2 className="text-2xl font-semibold text-gray-200 p-6 border-b border-gray-700">Detection Results ({results.length} Total)</h2>
                     <div className="overflow-x-auto">
-                        <table className="min-w-full divide-y divide-gray-200">
-                            <thead className="bg-gray-50">
+                        <table className="min-w-full divide-y divide-gray-700">
+                            <thead className="bg-gray-700">
                                 <tr>
-                                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Domain</th>
-                                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Target CSE</th>
-                                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Classification</th>
-                                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Status/Monitoring</th>
-                                    <th className="px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-400 uppercase tracking-wider">Domain</th>
+                                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-400 uppercase tracking-wider">Target CSE</th>
+                                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-400 uppercase tracking-wider">Classification</th>
+                                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-400 uppercase tracking-wider">Status/Monitoring</th>
+                                    <th className="px-6 py-3 text-right text-xs font-medium text-gray-400 uppercase tracking-wider">Actions</th>
                                 </tr>
                             </thead>
-                            <tbody className="bg-white divide-y divide-gray-200">
+                            <tbody className="divide-y divide-gray-700 bg-gray-800">
                                 {results.length === 0 ? (
                                     <tr><td colSpan="5" className="px-6 py-4 text-center text-gray-500">No domains analyzed yet.</td></tr>
                                 ) : (
                                     results.map((item) => (
-                                        <tr key={item.id} className={item.prediction_id === 2 || item.monitoring.status === 'RECLASSIFIED' ? 'bg-red-50/50' : ''}>
-                                            <td className={`px-6 py-4 whitespace-nowrap text-sm font-medium ${item.prediction_id === 2 ? 'text-red-700 font-bold' : 'text-gray-900'}`}>{item.domain}</td>
-                                            <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">{item.report_data.genuine_cse_domain}</td>
+                                        <tr key={item.id} className={item.prediction_id === 2 || item.monitoring.status === 'RECLASSIFIED' ? 'bg-red-900/10 hover:bg-red-900/20' : 'hover:bg-gray-700'}>
+                                            <td className={`px-6 py-4 whitespace-nowrap text-sm font-medium ${item.prediction_id === 2 ? 'text-red-400 font-bold' : 'text-gray-100'}`}>{item.domain}</td>
+                                            <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-400">{item.report_data.genuine_cse_domain}</td>
                                             <td className="px-6 py-4 whitespace-nowrap">
                                                 <span className={LABEL_COLORS[item.prediction_id]?.textDanger || LABEL_COLORS[item.prediction_id]?.color}>
                                                     {item.label}
@@ -266,7 +266,7 @@ const App = () => {
                                             <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                                                 <button
                                                     onClick={() => setSelectedReport(item)}
-                                                    className="text-indigo-600 hover:text-indigo-900 font-semibold"
+                                                    className="text-indigo-400 hover:text-indigo-300 font-semibold"
                                                 >
                                                     View Report
                                                 </button>
@@ -292,6 +292,7 @@ const ReportModal = ({ report, onClose }) => {
     const data = report.report_data;
     const confidence = data.maliciousness_information.model_confidence;
 
+    // Adjusted color utilities for the modal components
     const sections = [
         {
             title: "Classification & Confidence (AI Engine)",
@@ -323,13 +324,13 @@ const ReportModal = ({ report, onClose }) => {
     ];
 
     return (
-        <div className="fixed inset-0 bg-gray-900 bg-opacity-75 z-50 flex items-center justify-center p-4">
-            <div className="bg-white rounded-xl shadow-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto transform transition-all">
-                <div className="p-6 border-b flex justify-between items-center sticky top-0 bg-white">
-                    <h3 className="text-2xl font-bold text-gray-900">
-                        Detection Report: <span className="text-indigo-600">{report.domain}</span>
+        <div className="fixed inset-0 bg-gray-900 bg-opacity-80 z-50 flex items-center justify-center p-4">
+            <div className="bg-gray-800 rounded-xl shadow-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto transform transition-all text-gray-200">
+                <div className="p-6 border-b border-gray-700 flex justify-between items-center sticky top-0 bg-gray-800">
+                    <h3 className="text-2xl font-bold text-gray-100">
+                        Detection Report: <span className="text-indigo-400">{report.domain}</span>
                     </h3>
-                    <button onClick={onClose} className="text-gray-400 hover:text-gray-600 text-3xl font-light">
+                    <button onClick={onClose} className="text-gray-400 hover:text-gray-200 text-3xl font-light">
                         &times;
                     </button>
                 </div>
@@ -338,13 +339,13 @@ const ReportModal = ({ report, onClose }) => {
                     <p className="text-sm text-gray-500 mb-4">Report ID: {data.report_id} | Analysis Time: {new Date(data.analysis_timestamp).toLocaleString()}</p>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                         {sections.map((section, index) => (
-                            <div key={index} className="bg-gray-50 p-4 rounded-lg shadow-inner">
-                                <h4 className="text-lg font-semibold text-indigo-700 border-b pb-2 mb-3">{section.title}</h4>
+                            <div key={index} className="bg-gray-700 p-4 rounded-lg shadow-inner">
+                                <h4 className="text-lg font-semibold text-indigo-400 border-b border-gray-600 pb-2 mb-3">{section.title}</h4>
                                 <dl className="space-y-2">
                                     {section.items.map((item, i) => (
                                         <div key={i} className="flex flex-col">
-                                            <dt className="text-sm font-medium text-gray-700">{item.label}:</dt>
-                                            <dd className={`ml-0 text-md font-mono ${item.color || 'text-gray-900'}`}>{item.value}</dd>
+                                            <dt className="text-sm font-medium text-gray-300">{item.label}:</dt>
+                                            <dd className={`ml-0 text-md font-mono ${item.color || 'text-gray-100'}`}>{item.value}</dd>
                                         </div>
                                     ))}
                                 </dl>
