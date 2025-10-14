@@ -1,0 +1,1045 @@
+S. No,Critical Sector Entity Name,Corresponding CSE Domain Name,Identified Phishing/Suspected Domain Name,Phishing/Suspected Domains (i.e. Class Label),Evidence file name,Source of detection
+1,Airtel,airtel.in,airtel-merchants.in,Phishing,airtel-merchants.in.pdf,
+2,Airtel,airtel.in,airtelrecharge.co.in,Phishing,airtelrecharge.co.in.pdf,
+3,Airtel,airtel.in,airtelmerchant.in,Phishing,airtelmerchant.in.pdf,
+4,Airtel,airtel.in,airtelinternetserviceprovider.co.in,Phishing,airtelinternetserviceprovider.co.in.pdf,
+5,Airtel,airtel.in,airtelpoint.top,Phishing,airtelpoint.top.pdf,
+6,Airtel,airtel.in,airtela.sbs,Phishing,airtela.sbs.pdf,
+7,Airtel,airtel.in,airtelairfiberkarnataka.xyz,Phishing,airtelairfiberkarnataka.xyz.pdf,
+8,Airtel,airtel.in,airtelbroadbandbangalore.xyz,Phishing,airtelbroadbandbangalore.xyz.pdf,
+9,Airtel,airtel.in,airteldthconnectionbengaluru.xyz,Phishing,airteldthconnectionbengaluru.xyz.pdf,
+10,Airtel,airtel.in,airtelwificonnectiontumakuru.xyz,Phishing,airtelwificonnectiontumakuru.xyz.pdf,
+11,Airtel,airtel.in,airtel365.com,Suspected,,
+12,Airtel,airtel.in,airtel-merchants.site,Suspected,,
+13,Airtel,airtel.in,airtelmerchnat.in,Suspected,,
+14,Airtel,airtel.in,airtel.club,Suspected,,
+15,Airtel,airtel.in,airtel121co.in,Suspected,,
+16,Airtel,airtel.in,airtelfin.in,Suspected,,
+17,Airtel,airtel.in,airtelmerchants.in,Suspected,,
+18,Airtel,airtel.in,airtelwifi.in,Suspected,,
+19,Airtel,airtel.in,airtel-5g.top,Suspected,,
+20,Airtel,airtel.in,airtele.xyz,Suspected,,
+21,Airtel,airtel.in,airtelericsson.in,Suspected,,
+22,Airtel,airtel.in,airtelrechargeplan.com,Suspected,,
+23,Airtel,airtel.in,airtelspacex.in,Suspected,,
+24,Airtel,airtel.in,airtel.cloud,Suspected,,
+25,Airtel,airtel.in,airtelrdc.shop,Suspected,,
+26,Airtel,airtel.in,airtelhd.biz,Suspected,,
+27,Airtel,airtel.in,airtelmerchnats.net,Suspected,,
+28,Airtel,airtel.in,airteldataloan.in,Suspected,,
+29,Airtel,airtel.in,airtel-merchants.shop,Suspected,,
+30,Airtel,airtel.in,airtelpay.world,Phishing,,
+31,Airtel,airtel.in,airtel-quickrecharge.world,Phishing,,
+32,Airtel,airtel.in,airtelstream.in,Suspected,,
+33,Airtel,airtel.in,bhartiairtelnet.in,Suspected,,
+34,Airtel,airtel.in,airtel121.in,Suspected,,
+35,Airtel,airtel.in,airtel-merchant.co.in,Suspected,,
+36,Airtel,airtel.in,airtel-5g.net,Suspected,,
+37,Airtel,airtel.in,airtel-ug.info,Suspected,,
+38,Airtel,airtel.in,airteliqalerts.in,Suspected,,
+39,Airtel,airtel.in,airteliqmail.in,Suspected,,
+40,Airtel,airtel.in,airtelinfotel.in,Suspected,,
+41,Airtel,airtel.in,airtelretailer.in,Suspected,,
+42,Airtel,airtel.in,airtel.org.in,Suspected,,
+43,Airtel,airtel.in,bhartiairtel.live,Suspected,,
+44,Airtel,airtel.in,bhartiairtel.online,Suspected,,
+45,Airtel,airtel.in,airtelconnect.com,Suspected,,
+46,Airtel,airtel.in,airtelstore.co.in,Suspected,,
+47,Airtel,airtel.in,airteldtd.in,Suspected,,
+48,Airtel,airtel.in,airtel.website,Suspected,,
+49,Airtel,airtel.in,airtelprize.in,Suspected,,
+50,Airtel,airtel.in,airtelapp.xyz,Suspected,,
+51,Airtel,airtel.in,airtelcare.net,Suspected,,
+52,Airtel,airtel.in,airtel-merchants.net,Suspected,,
+53,Airtel,airtel.in,postpaidairtel.in,Suspected,,
+54,Airtel,airtel.in,airtel.exchange,Suspected,,
+55,Airtel,airtel.in,airtelpayment.online,Suspected,,
+56,Airtel,airtel.in,airtel-5gg.top,Suspected,,
+57,Airtel,airtel.in,airtelmerchnat.co.in,Suspected,,
+58,Airtel,airtel.in,airtel-ericsson.com,Suspected,,
+59,Airtel,airtel.in,airtel-broadband-plans.today,Suspected,,
+60,Airtel,airtel.in,airtel-broadband-plans-near-you.sbs,Suspected,,
+61,Airtel,airtel.in,airtelstarlink.org,Suspected,,
+62,Airtel,airtel.in,airtelstarlinks.in,Suspected,,
+63,Airtel,airtel.in,airtellink.com,Suspected,,
+64,Airtel,airtel.in,airtel.firm.in,Suspected,,
+65,Airtel,airtel.in,airtelfiber.in,Suspected,,
+66,Airtel,airtel.in,airtelxtream.co.in,Suspected,,
+67,Airtel,airtel.in,bhartairtel.co.in,Suspected,,
+68,Airtel,airtel.in,airtelairfiber.in,Suspected,,
+69,Airtel,airtel.in,airtelxtreamonline.in,Suspected,,
+70,Airtel,airtel.in,bhartiairtelfoundation.co.in,Suspected,,
+71,Airtel,airtel.in,airtelvb.top,Suspected,,
+72,Airtel,airtel.in,airtelonebroadband.top,Suspected,,
+73,Airtel,airtel.in,airtel-merchants.services,Suspected,,
+74,Bank of Baroda,bankofbaroda.in,bankofbarodabank.in,Suspected,,
+75,Bank of Baroda,bankofbaroda.in,bankofbarodafin.in,Suspected,,
+76,Bank of Baroda,bankofbaroda.in,bankofbarodaworld.co.in,Suspected,,
+77,Bank of Baroda,bankofbaroda.in,1bankofbaroda.co.in,Suspected,,
+78,Bank of Baroda,bankofbaroda.in,thebankofbaroda.in,Suspected,,
+79,Bank of Baroda,bankofbaroda.in,bankofbarodaa.co.in,Suspected,,
+80,Bank of Baroda,bankofbaroda.in,bankofbaroda0.co.in,Suspected,,
+81,Bank of Baroda,bankofbaroda.in,bankofbarodarewa.co.in,Suspected,,
+82,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgi-gov.site,Phishing,dc-crsorgi-gov.site.pdf,
+83,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsverifycertificate.in,Phishing,crsverifycertificate.in.pdf,
+84,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorge.in,Phishing,dc.crsorge.in.pdf,
+85,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.crs.vievvcert.info,Phishing,dc.crsorgi.gov.in.crs.vievvcert.info.pdf,
+86,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsor-go.shop,Phishing,crsor-go.shop.pdf,
+87,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov.xyz,Phishing,crsorgi-gov.xyz.pdf,
+88,"Civil Registration System, MHA",dc.crsorgi.gov.in,janma-mrityutathya.shop,Phishing,janma-mrityutathya.shop.pdf,
+89,"Civil Registration System, MHA",dc.crsorgi.gov.in,csrorgi-gov.shop,Phishing,csrorgi-gov.shop.pdf,
+90,"Civil Registration System, MHA",dc.crsorgi.gov.in,www.dc.crsorgi.gov.in.verifycertificate.shop,Phishing,www.dc.crsorgi.gov.in.verifycertificate.shop.pdf,
+91,"Civil Registration System, MHA",dc.crsorgi.gov.in,www.dc.crsorgi.gov.in.web.index.php.apnaqafila.shop,Phishing,www.dc.crsorgi.gov.in.web.index.php.apnaqafila.shop.pdf,
+92,"Civil Registration System, MHA",dc.crsorgi.gov.in,www.acadmey.mange.project.indaxs.in,Phishing,www.acadmey.mange.project.indaxs.in.pdf,
+93,"Civil Registration System, MHA",dc.crsorgi.gov.in,birth.giantechnical.in,Phishing,birth.giantechnical.in.pdf,
+94,"Civil Registration System, MHA",dc.crsorgi.gov.in,verificagovv.xyz,Phishing,verificagovv.xyz.pdf,
+95,"Civil Registration System, MHA",dc.crsorgi.gov.in,www.service.findapi.info,Phishing,www.service.findapi.info.pdf,
+96,"Civil Registration System, MHA",dc.crsorgi.gov.in,error404.remgoerrocount.xyz,Phishing,error404.remgoerrocount.xyz.pdf,
+97,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.verifyc.xyz,Phishing,dc.crsorgi.gov.in.verifyc.xyz.pdf,
+98,"Civil Registration System, MHA",dc.crsorgi.gov.in,onlineservice.shop,Phishing,onlineservice.shop.pdf,
+99,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.govi.ltd,Phishing,dc.crsorgi.govi.ltd.pdf,
+100,"Civil Registration System, MHA",dc.crsorgi.gov.in,my.babaprint1.xyz,Phishing,my.babaprint1.xyz.pdf,
+101,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.webi.ltd,Phishing,dc.crsorgi.gov.in.webi.ltd.pdf,
+102,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.index-view.shop,Phishing,dc.crsorgi.gov.in.index-view.shop.pdf,
+103,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.tech-site.info,Phishing,dc.crsorgi.gov.in.tech-site.info.pdf,
+104,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.pgoneindia.shop,Phishing,dc.pgoneindia.shop.pdf,
+105,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi.gov.in.verifycertificate.shop,Phishing,crsorgi.gov.in.verifycertificate.shop.pdf,
+106,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.adverify.in,Phishing,dc.crsorgi.gov.in.adverify.in.pdf,
+107,"Civil Registration System, MHA",dc.crsorgi.gov.in,dcrsorgi.store,Phishing,dcrsorgi.store.pdf,
+108,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.birth.dccrsorgi-govv.live,Phishing,dc.birth.dccrsorgi-govv.live.pdf,
+109,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.viewcard.in,Phishing,dc.crsorgi.gov.in.viewcard.in.pdf,
+110,"Civil Registration System, MHA",dc.crsorgi.gov.in,verifycertificate.cloud,Phishing,verifycertificate.cloud.pdf,
+111,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorginewindex.store,Suspected,,
+112,"Civil Registration System, MHA",dc.crsorgi.gov.in,adharprint.dccrsorgi-govv.live,Suspected,,
+113,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi.gov.in.viewcard.in,Suspected,,
+114,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi.gov.in.w.viewcard.in,Suspected,,
+115,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi.gov.in.web.index.php.viewcard.in,Suspected,,
+116,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.crovimng.online,Suspected,,
+117,"Civil Registration System, MHA",dc.crsorgi.gov.in,passportt.dccrsorgi-govv.live,Suspected,,
+118,"Civil Registration System, MHA",dc.crsorgi.gov.in,rtps.dccrsorgi-govv.live,Suspected,,
+119,"Civil Registration System, MHA",dc.crsorgi.gov.in,ucl.dccrsorgi-govv.live,Suspected,,
+120,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgov.click,Suspected,,
+121,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigob.xyz,Suspected,,
+122,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigovbirth.info,Suspected,,
+123,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgigov-in.in,Suspected,,
+124,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgovbirth.xyz,Suspected,,
+125,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgiportal.com,Suspected,,
+126,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crs-orgi.com,Suspected,,
+127,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.logln.in,Suspected,,
+128,"Civil Registration System, MHA",dc.crsorgi.gov.in,www.birth.ypuclportala.xyz,Suspected,,
+129,"Civil Registration System, MHA",dc.crsorgi.gov.in,www.dc.crsorgi.gov.in.index.viewscrit.org,Suspected,,
+130,"Civil Registration System, MHA",dc.crsorgi.gov.in,yashcrsportal.site,Suspected,,
+131,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorg.xyz,Suspected,,
+132,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crs-org-gov.xyz,Suspected,,
+133,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgi-gov.shop,Suspected,,
+134,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgive-gov.xyz,Suspected,,
+135,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgi.shop,Suspected,,
+136,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov-in.store,Suspected,,
+137,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgi-gov.xyz,Suspected,,
+138,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgi.co.in,Suspected,,
+139,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgigovinverficrs.in,Suspected,,
+140,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi-gov.xyz,Suspected,,
+141,"Civil Registration System, MHA",dc.crsorgi.gov.in,www.dc.crsorgi.gov.in.verifyinfo.xyz,Suspected,,
+142,"Civil Registration System, MHA",dc.crsorgi.gov.in,www.dc.crsorgi.gov.in.web.dc-crsorgi.shop,Suspected,,
+143,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgi-govv.live,Suspected,,
+144,"Civil Registration System, MHA",dc.crsorgi.gov.in,crs.verifycertificatecrs.live,Suspected,,
+145,"Civil Registration System, MHA",dc.crsorgi.gov.in,dcinfinityorg.site,Suspected,,
+146,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorg-dccertificate.sbs,Suspected,,
+147,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gout.in,Suspected,,
+148,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgionline.in,Suspected,,
+149,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgigovin.website,Suspected,,
+150,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-birh.in,Suspected,,
+151,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-verifycertificate.org.in,Suspected,,
+152,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi-gov.live,Suspected,,
+153,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.verifycertificate.fun,Suspected,,
+154,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.crs.verifycertificate.org,Suspected,,
+155,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.techdc.shop,Suspected,,
+156,"Civil Registration System, MHA",dc.crsorgi.gov.in,deluxonlineservice.shop,Suspected,,
+157,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi.gov.in.govi.ltd,Suspected,,
+158,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.pgoneindia.shop,Suspected,,
+159,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.web.lndax.xyz,Suspected,,
+160,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.web.php.lndax.xyz,Suspected,,
+161,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.web.phpii.site,Suspected,,
+162,"Civil Registration System, MHA",dc.crsorgi.gov.in,dcc.crsorgi.gov.in.viewall.in,Suspected,,
+163,"Civil Registration System, MHA",dc.crsorgi.gov.in,www.dc.crsorgi.gov.in.crs.xpsdigi.solutions,Suspected,,
+164,"Civil Registration System, MHA",dc.crsorgi.gov.in,www.dc.crsorgi.gov.in.indxn.xyz,Suspected,,
+165,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi.net,Suspected,,
+166,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgi-gov-in.shop,Phishing,,
+167,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgi-gov-in.today,Phishing,,
+168,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgi.in,Phishing,,
+169,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorg.xyz,Phishing,,
+170,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigovdc.shop,Phishing,,
+171,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgin.fun,Phishing,,
+172,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigov.xyz,Phishing,,
+173,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gvo.tech,Phishing,,
+174,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorg.in,Phishing,,
+175,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgibirth.shop,Phishing,,
+176,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsapi.cloud,Suspected,,
+177,"Civil Registration System, MHA",dc.crsorgi.gov.in,crs-api.com,Suspected,,
+178,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsapi.vip,Suspected,,
+179,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsapi.xyz,Suspected,,
+180,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorggi.xyz,Suspected,,
+181,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigov.cloud,Suspected,,
+182,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigove.fun,Suspected,,
+183,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigove.shop,Suspected,,
+184,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-goverment.online,Suspected,,
+185,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigovi.shop,Suspected,,
+186,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov-in.digital,Suspected,,
+187,"Civil Registration System, MHA",dc.crsorgi.gov.in,crs-orgi-govment.online,Suspected,,
+188,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-in.org,Suspected,,
+189,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgov.com,Suspected,,
+190,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsroigov.online,Suspected,,
+191,"Civil Registration System, MHA",dc.crsorgi.gov.in,crcorgi-gov.online,Suspected,,
+192,"Civil Registration System, MHA",dc.crsorgi.gov.in,crseoigov.online,Suspected,,
+193,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsergov.online,Suspected,,
+194,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgovgov.online,Suspected,,
+195,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgovi.tech,Suspected,,
+196,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgoviiorg.site,Suspected,,
+197,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgovlive.xyz,Suspected,,
+198,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorg.space,Suspected,,
+199,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorg-gov.life,Suspected,,
+200,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorggov.tech,Suspected,,
+201,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgib-gov.xyz,Suspected,,
+202,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgiclick.cloud,Suspected,,
+203,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgiegov.com,Suspected,,
+204,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi--gov.live,Suspected,,
+205,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigov.org,Suspected,,
+206,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigovein.website,Suspected,,
+207,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigovi.store,Suspected,,
+208,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigovin.online,Suspected,,
+209,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgii.online,Suspected,,
+210,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorginet.site,Suspected,,
+211,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgovin.org,Suspected,,
+212,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgi-gov-in.info,Suspected,,
+213,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgi.online,Suspected,,
+214,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorggov.xyz,Suspected,,
+215,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorggovin.xyz,Suspected,,
+216,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgi-gov-in.live,Suspected,,
+217,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi.info,Suspected,,
+218,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi.org.in,Suspected,,
+219,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov1.in,Suspected,,
+220,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgii.in,Suspected,,
+221,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgiisite.co.in,Suspected,,
+222,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgs.in,Suspected,,
+223,"Civil Registration System, MHA",dc.crsorgi.gov.in,csrogir-gov.online,Suspected,,
+224,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorg.co.in,Suspected,,
+225,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgg.in,Suspected,,
+226,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigoovi.live,Suspected,,
+227,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov-in.buzz,Suspected,,
+228,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov-in-web.online,Suspected,,
+229,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigovt.xyz,Suspected,,
+230,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgio.online,Suspected,,
+231,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgi.live,Suspected,,
+232,"Civil Registration System, MHA",dc.crsorgi.gov.in,rgdccrsorgi.xyz,Suspected,,
+233,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgov-in.shop,Suspected,,
+234,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigoov.info,Suspected,,
+235,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov-in-index-web.shop,Suspected,,
+236,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov-in-viawcert.site,Suspected,,
+237,"Civil Registration System, MHA",dc.crsorgi.gov.in,acscrsorgi.in,Suspected,,
+238,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgov-co.in,Suspected,,
+239,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigovs.co.in,Suspected,,
+240,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgovs.in,Suspected,,
+241,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgi.co.in,Suspected,,
+242,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorggi.co.in,Suspected,,
+243,"Civil Registration System, MHA",dc.crsorgi.gov.in,CRSORGI-GOV-IN-INDEX.ONLINE,Suspected,,
+244,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgovorg.in,Suspected,,
+245,"Civil Registration System, MHA",dc.crsorgi.gov.in,auths.info,Suspected,,
+246,"Civil Registration System, MHA",dc.crsorgi.gov.in,dcindex.xyz,Suspected,,
+247,"Civil Registration System, MHA",dc.crsorgi.gov.in,inbex.info,Suspected,,
+248,"Civil Registration System, MHA",dc.crsorgi.gov.in,workfast.in,Suspected,,
+249,"Civil Registration System, MHA",dc.crsorgi.gov.in,verifycertificatecrs.live,Suspected,,
+250,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov-in.live,Suspected,,
+251,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigov-in.online,Suspected,,
+252,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgii-gov.online,Suspected,,
+253,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgii-goiv.in,Suspected,,
+254,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgigoov.in,Suspected,,
+255,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov-in-index.site,Suspected,,
+256,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorg.fun,Suspected,,
+257,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigo.site,Suspected,,
+258,"Civil Registration System, MHA",dc.crsorgi.gov.in,csrorgi.info,Suspected,,
+259,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgiio.store,Suspected,,
+260,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgonlinebirthdeth.in,Suspected,,
+261,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gove.shop,Suspected,,
+262,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorggovrk.xyz,Suspected,,
+263,"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgigov.shop,Suspected,,
+264,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigovv.xyz,Suspected,,
+265,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorg.buzz,Suspected,,
+266,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigov-certificate.xyz,Suspected,,
+267,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgonline.xyz,Suspected,,
+268,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgi-gov.online,Suspected,,
+269,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov-xyz.in,Suspected,,
+270,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgie.org.in,Suspected,,
+271,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov.online,Suspected,,
+272,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgig.org.in,Suspected,,
+273,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgi-in.site,Suspected,,
+274,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgovernment.tech,Suspected,,
+275,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgii.store,Suspected,,
+276,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgie-gov.xyz,Suspected,,
+277,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgii-gov.xyz,Suspected,,
+278,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsogi-gov-in.website,Suspected,,
+279,"Civil Registration System, MHA",dc.crsorgi.gov.in,acadmey.mange.project.indaxs.in,Suspected,,
+280,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgi-gov-in.ja-ai.shop,Suspected,,
+281,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov-in.live,Suspected,,
+282,"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.lndex.pl,Suspected,,
+283,"Civil Registration System, MHA",dc.crsorgi.gov.in,mail.dc.crsorgi.gov.in.web.phpii.site,Suspected,,
+284,"Civil Registration System, MHA",dc.crsorgi.gov.in,ww25.cpanel.crsorgi.gov.in.index.php.recidenceup.xyz,Suspected,,
+285,"Civil Registration System, MHA",dc.crsorgi.gov.in,ww25.crsorgi.gov.in.bdvr.co,Suspected,,
+286,"Civil Registration System, MHA",dc.crsorgi.gov.in,www.dc.crsorgi.gov.in.sevamaster.shop,Suspected,,
+287,"Civil Registration System, MHA",dc.crsorgi.gov.in,www.dcr.crsorgi.gov.in.viewall.in,Suspected,,
+288,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-govs.in,Suspected,,
+289,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgidc.co.in,Suspected,,
+290,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigoov.co.in,Suspected,,
+291,"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgii-govi.in,Suspected,,
+292,HDFC Bank,hdfcbank.com,hdfcl.in,Suspected,,
+293,HDFC Bank,hdfcbank.com,hdfcbanklogin.com,Phishing,hdfcbanklogin.pdf,
+294,HDFC Bank,hdfcbank.com,myhdfccard.com,Phishing,myhdfccard.pdf,
+295,HDFC Bank,hdfcbank.com,hdfcardcare.com,Phishing,hdfcardcare.pdf,
+296,HDFC Bank,hdfcbank.com,hdrewardcard.com,Phishing,hdrewardcard.pdf,
+297,HDFC Bank,hdfcbank.com,hdfcbank.red,Suspected,,
+298,HDFC Bank,hdfcbank.com,hdfcbank.city,Suspected,,
+299,HDFC Bank,hdfcbank.com,hdfcbanks.live,Suspected,,
+300,HDFC Bank,hdfcbank.com,hdfcbd.com,Suspected,,
+301,HDFC Bank,hdfcbank.com,hdfcrewardz.in,Suspected,,
+302,HDFC Bank,hdfcbank.com,myhdfc.in,Suspected,,
+303,HDFC Bank,hdfcbank.com,hdfc-home-loan-538066002.today,Suspected,,
+304,HDFC Bank,hdfcbank.com,hdfcvg.com,Suspected,,
+305,HDFC Bank,hdfcbank.com,hdfcsec.co.in,Suspected,,
+306,HDFC Bank,hdfcbank.com,hdfcbank.services,Suspected,,
+307,HDFC Bank,hdfcbank.com,hdfccredilaloan.net,Suspected,,
+308,HDFC Bank,hdfcbank.com,hdfc-home-253888985.click,Suspected,,
+309,HDFC Bank,hdfcbank.com,hdfc-home-336577138.click,Suspected,,
+310,HDFC Bank,hdfcbank.com,hdfcsupport.info,Suspected,,
+311,HDFC Bank,hdfcbank.com,hdfc-bank-internet-banking.cfd,Suspected,,
+312,HDFC Bank,hdfcbank.com,hdfc-sif.in,Suspected,,
+313,HDFC Bank,hdfcbank.com,hdfcsif.in,Suspected,,
+314,HDFC Bank,hdfcbank.com,hdfc-bank.cfd,Suspected,,
+315,HDFC Bank,hdfcbank.com,hd23-df3.firebaseapp.com,Phishing,,Tunneling Services
+316,HDFC Bank,hdfcbank.com,hd09-fc98.firebaseapp.com,Phishing,,Tunneling Services
+317,HDFC Bank,hdfcbank.com,hd5h-mk5.firebaseapp.com,Phishing,,Tunneling Services
+318,HDFC Bank,hdfcbank.com,ewew-b4d13.firebaseapp.com,Phishing,,Tunneling Services
+319,HDFC Bank,hdfcbank.com,hd15-nmh1.firebaseapp.com,Phishing,,Tunneling Services
+320,HDFC Bank,hdfcbank.com,h-11av.firebaseapp.com,Phishing,,Tunneling Services
+321,HDFC Bank,hdfcbank.com,hdiy-3a.firebaseapp.com,Phishing,,Tunneling Services
+322,HDFC Bank,hdfcbank.com,bfse-5378c.firebaseapp.com,Phishing,,Tunneling Services
+323,HDFC Bank,hdfcbank.com,hd-1fa.firebaseapp.com,Phishing,,Tunneling Services
+324,HDFC Bank,hdfcbank.com,hd2-fy.firebaseapp.com,Phishing,,Tunneling Services
+325,HDFC Bank,hdfcbank.com,hdfccapital.net,Phishing,,
+326,HDFC Bank,hdfcbank.com,hdfcbankvyapar.com,Phishing,,
+327,HDFC Bank,hdfcbank.com,hdfcbankdinersclub.in,Suspected,,
+328,HDFC Bank,hdfcbank.com,hdfcmutualfund.co.in,Suspected,,
+329,HDFC Bank,hdfcbank.com,hdfcmutualfunds.co.in,Suspected,,
+330,HDFC Bank,hdfcbank.com,hdfcbankabslitraining.in,Suspected,,
+331,HDFC Bank,hdfcbank.com,hdfcalerts.in,Suspected,,
+332,HDFC Bank,hdfcbank.com,hdfcpay.in,Suspected,,
+333,HDFC Bank,hdfcbank.com,hdfcmfsipsaheli.in,Suspected,,
+334,HDFC Bank,hdfcbank.com,ahdfcy.com,Suspected,,
+335,HDFC Bank,hdfcbank.com,hdfc-bank.in,Suspected,,
+336,HDFC Bank,hdfcbank.com,hdfcbank.app,Suspected,,
+337,HDFC Bank,hdfcbank.com,hdfcbank.ninja,Suspected,,
+338,HDFC Bank,hdfcbank.com,hdfcbank.pink,Suspected,,
+339,HDFC Bank,hdfcbank.com,hdfcbank.science,Suspected,,
+340,HDFC Bank,hdfcbank.com,hdfcbank.sale,Suspected,,
+341,HDFC Bank,hdfcbank.com,hdfcbank.bet,Suspected,,
+342,HDFC Bank,hdfcbank.com,hdfcbank.bingo,Suspected,,
+343,HDFC Bank,hdfcbank.com,hdfcbank.black,Suspected,,
+344,HDFC Bank,hdfcbank.com,hdfcbank.business,Suspected,,
+345,HDFC Bank,hdfcbank.com,hdfcbank.buzz,Suspected,,
+346,HDFC Bank,hdfcbank.com,hdfcbank.cash,Suspected,,
+347,HDFC Bank,hdfcbank.com,hdfcbank.chat,Suspected,,
+348,HDFC Bank,hdfcbank.com,hdfcbank.cheap,Suspected,,
+349,HDFC Bank,hdfcbank.com,hdfcbank.construction,Suspected,,
+350,HDFC Bank,hdfcbank.com,hdfcbank.directory,Suspected,,
+351,HDFC Bank,hdfcbank.com,hdfcbank.florist,Suspected,,
+352,HDFC Bank,hdfcbank.com,hdfcbank.furniture,Suspected,,
+353,HDFC Bank,hdfcbank.com,hdfcbank.gifts,Suspected,,
+354,HDFC Bank,hdfcbank.com,hdfcbank.golf,Suspected,,
+355,HDFC Bank,hdfcbank.com,hdfcbank.industries,Suspected,,
+356,HDFC Bank,hdfcbank.com,hdfcbank.institute,Suspected,,
+357,HDFC Bank,hdfcbank.com,hdfcbank.marketing,Suspected,,
+358,HDFC Bank,hdfcbank.com,hdfcbank.news,Suspected,,
+359,HDFC Bank,hdfcbank.com,hdfcbank.camp,Suspected,,
+360,HDFC Bank,hdfcbank.com,hdfcbank.careers,Suspected,,
+361,HDFC Bank,hdfcbank.com,hdfcbank.contact,Suspected,,
+362,HDFC Bank,hdfcbank.com,hdfcbank.engineer,Suspected,,
+363,HDFC Bank,hdfcbank.com,hdfcbank.live,Suspected,,
+364,HDFC Bank,hdfcbank.com,hdfcbank.coach,Suspected,,
+365,HDFC Bank,hdfcbank.com,hdfcbank.computer,Suspected,,
+366,HDFC Bank,hdfcbank.com,hdfcbank.events,Suspected,,
+367,HDFC Bank,hdfcbank.com,hdfcbank.clinic,Suspected,,
+368,HDFC Bank,hdfcbank.com,hdfcbank.delivery,Suspected,,
+369,HDFC Bank,hdfcbank.com,hdfcbank.faith,Suspected,,
+370,HDFC Bank,hdfcbank.com,hdfcbank.football,Suspected,,
+371,HDFC Bank,hdfcbank.com,hdfcbank.fund,Suspected,,
+372,HDFC Bank,hdfcbank.com,hdfcbank.irish,Suspected,,
+373,HDFC Bank,hdfcbank.com,hdfcbank.kaufen,Suspected,,
+374,HDFC Bank,hdfcbank.com,hdfcbank.markets,Suspected,,
+375,HDFC Bank,hdfcbank.com,hdfcbank.media,Suspected,,
+376,HDFC Bank,hdfcbank.com,hdfcbank.solar,Suspected,,
+377,HDFC Bank,hdfcbank.com,hdfcbank.singles,Suspected,,
+378,HDFC Bank,hdfcbank.com,hdfcbank.party,Suspected,,
+379,HDFC Bank,hdfcbank.com,hdfcbank.pizza,Suspected,,
+380,HDFC Bank,hdfcbank.com,hdfcbank.school,Suspected,,
+381,HDFC Bank,hdfcbank.com,hdfcbank-ypb.in,Suspected,,
+382,HDFC Bank,hdfcbank.com,hdfcbankfinance.net,Suspected,,
+383,HDFC Bank,hdfcbank.com,hdfcsecurities.in,Suspected,,
+384,HDFC Bank,hdfcbank.com,hdfcorg.co.in,Suspected,,
+385,HDFC Bank,hdfcbank.com,yyhdfcci.shop,Suspected,,
+386,HDFC Bank,hdfcbank.com,hdfcai.net,Suspected,,
+387,HDFC Bank,hdfcbank.com,hdfcbank.today,Suspected,,
+388,HDFC Bank,hdfcbank.com,hdfconline.co.in,Suspected,,
+389,HDFC Bank,hdfcbank.com,hdfc-story.xyz,Suspected,,
+390,HDFC Bank,hdfcbank.com,hdfcbankinfo.co.in,Suspected,,
+391,HDFC Bank,hdfcbank.com,hdfc-banking.co.in,Suspected,,
+392,HDFC Bank,hdfcbank.com,hdfcco.co.in,Suspected,,
+393,HDFC Bank,hdfcbank.com,hdfc-loans.in,Suspected,,
+394,HDFC Bank,hdfcbank.com,hdfcbank.store,Suspected,,
+395,HDFC Bank,hdfcbank.com,hdfc.net.in,Suspected,,
+396,HDFC Bank,hdfcbank.com,hdfcm.com,Suspected,,
+397,HDFC Bank,hdfcbank.com,alerts-hdfcbank.net,Suspected,,
+398,HDFC Bank,hdfcbank.com,thehdfc.co.in,Suspected,,
+399,HDFC Bank,hdfcbank.com,thehdfc.net.in,Suspected,,
+400,HDFC Bank,hdfcbank.com,thehdfc.in,Suspected,,
+401,HDFC Bank,hdfcbank.com,hffcbank.com,Suspected,,
+402,HDFC Bank,hdfcbank.com,hdfcbank.poker,Suspected,,
+403,HDFC Bank,hdfcbank.com,hdfcbanknet.info,Suspected,,
+404,HDFC Bank,hdfcbank.com,hdfcpolicy.in,Suspected,,
+405,HDFC Bank,hdfcbank.com,dchdfcbank.com,Suspected,,
+406,HDFC Bank,hdfcbank.com,hdfcbank.games,Suspected,,
+407,HDFC Bank,hdfcbank.com,hdfcbank.support,Suspected,,
+408,HDFC Bank,hdfcbank.com,hdfbank.com,Suspected,,
+409,HDFC Bank,hdfcbank.com,hdfcbak.com,Suspected,,
+410,HDFC Bank,hdfcbank.com,hdfcbani.com,Suspected,,
+411,HDFC Bank,hdfcbank.com,hdfcbank.ltd,Suspected,,
+412,HDFC Bank,hdfcbank.com,hdfcbank.uk,Suspected,,
+413,HDFC Bank,hdfcbank.com,hdfcbanki.com,Suspected,,
+414,HDFC Bank,hdfcbank.com,hdfcbanl.com,Suspected,,
+415,HDFC Bank,hdfcbank.com,hdfcbsnk.com,Suspected,,
+416,HDFC Bank,hdfcbank.com,hdfcbwnk.com,Suspected,,
+417,HDFC Bank,hdfcbank.com,hdfcnank.com,Suspected,,
+418,HDFC Bank,hdfcbank.com,hdfcergopolicyrenewalinsurances.in,Suspected,,
+419,HDFC Bank,hdfcbank.com,hdfcbankonline.in,Suspected,,
+420,HDFC Bank,hdfcbank.com,hdfc.ind.in,Suspected,,
+421,HDFC Bank,hdfcbank.com,hdfcbankltd.in,Suspected,,
+422,HDFC Bank,hdfcbank.com,hdfcsa1es.co.in,Suspected,,
+423,HDFC Bank,hdfcbank.com,loginhdfc.in,Suspected,,
+424,HDFC Bank,hdfcbank.com,mycardhdfc.in,Suspected,,
+425,HDFC Bank,hdfcbank.com,hdfcodes.site,Suspected,,
+426,HDFC Bank,hdfcbank.com,hdfcretail.in,Suspected,,
+427,HDFC Bank,hdfcbank.com,hdfcsales.info,Suspected,,
+428,HDFC Bank,hdfcbank.com,hdfchousingfinance.com,Suspected,,
+429,HDFC Bank,hdfcbank.com,hdfcbank.netportall.com,Suspected,,
+430,HDFC Bank,hdfcbank.com,hdfccareer.in,Suspected,,
+431,HDFC Bank,hdfcbank.com,hdfc.com.in,Suspected,,
+432,HDFC Bank,hdfcbank.com,hdfcergorenewal.in,Suspected,,
+433,HDFC Bank,hdfcbank.com,hdfcsecurities.co.in,Suspected,,
+434,HDFC Bank,hdfcbank.com,myaccounthdfclife.co.in,Suspected,,
+435,HDFC Bank,hdfcbank.com,hdfcbankloan.in,Suspected,,
+436,HDFC Bank,hdfcbank.com,hdfcbankcreditcard.in,Suspected,,
+437,HDFC Bank,hdfcbank.com,hdfcincrase.today,Suspected,,
+438,HDFC Bank,hdfcbank.com,hdfcbanking.org,Suspected,,
+439,HDFC Bank,hdfcbank.com,hdfcergoinsurancerenewal.in,Suspected,,
+440,HDFC Bank,hdfcbank.com,workonlinehdfcbank.com,Suspected,,
+441,HDFC Bank,hdfcbank.com,xhdfc.com,Suspected,,
+442,HDFC Bank,hdfcbank.com,hdfc-bonus.cfd,Suspected,,
+443,HDFC Bank,hdfcbank.com,hd94-fc67.firebaseapp.com,Phishing,,Tunneling Services
+444,HDFC Bank,hdfcbank.com,whsh01-ksj18.firebaseapp.com,Phishing,,Tunneling Services
+445,HDFC Bank,hdfcbank.com,hcfc-b6a51.firebaseapp.com,Phishing,,Tunneling Services
+446,HDFC Bank,hdfcbank.com,sks08-akwo22.firebaseapp.com,Phishing,,Tunneling Services
+447,HDFC Bank,hdfcbank.com,hdx6-hdr6.firebaseapp.com,Phishing,,Tunneling Services
+448,HDFC Bank,hdfcbank.com,hdsxd1.firebaseapp.com/f1,Phishing,,Tunneling Services
+449,HDFC Bank,hdfcbank.com,hda18-ms1.firebaseapp.com/,Phishing,,Tunneling Services
+450,HDFC Bank,hdfcbank.com,hd31-md1.firebaseapp.com/f1,Phishing,,Tunneling Services
+451,HDFC Bank,hdfcbank.com,hd22-mu2x.firebaseapp.com/f1,Phishing,,Tunneling Services
+452,HDFC Bank,hdfcbank.com,hd21-mkw1.firebaseapp.com/f1,Phishing,,Tunneling Services
+453,HDFC Bank,hdfcbank.com,hd4s-kp4d.firebaseapp.com/f1,Phishing,,Tunneling Services
+454,HDFC Bank,hdfcbank.com,hd3s-kour4.firebaseapp.com/f1,Phishing,,Tunneling Services
+455,HDFC Bank,hdfcbank.com,hdec-f13ed.firebaseapp.com/f1 ,Phishing,,Tunneling Services
+456,HDFC Bank,hdfcbank.com,jsjjs09-d097e.firebaseapp.com/f1 ,Phishing,,Tunneling Services
+457,HDFC Bank,hdfcbank.com,hd1-mka1.firebaseapp.com/f1 ,Phishing,,Tunneling Services
+458,HDFC Bank,hdfcbank.com,hd2a-mkae2.firebaseapp.com/f1 ,Phishing,,Tunneling Services
+459,HDFC Bank,hdfcbank.com,hd1-mkd1.firebaseapp.com/f1 ,Phishing,,Tunneling Services
+460,HDFC Bank,hdfcbank.com,hbcd-f016c.firebaseapp.com/f1 ,Phishing,,Tunneling Services
+461,HDFC Bank,hdfcbank.com,hd-mkf24.firebaseapp.com/f1,Phishing,,Tunneling Services
+462,HDFC Bank,hdfcbank.com,hd4w-kfd4.firebaseapp.com/,Phishing,,Tunneling Services
+463,HDFC Bank,hdfcbank.com,"
+hd8r-mkfd8s.firebaseapp.com/",Phishing,,Tunneling Services
+464,HDFC Bank,hdfcbank.com,hd6-ms6d.firebaseapp.com/f1,Phishing,,Tunneling Services
+465,HDFC Bank,hdfcbank.com,hd4-mfh4d.firebaseapp.com/f1,Phishing,,Tunneling Services
+466,HDFC Bank,hdfcbank.com,hd3-md3x.firebaseapp.com/f1,Phishing,,Tunneling Services
+467,HDFC Bank,hdfcbank.com,hxz-55yt.firebaseapp.com,Phishing,,Tunneling Services
+468,HDFC Bank,hdfcbank.com,h-11av.firebaseapp.com/,Phishing,,Tunneling Services
+469,HDFC Bank,hdfcbank.com,trde-bef50.firebaseapp.com/,Phishing,,Tunneling Services
+470,HDFC Bank,hdfcbank.com,aaaqq-89cae.firebaseapp.com/,Phishing,,Tunneling Services
+471,HDFC Bank,hdfcbank.com,hd-1wi.firebaseapp.com/ka,Phishing,,Tunneling Services
+472,HDFC Bank,hdfcbank.com,hdasw-44086.firebaseapp.com,Phishing,,Tunneling Services
+473,HDFC Bank,hdfcbank.com,hyt-1fa.firebaseapp.com/ka,Phishing,,Tunneling Services
+474,HDFC Bank,hdfcbank.com,yuhh-b49cd.firebaseapp.com,Phishing,,Tunneling Services
+475,HDFC Bank,hdfcbank.com,awsz-81822.firebaseapp.com,Phishing,,Tunneling Services
+476,HDFC Bank,hdfcbank.com,ljhy-128fd.firebaseapp.com,Phishing,,Tunneling Services
+477,HDFC Bank,hdfcbank.com,nmcv-5cc34.firebaseapp.com,Phishing,,Tunneling Services
+478,HDFC Bank,hdfcbank.com,dfkjd-b7601.firebaseapp.com,Phishing,,Tunneling Services
+479,HDFC Bank,hdfcbank.com,hgjk-7354f.firebaseapp.com,Phishing,,Tunneling Services
+480,HDFC Bank,hdfcbank.com,kilik-eb4d5.firebaseapp.com,Phishing,,Tunneling Services
+481,HDFC Bank,hdfcbank.com,dfjf-b29b1.firebaseapp.com,Phishing,,Tunneling Services
+482,HDFC Bank,hdfcbank.com,mnjde-b2973.firebaseapp.com,Phishing,,Tunneling Services
+483,HDFC Bank,hdfcbank.com,fekjre-df4e4.firebaseapp.com/,Phishing,,Tunneling Services
+484,HDFC Bank,hdfcbank.com,fyyu-3f1de.firebaseapp.com,Phishing,,Tunneling Services
+485,HDFC Bank,hdfcbank.com,ewkw-a4ef1.firebaseapp.com,Phishing,,Tunneling Services
+486,HDFC Bank,hdfcbank.com,erwe-3b3d0.firebaseapp.com/,Phishing,,Tunneling Services
+487,HDFC Bank,hdfcbank.com,dfkdd-b3641.firebaseapp.com,Phishing,,Tunneling Services
+488,HDFC Bank,hdfcbank.com,jai-amma.firebaseapp.com,Phishing,,Tunneling Services
+489,HDFC Bank,hdfcbank.com,radhe--jai.firebaseapp.com,Phishing,,Tunneling Services
+490,HDFC Bank,hdfcbank.com,ukfr-c5da9.firebaseapp.com,Phishing,,Tunneling Services
+491,HDFC Bank,hdfcbank.com,shya-pjt9.firebaseapp.com,Phishing,,Tunneling Services
+492,HDFC Bank,hdfcbank.com,hd-ujfc1.firebaseapp.com,Phishing,,Tunneling Services
+493,HDFC Bank,hdfcbank.com,dfg-kmn.firebaseapp.com/a,Phishing,,Tunneling Services
+494,HDFC Bank,hdfcbank.com,rane-1d1ee.firebaseapp.com/h,Phishing,,Tunneling Services
+495,HDFC Ergo,hdfcergo.com,hdfcergoinsurancerenewpolicy.in,Suspected,,
+496,HDFC Ergo,hdfcergo.com,hdfcergorenewhealthinsurancepolicy.in,Suspected,,
+497,HDFC Ergo,hdfcergo.com,hdfcergohealthinsurancerenewyourpolicyhere.in,Suspected,,
+498,HDFC Ergo,hdfcergo.com,hdfcergogeneralhealthinsurance.in,Suspected,,
+499,HDFC Ergo,hdfcergo.com,hdfcergopolicyrenewhere.in,Suspected,,
+500,HDFC Ergo,hdfcergo.com,hdfcergopolicyrenewinsurances.in,Suspected,,
+501,HDFC Ergo,hdfcergo.com,hdfcergorenewinsurancehere.in,Suspected,,
+502,HDFC Ergo,hdfcergo.com,hdfcergorenewalpolicy.in,Suspected,,
+503,HDFC Ergo,hdfcergo.com,hdfcergopolicyrenewalinsurance.in,Phishing,,
+504,HDFC Life,hdfclife.com,el-hdfclife.in,Suspected,,
+505,HDFC Life,hdfclife.com,hdfclife-el.in,Suspected,,
+506,HDFC Life,hdfclife.com,el-hdfclife.co.in,Suspected,,
+507,ICICI Bank,icicibank.com,loginicici.com,Phishing,loginicici.pdf,
+508,ICICI Bank,icicibank.com,icici-india.com,Phishing,icici-india.pdf,
+509,ICICI Bank,icicibank.com,icicilogin.com,Phishing,icicilogin.com.pdf,
+510,ICICI Bank,icicibank.com,country3.icicibank.adobecqms.net,Phishing,country3.icicibank.adobecqms.net.pdf,
+511,ICICI Bank,icicibank.com,icicibctk.icu,Phishing,icicibctk.icu.pdf,
+512,ICICI Bank,icicibank.com,icicibank-coin.buzz,Phishing,icicibank-coin.buzz.pdf,
+513,ICICI Bank,icicibank.com,icicibank-coin.top,Phishing,icicibank-coin.top.pdf,
+514,ICICI Bank,icicibank.com,icicincion.top,Phishing,icicincion.top.pdf,
+515,ICICI Bank,icicibank.com,icicibank-nwnb.top,Phishing,icicibank-nwnb.top.pdf,
+516,ICICI Bank,icicibank.com,icici-paypoint.cfd,Phishing,icici-paypoint.cfd.pdf,
+517,ICICI Bank,icicibank.com,icici-paypoint.sbs,Phishing,icici-paypoint.sbs.pdf,
+518,ICICI Bank,icicibank.com,icici-paypoint.top,Phishing,icici-paypoint.top.pdf,
+519,ICICI Bank,icicibank.com,icici-paypoints.cfd,Phishing,icici-paypoints.cfd.pdf,
+520,ICICI Bank,icicibank.com,icici-paypoints.sbs,Phishing,icici-paypoints.sbs.pdf,
+521,ICICI Bank,icicibank.com,icici-paylink.cfd,Phishing,icici-paylink.cfd.pdf,
+522,ICICI Bank,icicibank.com,icici-paylink.xyz,Phishing,icici-paylink.xyz.pdf,
+523,ICICI Bank,icicibank.com,imobileservices.online,Phishing,imobileservices.online.pdf,
+524,ICICI Bank,icicibank.com,country1.icicibank.adobecqms.net,Phishing,country1.icicibank.adobecqms.net.pdf,
+525,ICICI Bank,icicibank.com,icicibahnk.com,Suspected,,
+526,ICICI Bank,icicibank.com,icicibajnk.com,Suspected,,
+527,ICICI Bank,icicibank.com,icicibanc.com,Suspected,,
+528,ICICI Bank,icicibank.com,icicibasnk.com,Suspected,,
+529,ICICI Bank,icicibank.com,icicibamnk.com,Suspected,,
+530,ICICI Bank,icicibank.com,iciciappstore.in,Suspected,,
+531,ICICI Bank,icicibank.com,icicicardapp.co.in,Suspected,,
+532,ICICI Bank,icicidirect.com,icicidirectfin.in,Suspected,,
+533,ICICI Bank,icicibank.com,icicifin.in,Suspected,,
+534,ICICI Bank,icicibank.com,icicibank.tech,Suspected,,
+535,ICICI Bank,icicibank.com,iciciinfor.website,Suspected,,
+536,ICICI Bank,icicibank.com,icicicoins.sbs,Suspected,,
+537,ICICI Bank,icicibank.com,icici-game.in,Suspected,,
+538,ICICI Bank,icicibank.com,icicichest.in,Suspected,,
+539,ICICI Bank,icicibank.com,icicicarloans.in,Suspected,,
+540,ICICI Bank,icicibank.com,icici-paylink.sbs,Suspected,,
+541,ICICI Bank,icicibank.com,icicib.co.in,Suspected,,
+542,ICICI Bank,icicibank.com,iciciback.top,Suspected,,
+543,ICICI Bank,icicibank.com,icicibank.online,Suspected,,
+544,ICICI Bank,icicibank.com,icicibank.website,Suspected,,
+545,ICICI Bank,icicibank.com,icicibazk.top,Suspected,,
+546,ICICI Bank,icicibank.com,icicibxek.shop,Suspected,,
+547,ICICI Bank,icicibank.com,icicibxsak.shop,Suspected,,
+548,ICICI Bank,icicibank.com,icicibxsek.shop,Suspected,,
+549,ICICI Bank,icicibank.com,icicibxsrk.shop,Suspected,,
+550,ICICI Bank,icicibank.com,iciciibank.top,Suspected,,
+551,ICICI Bank,icicibank.com,icici.homes,Suspected,,
+552,ICICI Bank,icicibank.com,icicibankcareer.xyz,Suspected,,
+553,ICICI Bank,icicibank.com,icicibankpersonalloan.xyz,Suspected,,
+554,ICICI Bank,icicibank.com,points-icici.cfd,Suspected,,
+555,ICICI Bank,icicibank.com,points-icici.click,Suspected,,
+556,ICICI Bank,icicibank.com,points-icici.top,Suspected,,
+557,ICICI Bank,icicibank.com,points-icici.xyz,Suspected,,
+558,ICICI Bank,icicibank.com,icici.xyz,Suspected,,
+559,ICICI Bank,icicibank.com,icicimua520.xyz,Suspected,,
+560,ICICI Bank,icicibank.com,imobile.services,Suspected,,
+561,ICICI bank,icicibank.com,icicilbank.vip,Suspected,,
+562,ICICI bank,icicibank.com,icicillbank.vip,Suspected,,
+563,ICICI Bank,icicibank.com,iciciibank.vip,Suspected,,
+564,ICICI Bank,icicibank.com,icicibanka.sbs,Suspected,,
+565,ICICI Bank,icicibank.com,icicirewardspro.in,Phishing,,
+566,ICICI Bank,icicibank.com,icicibak.com,Phishing,,
+567,ICICI Bank,icicibank.com,icicirewardstore.in,Suspected,,
+568,ICICI Bank,icicibank.com,icicipruamc.co.in,Suspected,,
+569,ICICI Bank,icicibank.com,icicicreditcards.in,Suspected,,
+570,ICICI Bank,icicibank.com,mycardicici.in,Suspected,,
+571,ICICI Bank,icicibank.com,icicipruamc.in,Suspected,,
+572,ICICI Bank,icicibank.com,icicicard.xyz,Suspected,,
+573,ICICI Bank,icicibank.com,iciciapp.in,Suspected,,
+574,ICICI Bank,icicibank.com,mycardicici.co.in,Suspected,,
+575,ICICI Bank,icicibank.com,icici-bank.org.in,Suspected,,
+576,ICICI Bank,icicibank.com,icicibankstatement.co.in,Suspected,,
+577,ICICI Bank,icicibank.com,iciciapp.co.in,Suspected,,
+578,ICICI Bank,icicibank.com,iciciicard.in,Suspected,,
+579,ICICI Bank,icicibank.com,cardiciciapply.co.in,Suspected,,
+580,ICICI Bank,icicibank.com,icicibankcarrers.in,Suspected,,
+581,ICICI Bank,icicibank.com,icicimyrewards.net,Suspected,,
+582,ICICI Bank,icicibank.com,icicisavingsreward.net ,Suspected,,
+583,ICICI Bank,icicibank.com,icicibank.auction,Suspected,,
+584,ICICI Bank,icicibank.com,icicibank.boutique,Suspected,,
+585,ICICI Bank,icicibank.com,icicibank.buzz,Suspected,,
+586,ICICI Bank,icicibank.com,icici.direct,Suspected,,
+587,ICICI Bank,icicibank.com,icicibank.chat,Suspected,,
+588,ICICI Bank,icicibank.com,icicibank.florist,Suspected,,
+589,ICICI Bank,icicibank.com,infoicicibank.xyz,Suspected,,
+590,ICICI Bank,icicibank.com,icicidemafinance.in,Suspected,,
+591,ICICI Bank,icicibank.com,icicico.in,Suspected,,
+592,ICICI Bank,icicibank.com,icicidemat.co.in,Suspected,,
+593,ICICI Bank,icicibank.com,icici-demat-168169687.click,Suspected,,
+594,ICICI Bank,icicibank.com,theicici.co.in,Suspected,,
+595,ICICI Bank,icicibank.com,icicibank.bingo,Suspected,,
+596,ICICI Bank,icicibank.com,icicibank.bond,Suspected,,
+597,ICICI Bank,icicibank.com,icicibank.college,Suspected,,
+598,ICICI Bank,icicibank.com,icicibank.download,Suspected,,
+599,ICICI Bank,icicibank.com,icicibank.engineer,Suspected,,
+600,ICICI Bank,icicibank.com,icicibank.events,Suspected,,
+601,ICICI Bank,icicibank.com,icicibank.football,Suspected,,
+602,ICICI Bank,icicibank.com,icicibank.furniture,Suspected,,
+603,ICICI Bank,icicibank.com,icicibank.gifts,Suspected,,
+604,ICICI Bank,icicibank.com,icicibank.global,Suspected,,
+605,ICICI Bank,icicibank.com,icicibank.golf,Suspected,,
+606,ICICI Bank,icicibank.com,icicibank.group,Suspected,,
+607,ICICI Bank,icicibank.com,icicibank.hockey,Suspected,,
+608,ICICI Bank,icicibank.com,icicibank.homes,Suspected,,
+609,ICICI Bank,icicibank.com,icicibank.industries,Suspected,,
+610,ICICI Bank,icicibank.com,icicibank.institute,Suspected,,
+611,ICICI Bank,icicibank.com,icicibank.kaufen,Suspected,,
+612,ICICI Bank,icicibank.com,icicibank.mba,Suspected,,
+613,ICICI Bank,icicibank.com,icicibank.plumbing,Suspected,,
+614,ICICI Bank,icicibank.com,icicibank.sbs,Suspected,,
+615,ICICI Bank,icicibank.com,icicibank.singles,Suspected,,
+616,ICICI Bank,icicibank.com,icicibank.media,Suspected,,
+617,ICICI Bank,icicibank.com,icicibank.men,Suspected,,
+618,ICICI Bank,icicibank.com,icicibank.rentals,Suspected,,
+619,ICICI Bank,icicibank.com,icicibank.run,Suspected,,
+620,ICICI Bank,icicibank.com,icicibank.sale,Suspected,,
+621,ICICI Bank,icicibank.com,icicibank.solar,Suspected,,
+622,ICICI Bank,icicibank.com,icicibank.studio,Suspected,,
+623,ICICI Bank,icicibank.com,icicibank.taxi,Suspected,,
+624,ICICI Bank,icicibank.com,icicibank.team,Suspected,,
+625,ICICI Bank,icicibank.com,icicibank.tools,Suspected,,
+626,ICICI Bank,icicibank.com,icicibank.vin,Suspected,,
+627,ICICI Bank,icicibank.com,icicibank.voyage,Suspected,,
+628,ICICI Bank,icicibank.com,icicibank.works,Suspected,,
+629,ICICI Bank,icicibank.com,icicibank.zone,Suspected,,
+630,ICICI Bank,icicibank.com,icicibamk.com,Suspected,,
+631,ICICI Bank,icicibank.com,icici.today,Suspected,,
+632,ICICI Bank,icicibank.com,icicbank.com,Suspected,,
+633,ICICI Bank,icicibank.com,icicibanj.com,Suspected,,
+634,ICICI Bank,icicibank.com,icicibank.live,Suspected,,
+635,ICICI Bank,icicibank.com,icicibannk.com,Suspected,,
+636,ICICI Bank,icicibank.com,icicipank.com,Suspected,,
+637,ICICI Bank,icicibank.com,iicicibank.com,Suspected,,
+638,ICICI Bank,icicibank.com,icicibank.poker,Suspected,,
+639,ICICI Bank,icicibank.com,icici.cash,Suspected,,
+640,ICICI Bank,icicibank.com,icicidirect.shop,Suspected,,
+641,ICICI Bank,icicibank.com,icicidirect.website,Suspected,,
+642,ICICI Bank,icicibank.com,iciciamc.in,Suspected,,
+643,ICICI Bank,icicibank.com,iciciloan.ltd,Suspected,,
+644,ICICI Bank,icicibank.com,icicinetbanking.in,Suspected,,
+645,ICICI Bank,icicibank.com,rewardicicimobile.in,Suspected,,
+646,ICICI Bank,icicibank.com,icicistoreapp.in,Suspected,,
+647,ICICI Bank,icicibank.com,icici-services.co.in,Suspected,,
+648,ICICI Bank,icicibank.com,icicibvank.com,Suspected,,
+649,ICICI Bank,icicibank.com,icicibwnk.com,Suspected,,
+650,ICICI Bank,icicibank.com,icicikbank.com,Suspected,,
+651,ICICI Bank,icicibank.com,iciciubank.com,Suspected,,
+652,ICICI Bank,icicibank.com,licicibank.com,Suspected,,
+653,ICICI Bank,icicibank.com,iciciprolife.com,Suspected,,
+654,ICICI Bank,icicibank.com,icicispor.in,Suspected,,
+655,ICICI Bank,icicibank.com,icicibank.ind.in,Suspected,,
+656,ICICI Bank,icicibank.com,icicicreditcard.com,Suspected,,
+657,ICICI Bank,icicibank.com,icicifastag.co.in,Suspected,,
+658,ICICI Bank,icicibank.com,icicifastag.in,Suspected,,
+659,ICICI Bank,icicibank.com,theicicirwd.co.in,Suspected,,
+660,ICICI Bank,icicibank.com,icici.online,Suspected,,
+661,ICICI Bank,icicibank.com,icicistoreapp.co.in,Suspected,,
+662,ICICI Bank,icicibank.com,icici-direct.info,Suspected,,
+663,ICICI Bank,icicibank.com,icicipru.in,Suspected,,
+664,ICICI Bank,icicibank.com,icicipru-amc.in,Suspected,,
+665,ICICI Bank,icicibank.com,icici-bank.sbs,Suspected,,
+666,ICICI Bank,icicibank.com,icici-direct.in,Suspected,,
+667,ICICI Bank,icicibank.com,icicisecurities.org.in,Suspected,,
+668,ICICI Bank,icicibank.com,icicibank-coin.cfd,Suspected,,
+669,ICICI Bank,icicibank.com,icicibank-in.homes,Suspected,,
+670,ICICI Bank,icicibank.com,icicibzak.shop,Suspected,,
+671,ICICI Bank,icicibank.com,icici-linkpoint.cfd,Suspected,,
+672,ICICI Bank,icicibank.com,icici-linkpoint.click,Suspected,,
+673,ICICI Bank,icicibank.com,icici-linkpoint.lol,Suspected,,
+674,ICICI Bank,icicibank.com,icici-linkpoint.top,Suspected,,
+675,ICICI Bank,icicibank.com,icici-linkpoint.xyz,Suspected,,
+676,ICICI Bank,icicibank.com,iciciinbank.cfd,Suspected,,
+677,ICICI bank,icicibank.com,0613iconnect.online,Suspected,,
+678,ICICI bank,icicibank.com,icicibankbg.cfd,Suspected,,
+679,ICICI bank,icicibank.com,icicibankbg.sbs,Suspected,,
+680,ICICI bank,icicibank.com,icicilbank.cfd,Suspected,,
+681,ICICI Bank,icicibank.com,icicibank.xyz,Suspected,,
+682,ICICI Lombard,icicilombard.com,icicilombard.xxx,Suspected,,
+683,ICICI Prudential Life Insurance,iciciprulife.com,iciciprulife-online.co.in,Suspected,,
+684,Indian Oil Corporation Limited (IOCL),iocl.com,ioclinfo.in,Suspected,,
+685,Indian Oil Corporation Limited (IOCL),iocl.com,tpilpgiocl.in,Suspected,,
+686,Indian Oil Corporation Limited (IOCL),iocl.com,indianiocl.top,Suspected,,
+687,Indian Oil Corporation Limited (IOCL),iocl.com,ioclsja.icu,Suspected,,
+688,Indian Oil Corporation Limited (IOCL),iocl.com,iocl.app,Suspected,,
+689,Indian Oil Corporation Limited (IOCL),iocl.com,iocllpg.in,Suspected,,
+690,Indian Oil Corporation Limited (IOCL),iocl.com,ioclghfd.top,Phishing,ioclghfd.top.pdf,
+691,Indian Oil Corporation Limited (IOCL),iocl.com,iocllinp.top,Phishing,iocllinp.top.pdf,
+692,Indian Oil Corporation Limited (IOCL),iocl.com,ioclpwts.top,Phishing,ioclpwts.top.pdf,
+693,Indian Oil Corporation Limited (IOCL),iocl.com,ioclshwe.top,Phishing,ioclshwe.top.pdf,
+694,Indian Oil Corporation Limited (IOCL),iocl.com,ioclshwg.top,Phishing,ioclshwg.top.pdf,
+695,Indian Oil Corporation Limited (IOCL),iocl.com,ioclshwhx.top,Phishing,ioclshwhx.top.pdf,
+696,Indian Oil Corporation Limited (IOCL),iocl.com,ioclshwsg.top,Phishing,ioclshwsg.top.pdf,
+697,Indian Oil Corporation Limited (IOCL),iocl.com,ioclsiuy.top,Phishing,ioclsiuy.top.pdf,
+698,Indian Oil Corporation Limited (IOCL),iocl.com,ioclsptrwa.top,Phishing,ioclsptrwa.top.pdf,
+699,Indian Oil Corporation Limited (IOCL),iocl.com,ioclxgsw.top,Phishing,ioclxgsw.top.pdf,
+700,Indian Oil Corporation Limited (IOCL),iocl.com,ioclywts.top,Phishing,ioclywts.top.pdf,
+701,Indian Oil Corporation Limited (IOCL),iocl.com,ioclsgwfg.top,Phishing,ioclsgwfg.top.pdf,
+702,Indian Oil Corporation Limited (IOCL),iocl.com,iocllumding.co.in,Phishing,iocllumding.co.in.pdf,
+703,Indian Oil Corporation Limited (IOCL),iocl.com,ioclsywt.top,Phishing,ioclsywt.top.pdf,
+704,Indian Oil Corporation Limited (IOCL),iocl.com,ioclgwag.top,Phishing,ioclgwag.top.pdf,
+705,Indian Oil Corporation Limited (IOCL),iocl.com,ioclshywtas.top,Phishing,ioclshywtas.top.pdf,
+706,Indian Oil Corporation Limited (IOCL),iocl.com,indianioclpts.top,Phishing,indianioclpts.top.pdf,
+707,Indian Oil Corporation Limited (IOCL),iocl.com,ioclapply.co.in,Suspected,,
+708,Indian Oil Corporation Limited (IOCL),iocl.com,ioclhgtx.top,Suspected,,
+709,Indian Oil Corporation Limited (IOCL),iocl.com,ioclindn.icu,Suspected,,
+710,Indian Oil Corporation Limited (IOCL),iocl.com,iocliurz.fun,Suspected,,
+711,Indian Oil Corporation Limited (IOCL),iocl.com,i8cl.com,Suspected,,
+712,Indian Oil Corporation Limited (IOCL),iocl.com,iiocl.com,Suspected,,
+713,Indian Oil Corporation Limited (IOCL),iocl.com,ioclapply.net,Suspected,,
+714,IRCTC,irctc.co.in,irctc.corover.ai,Phishing,irctc_corover_ai.pdf,
+715,IRCTC,irctc.co.in,irctc.ind.in,Suspected,,
+716,"National Crime Records Bureau, Ministry of Home Affairs",ncrb.gov.in,aeludi.cyou,Phishing,aeludi.cyou.pdf,Intelligence from Social Media Platform – X
+717,"National Crime Records Bureau, Ministry of Home Affairs",ncrb.gov.in,inludi.cyou,Phishing,inludi.cyou.pdf,Intelligence from Social Media Platform – X
+718,National Informatics Centre (NIC),email.gov.in,kavachsafety.in,Suspected,,
+719,National Informatics Centre (NIC),email.gov.in,kavachrail.in,Suspected,,
+720,National Informatics Centre (NIC),email.gov.in,kavach-ai.in,Suspected,,
+721,National Informatics Centre (NIC),email.gov.in,rudrakavach.in,Suspected,,
+722,National Informatics Centre (NIC),kavach.mail.gov.in,kavachonline.in,Suspected,,
+723,National Informatics Centre (NIC),email.gov.in,email-govs.click,Phishing,email-govs.click.pdf,
+724,National Informatics Centre (NIC),email.gov.in,twilight-glade-76955.pktriot.net,Phishing,twilight-glade-76955.pktriot.net.pdf,Tunneling Services
+725,National Informatics Centre (NIC),email.gov.in,email.gov.in.drdosurvey.info,Suspected,,
+726,National Informatics Centre (NIC),email.gov.in,zohidsindia.com/random/auth.php,Phishing,zohidsindia.pdf,
+727,National Informatics Centre (NIC),email.gov.in,email.gov.in.avtzyu.store,Suspected,,
+728,National Informatics Centre (NIC),email.gov.in,email.gov.in.briefcases.email,Suspected,,
+729,National Informatics Centre (NIC),email.gov.in,email.gov.in.defenceindia.ltd,Suspected,,
+730,National Informatics Centre (NIC),email.gov.in,email.gov.in.departmentofdefence.de,Suspected,,
+731,National Informatics Centre (NIC),email.gov.in,email.gov.in.departmentofspace.info,Suspected,,
+732,National Informatics Centre (NIC),email.gov.in,email.gov.in.indiangov.site,Suspected,,
+733,National Informatics Centre (NIC),email.gov.in,email.gov.in.modindia.link,Suspected,,
+734,National Informatics Centre (NIC),email.gov.in,emailindia.in,Suspected,,
+735,National Informatics Centre (NIC),kavach.mail.gov.in,kavach360.in,Suspected,,
+736,National Informatics Centre (NIC),kavach.mail.gov.in,kavach.biz,Suspected,,
+737,National Informatics Centre (NIC),accounts.mgovcloud.in,accounts.mgovcloud.in.cloudshare.digital,Suspected,,
+738,National Informatics Centre (NIC),accounts.mgovcloud.in,accounts.mgovcloud.in.virtualeoffice.cloud,Suspected,,
+739,National Informatics Centre (NIC),email.gov.in,email.gov.in.gov.in.ihws.co.in,Suspected,,
+740,National Informatics Centre (NIC),email.gov.in,email.gov.in.ihws.co.in,Suspected,,
+741,National Informatics Centre (NIC),email.gov.in,email.gov.in.leadadmin.in,Suspected,,
+742,National Informatics Centre (NIC),email.gov.in,email.gov.in.mygov.pw,Suspected,,
+743,National Informatics Centre (NIC),email.gov.in,email-info.dev,Suspected,,
+744,National Informatics Centre (NIC),email.gov.in,email-info.xyz,Suspected,,
+745,National Informatics Centre (NIC),nic.gov.in,nic-in.net,Suspected,,
+746,National Informatics Centre (NIC),email.gov.in,email-govs.in,Suspected,,
+747,National Informatics Centre (NIC),email.gov.in,nicemail.in,Suspected,,
+748,National Informatics Centre (NIC),email.gov.in,nic-mails.in,Suspected,,
+749,National Informatics Centre (NIC),email.gov.in,gov-email.com,Suspected,,
+750,National Informatics Centre (NIC),kavach.mail.gov.in,kavachh.co.in,Suspected,,
+751,National Informatics Centre (NIC),nic.gov.in,nic-tech.top,Suspected,,
+752,National Informatics Centre (NIC),nic.gov.in,nicmail.top,Suspected,,
+753,National Informatics Centre (NIC),email.gov.in,red-surf-08881.pktriot.net,Suspected,,
+754,National Informatics Centre (NIC),email.gov.in,email.gov.in.ministryofdefenceindia.org,Suspected,,
+755,National Informatics Centre (NIC),email.gov.in,email-gov.icu,Suspected,,
+756,National Informatics Centre (NIC),email.gov.in,mail.e-gov.in.ua,Suspected,,
+757,National Informatics Centre (NIC),email.gov.in,gov-nicz.cfd,Suspected,,
+758,National Informatics Centre (NIC),email.gov.in,nicemail.xyz,Suspected,,
+759,Punjab National Bank,pnbindia.in,helppnbindia.in,Suspected,,
+760,Punjab National Bank,pnbindia.in,pnbmail.co.in,Suspected,,
+761,SBI Card,sbicard.com,loginsbicard.in,Suspected,,
+762,SBI Card,sbicard.com,onlinesbicard.in,Suspected,,
+763,SBI Life,sbilife.co.in,onlineplanssbilife.co.in,Suspected,,
+764,SBI Life,sbilife.co.in,onlinesbilifeinsurance.co.in,Suspected,,
+765,SBI Life,sbilife.co.in,sbilifefinance.in,Suspected,,
+766,SBI Life,sbilife.co.in,sbilifeinsurancequote.co.in,Suspected,,
+767,SBI Life,sbilife.co.in,sbilifeinsurancequote.in,Suspected,,
+768,SBI Life,sbilife.co.in,sbilifeinsurancequote.net,Suspected,,
+769,SBI Life,sbilife.co.in,sbilifeinsuranceservices.co.in,Suspected,,
+770,SBI Life,sbilife.co.in,sbilifeinsuranceservices.in,Suspected,,
+771,SBI Life,sbilife.co.in,sbilifeinsuranceservices.net,Suspected,,
+772,SBI Life,sbilife.co.in,sbilifeonlineplans.co.in,Suspected,,
+773,SBI Life,sbilife.co.in,sbilifeonlineplans.in,Suspected,,
+774,SBI Life,sbilife.co.in,sbilifeonlineplans.net,Suspected,,
+775,SBI Life,sbilife.co.in,sbilifeplans.co.in,Suspected,,
+776,SBI Life,sbilife.co.in,sbilifeplans.in,Suspected,,
+777,SBI Life,sbilife.co.in,sbilifeplans.live,Suspected,,
+778,SBI Life,sbilife.co.in,sbilifeplans.net ,Suspected,,
+779,SBI Life,sbilife.co.in,sbilifepolicy.co.in,Suspected,,
+780,SBI Life,sbilife.co.in,onlinesbilifeinsurance.in,Suspected,,
+781,SBI Life,sbilife.co.in,onlinesbilifeinsurance.net,Suspected,,
+782,SBI Life,sbilife.co.in,sbiinsurance.in,Suspected,,
+783,SBI Life,sbilife.co.in,sbiinsurance.net,Suspected,,
+784,SBI Life,sbilife.co.in,sbilifefinance.net,Suspected,,
+785,SBI Life,sbilife.co.in,sbilifeinsurance.co.in,Suspected,,
+786,SBI Life,sbilife.co.in,sbilifeinsurance.net,Suspected,,
+787,SBI Life,sbilife.co.in,sbilifeinsuranceonline.co.in,Suspected,,
+788,SBI Life,sbilife.co.in,sbilifeinsuranceonline.in,Suspected,,
+789,SBI Life,sbilife.co.in,sbilifeinsuranceonline.net,Suspected,,
+790,SBI Life,sbilife.co.in,sbilifepolicy.in,Suspected,,
+791,State Bank Of India (SBI),sbi.co.in,sbibankcorp.co.in,Phishing,,
+792,State Bank Of India (SBI),sbi.co.in,mysbibank.co.in,Suspected,,
+793,State Bank Of India (SBI),sbi.co.in,alert-sbi.co.in,Suspected,,
+794,State Bank Of India (SBI),sbi.co.in,sbistatement.co.in,Suspected,,
+795,State Bank Of India (SBI),sbi.co.in,loginsbi.in,Suspected,,
+796,State Bank Of India (SBI),sbi.co.in,sbicardshr.in,Suspected,,
+797,State Bank Of India (SBI),sbi.co.in,updatessbi.co.in,Suspected,,
+798,State Bank Of India (SBI),sbi.co.in,sbifm.in,Suspected,,
+799,State Bank Of India (SBI),sbi.co.in,sbicardlogin.in,Suspected,,
+800,State Bank Of India (SBI),sbi.co.in,sbifashascholarship.in,Suspected,,
+801,State Bank Of India (SBI),sbi.co.in,sbifashascholarship.co.in,Suspected,,
+802,State Bank Of India (SBI),sbi.co.in,sbigrahaksevakendranet.co.in,Suspected,,
+803,State Bank Of India (SBI),sbi.co.in,sbi01-bank.co.in,Suspected,,
+804,State Bank Of India (SBI),sbi.co.in,wbsbi.co.in,Suspected,,
+805,State Bank Of India (SBI),sbi.co.in,sbionlinehelp.in,Suspected,,
+806,State Bank Of India (SBI),sbi.co.in,sbibroker.in,Suspected,,
+807,State Bank Of India (SBI),sbi.co.in,noeticsbiotech.co.in,Suspected,,
+808,State Bank Of India (SBI),sbi.co.in,alerts-sbi.net,Suspected,,
+809,State Bank Of India (SBI),sbi.co.in,esbi.in,Suspected,,
+810,State Bank Of India (SBI),sbi.co.in,esbi-informer.info,Suspected,,
+811,State Bank Of India (SBI),sbi.co.in,loanfinancesbi.co.in,Suspected,,
+812,State Bank Of India (SBI),sbi.co.in,onlinesbi.digital,Suspected,,
+813,State Bank Of India (SBI),sbi.co.in,sbibank.ind.in,Suspected,,
+814,State Bank Of India (SBI),sbi.co.in,sbiloanapply.in,Suspected,,
+815,State Bank Of India (SBI),sbi.co.in,sbirewardcard.in,Suspected,,
+816,State Bank Of India (SBI),sbi.co.in,csb1.lat,Suspected,,
+817,State Bank Of India (SBI),sbi.co.in,00674sbi.co.in,Suspected,,
+818,State Bank Of India (SBI),sbi.co.in,msbi.in,Suspected,,
+819,State Bank Of India (SBI),sbi.co.in,sbi13355cbs.co.in,Suspected,,
+820,State Bank Of India (SBI),sbi.co.in,sbifin.in,Suspected,,
+821,State Bank Of India (SBI),sbi.co.in,sbinbank.in,Suspected,,
+822,State Bank Of India (SBI),sbicard.com,sbicard.website,Suspected,,
+823,State Bank Of India (SBI),sbilife.co.in,sbilife.website,Suspected,,
+824,State Bank Of India (SBI),sbi.co.in,18sbip04.shop,Suspected,,
+825,State Bank Of India (SBI),sbi.co.in,sbiin.in,Suspected,,
+826,State Bank Of India (SBI),sbi.co.in,cybersupportsbi.co.in,Suspected,,
+827,State Bank Of India (SBI),sbi.co.in,sbi-alerts.co.in,Suspected,,
+828,State Bank Of India (SBI),sbicard.com,sbicardservice.in,Suspected,,
+829,State Bank Of India (SBI),sbi.co.in,sbiindia.in,Suspected,,
+830,State Bank Of India (SBI),sbi.co.in,sbindustries.org.in,Suspected,,
+831,State Bank Of India (SBI),sbi.co.in,sbinps.org,Suspected,,
+832,State Bank Of India (SBI),sbi.co.in,usbi.top,Suspected,,
+833,State Bank Of India (SBI),sbi.co.in,accounts-sbi.co.in,Suspected,,
+834,State Bank Of India (SBI),sbi.co.in,esbi.co.in,Suspected,,
+835,State Bank Of India (SBI),sbi.co.in,transactions-sbi.co.in,Suspected,,
+836,State Bank Of India (SBI),sbi.co.in,sbicmsbanglore.in,Suspected,,
+837,State Bank Of India (SBI),sbi.co.in,zonalsbi.co.in,Suspected,,
+838,State Bank Of India (SBI),sbi.co.in,sbico.net,Suspected,,
+839,State Bank Of India (SBI),sbi.co.in,noreplysbi.in,Suspected,,
+840,State Bank Of India (SBI),sbi.co.in,mysbi-co.net,Suspected,,
+841,State Bank Of India (SBI),sbi.co.in,sbi-updatb.xyz,Suspected,,
+842,State Bank Of India (SBI),sbi.co.in,sbi-update.cfd,Suspected,,
+843,State Bank Of India (SBI),sbi.co.in,sbi-update.top,Suspected,,
+844,State Bank Of India (SBI),sbi.co.in,sbi-update.xyz,Suspected,,
+845,State Bank Of India (SBI),sbi.co.in,sbi-updats.top,Suspected,,
+846,State Bank Of India (SBI),sbi.co.in,sbi-updats.xyz,Suspected,,
+847,State Bank Of India (SBI),sbi.co.in,sbi-updaty.top,Suspected,,
+848,State Bank Of India (SBI),sbi.co.in,sbi-updaty.xyz,Suspected,,
+849,State Bank Of India (SBI),sbi.co.in,sbiverify-jp.cfd,Suspected,,
+850,State Bank Of India (SBI),sbi.co.in,moli-bai.pages.dev,Phishing,,Tunneling Services
+851,State Bank Of India (SBI),sbi.co.in,ogf.pages.dev,Phishing,,Tunneling Services
+852,State Bank Of India (SBI),sbi.co.in,erftgj.pages.dev,Phishing,,Tunneling Services
+853,State Bank Of India (SBI),sbi.co.in,jhctth.pages.dev,Phishing,,Tunneling Services
+854,State Bank Of India (SBI),sbi.co.in,bee4.pages.dev,Phishing,,Tunneling Services
+855,State Bank Of India (SBI),sbi.co.in,pqvoy.pages.dev,Phishing,,Tunneling Services
+856,State Bank Of India (SBI),sbi.co.in,lkvgt.pages.dev,Phishing,,Tunneling Services
+857,State Bank Of India (SBI),sbi.co.in,wqoy.pages.dev,Phishing,,Tunneling Services
+858,State Bank Of India (SBI),sbi.co.in,sbikyc-5g4.pages.dev,Phishing,,Tunneling Services
+859,State Bank Of India (SBI),sbi.co.in,jkfnlk.pages.dev,Phishing,,Tunneling Services
+860,State Bank Of India (SBI),sbi.co.in,sav1h4da.vercel.app,Phishing,,Tunneling Services
+861,State Bank Of India (SBI),sbi.co.in,bczxx.vercel.app,Phishing,,Tunneling Services
+862,State Bank Of India (SBI),sbi.co.in,czsei.vercel.app,Phishing,,Tunneling Services
+863,State Bank Of India (SBI),sbi.co.in,sahc1d1yta.vercel.app/uof,Phishing,,Tunneling Services
+864,State Bank Of India (SBI),sbi.co.in,lkjbb.vercel.app,Phishing,,Tunneling Services
+865,State Bank Of India (SBI),sbi.co.in,sagv1ctd.vercel.app,Phishing,,Tunneling Services
+866,State Bank Of India (SBI),sbi.co.in,rdcvb.vercel.app,Phishing,,Tunneling Services
+867,State Bank Of India (SBI),sbi.co.in,kloii.vercel.app,Phishing,,Tunneling Services
+868,State Bank Of India (SBI),sbi.co.in,satydh7va.vercel.app/gor,Phishing,,Tunneling Services
+869,State Bank Of India (SBI),sbi.co.in,satysv5aj.vercel.app/pwr,Phishing,,Tunneling Services
+870,State Bank Of India (SBI),sbi.co.in,rsbi.online,Suspected,,
+871,State Bank Of India (SBI),sbi.co.in,sbibilisim.online,Suspected,,
+872,State Bank of India (SBI),sbi.co.in,sbii.co.in,Suspected,,
+873,State Bank of India (SBI),sbi.co.in,sbi-oiddasdeq.cfd,Suspected,,
+874,State Bank of India (SBI),sbi.co.in,sbi-oiderweq.cfd,Suspected,,
+875,State Bank of India (SBI),sbi.co.in,sbi-help.top,Suspected,,
+876,State Bank of India (SBI),sbi.co.in,sbi-help.xyz,Suspected,,
+877,State Bank of India (SBI),sbi.co.in,pqvoy.pages.dev/,Phishing,,Tunneling Services
+878,State Bank of India (SBI),sbi.co.in,sun1-3pr.pages.dev/eAqD,Phishing,,Tunneling Services
+879,State Bank of India (SBI),sbi.co.in,gtcgl.pages.dev,Phishing,,Tunneling Services
+880,State Bank of India (SBI),sbi.co.in,tgw8t54r.pages.dev/wq1,Phishing,,Tunneling Services
+881,State Bank of India (SBI),sbi.co.in,ciyk.pages.dev/,Phishing,,Tunneling Services
+882,State Bank of India (SBI),sbi.co.in,djal.pages.dev/,Phishing,,Tunneling Services
+883,State Bank of India (SBI),sbi.co.in,rewardsbi.pages.dev/public/,Phishing,,Tunneling Services
+884,State Bank of India (SBI),sbi.co.in,dcvtd.pages.dev,Phishing,,Tunneling Services
+885,State Bank of India (SBI),sbi.co.in,ktfju-21n.pages.dev,Phishing,,Tunneling Services
+886,State Bank of India (SBI),sbi.co.in,quxe.pages.dev,Phishing,,Tunneling Services
+887,State Bank of India (SBI),sbi.co.in,zirvjj.pages.dev,Phishing,,Tunneling Services
+888,State Bank of India (SBI),sbi.co.in,zoebo.pages.dev,Phishing,,Tunneling Services
+889,State Bank of India (SBI),sbi.co.in,vfhtlk.pages.dev,Phishing,,Tunneling Services
+890,State Bank of India (SBI),sbi.co.in,qotgj.pages.dev,Phishing,,Tunneling Services
+891,State Bank of India (SBI),sbi.co.in,yehiv.pages.dev/,Phishing,,Tunneling Services
+892,State Bank of India (SBI),sbi.co.in,fri9-4v8.pages.dev,Phishing,,Tunneling Services
+893,State Bank of India (SBI),sbi.co.in,fri7.pages.dev/,Phishing,,Tunneling Services
+894,State Bank of India (SBI),sbi.co.in,fri2.pages.dev,Phishing,,Tunneling Services
+895,State Bank of India (SBI),sbi.co.in,jazgy.pages.dev,Phishing,,Tunneling Services
+896,State Bank of India (SBI),sbi.co.in,qpmz.pages.dev,Phishing,,Tunneling Services
+897,State Bank of India (SBI),sbi.co.in,rew-czs.pages.dev,Phishing,,Tunneling Services
+898,State Bank of India (SBI),sbi.co.in,qausb.pages.dev,Phishing,,Tunneling Services
+899,State Bank of India (SBI),sbi.co.in,aqgcyj.pages.dev,Phishing,,Tunneling Services
+900,State Bank of India (SBI),sbi.co.in,iskvno.pages.dev/,Phishing,,Tunneling Services
+901,State Bank of India (SBI),sbi.co.in,aurji.pages.dev/bbx,Phishing,,Tunneling Services
+902,State Bank of India (SBI),sbi.co.in,payebm.pages.dev,Phishing,,Tunneling Services
+903,State Bank of India (SBI),sbi.co.in,sx2.pages.dev/,Phishing,,Tunneling Services
+904,State Bank of India (SBI),sbi.co.in,yuiii.pages.dev,Phishing,,Tunneling Services
+905,State Bank of India (SBI),sbi.co.in,tg765rftf.pages.dev/wq1,Phishing,,Tunneling Services
+906,State Bank of India (SBI),sbi.co.in,ifsjab.pages.dev/bbx,Phishing,,Tunneling Services
+907,State Bank of India (SBI),sbi.co.in,jtdubb.pages.dev,Phishing,,Tunneling Services
+908,State Bank of India (SBI),sbi.co.in,zieviv.pages.dev/,Phishing,,Tunneling Services
+909,State Bank of India (SBI),sbi.co.in,prip.pages.dev,Phishing,,Tunneling Services
+910,State Bank of India (SBI),sbi.co.in,gttt.pages.dev/,Phishing,,Tunneling Services
+911,State Bank of India (SBI),sbi.co.in,pevox.pages.dev,Phishing,,Tunneling Services
+912,State Bank of India (SBI),sbi.co.in,sbikyc-4g.pages.dev/,Phishing,,Tunneling Services
+913,State Bank of India (SBI),sbi.co.in,sbi-kyc.pages.dev/,Phishing,,Tunneling Services
+914,State Bank of India (SBI),sbi.co.in,a-2-6ua.pages.dev,Phishing,,Tunneling Services
+915,State Bank of India (SBI),sbi.co.in,sbikyc-dy1.pages.dev/,Phishing,,Tunneling Services
+916,State Bank of India (SBI),sbi.co.in,biyuthj.pages.dev/,Phishing,,Tunneling Services
+917,State Bank of India (SBI),sbi.co.in,pqgib.pages.dev,Phishing,,Tunneling Services
+918,State Bank of India (SBI),sbi.co.in,aklp.pages.dev,Phishing,,Tunneling Services
+919,State Bank of India (SBI),sbi.co.in,prcobl.pages.dev,Phishing,,Tunneling Services
+920,State Bank of India (SBI),sbi.co.in,zzraz.pages.dev,Phishing,,Tunneling Services
+921,State Bank of India (SBI),sbi.co.in,ump11.pages.dev,Phishing,,Tunneling Services
+922,State Bank of India (SBI),sbi.co.in,ump3.pages.dev/eAqD,Phishing,,Tunneling Services
+923,State Bank of India (SBI),sbi.co.in,qhuvp.pages.dev,Phishing,,Tunneling Services
+924,State Bank of India (SBI),sbi.co.in,tripal-a.pages.dev,Phishing,,Tunneling Services
+925,State Bank of India (SBI),sbi.co.in,yaegcu.pages.dev,Phishing,,Tunneling Services
+926,State Bank of India (SBI),sbi.co.in,orvkb.pages.dev,Phishing,,Tunneling Services
+927,State Bank of India (SBI),sbi.co.in,tyftrk.pages.dev,Phishing,,Tunneling Services
+928,State Bank of India (SBI),sbi.co.in,prcibn.pages.dev,Phishing,,Tunneling Services
+929,State Bank of India (SBI),sbi.co.in,apk5.pages.dev,Phishing,,Tunneling Services
+930,State Bank of India (SBI),sbi.co.in,kilpzcmk.pages.dev,Phishing,,Tunneling Services
+931,State Bank of India (SBI),sbi.co.in,kop-3b3.pages.dev,Phishing,,Tunneling Services
+932,State Bank of India (SBI),sbi.co.in,sdf-89v.pages.dev,Phishing,,Tunneling Services
+933,State Bank of India (SBI),sbi.co.in,gooa.pages.dev/,Phishing,,Tunneling Services
+934,State Bank of India (SBI),sbi.co.in,ierbk.pages.dev,Phishing,,Tunneling Services
+935,State Bank of India (SBI),sbi.co.in,usehcs.pages.dev,Phishing,,Tunneling Services
+936,State Bank of India (SBI),sbi.co.in,ifbib.pages.dev/bbx,Phishing,,Tunneling Services
+937,State Bank of India (SBI),sbi.co.in,irhvj.pages.dev,Phishing,,Tunneling Services
+938,State Bank of India (SBI),sbi.co.in,usjbo.pages.dev,Phishing,,Tunneling Services
+939,State Bank of India (SBI),sbi.co.in,idobog.pages.dev,Phishing,,Tunneling Services
+940,State Bank of India (SBI),sbi.co.in,yvys.pages.dev/,Phishing,,Tunneling Services
+941,State Bank of India (SBI),sbi.co.in,edho.pages.dev/,Phishing,,Tunneling Services
+942,State Bank of India (SBI),sbi.co.in,iehjjj.pages.dev,Phishing,,Tunneling Services
+943,State Bank of India (SBI),sbi.co.in,udyhji.pages.dev/,Phishing,,Tunneling Services
+944,State Bank of India (SBI),sbi.co.in,itjibj.pages.dev,Phishing,,Tunneling Services
+945,State Bank of India (SBI),sbi.co.in,ysibih.pages.dev,Phishing,,Tunneling Services
+946,State Bank of India (SBI),sbi.co.in,vmk.pages.dev,Phishing,,Tunneling Services
+947,State Bank of India (SBI),sbi.co.in,usijop.pages.dev,Phishing,,Tunneling Services
+948,State Bank of India (SBI),sbi.co.in,yshhvk.pages.dev,Phishing,,Tunneling Services
+949,State Bank of India (SBI),sbi.co.in,rewarsdsbi.pages.dev/,Phishing,,Tunneling Services
+950,State Bank of India (SBI),sbi.co.in,sah1v1bt.vercel.app,Phishing,,Tunneling Services
+951,State Bank of India (SBI),sbi.co.in,mals.vercel.app,Phishing,,Tunneling Services
+952,State Bank of India (SBI),sbi.co.in,savchg8d.vercel.app,Phishing,,Tunneling Services
+953,State Bank of India (SBI),sbi.co.in,sacdyu3a.vercel.app,Phishing,,Tunneling Services
+954,State Bank of India (SBI),sbi.co.in,savc4hdty.vercel.app,Phishing,,Tunneling Services
+955,State Bank of India (SBI),sbi.co.in,sagcd8af.vercel.app,Phishing,,Tunneling Services
+956,State Bank of India (SBI),sbi.co.in,youn-delta.vercel.app,Phishing,,Tunneling Services
+957,State Bank of India (SBI),sbi.co.in,sah5dyva.vercel.app,Phishing,,Tunneling Services
+958,State Bank of India (SBI),sbi.co.in,sagdy6tcv.vercel.app,Phishing,,Tunneling Services
+959,State Bank of India (SBI),sbi.co.in,sa3adtyv.vercel.app,Phishing,,Tunneling Services
+960,State Bank of India (SBI),sbi.co.in,sav1h4da.vercel.app/pwr,Phishing,,Tunneling Services
+961,State Bank of India (SBI),sbi.co.in,sahcd1j3a.vercel.app/pwr,Phishing,,Tunneling Services
+962,State Bank of India (SBI),sbi.co.in,saays5dvty.vercel.app/pwr,Phishing,,Tunneling Services
+963,State Bank of India (SBI),sbi.co.in,sacd1otyac.vercel.app/uof,Phishing,,Tunneling Services
+964,State Bank of India (SBI),sbi.co.in,sahd6jat.vercel.app,Phishing,,Tunneling Services
+965,State Bank of India (SBI),sbi.co.in,sahcd7ya.vercel.app,Phishing,,Tunneling Services
+966,State Bank of India (SBI),sbi.co.in,sah1vd2nty.vercel.app,Phishing,,Tunneling Services
+967,State Bank of India (SBI),sbi.co.in,say1uvga.vercel.app,Phishing,,Tunneling Services
+968,State Bank of India (SBI),sbi.co.in,shaidty8dv.vercel.app/gor,Phishing,,Tunneling Services
+969,State Bank of India (SBI),sbi.co.in,vndns.vercel.app,Phishing,,Tunneling Services
+970,State Bank of India (SBI),sbi.co.in,sav6ftyuj.vercel.app/qml,Phishing,,Tunneling Services
+971,State Bank of India (SBI),sbi.co.in,syeh2vfty.vercel.app/sg,Phishing,,Tunneling Services
+972,State Bank of India (SBI),sbi.co.in,kldss.vercel.app/,Phishing,,Tunneling Services
+973,State Bank of India (SBI),sbi.co.in,shab3vta.vercel.app/pwr,Phishing,,Tunneling Services
+974,State Bank of India (SBI),sbi.co.in,syertv2aj.vercel.app,Phishing,,Tunneling Services
+975,State Bank of India (SBI),sbi.co.in,shaty7dv.vercel.app,Phishing,,Tunneling Services
+976,State Bank of India (SBI),sbi.co.in,shgav5ya.vercel.app,Phishing,,Tunneling Services
+977,State Bank of India (SBI),sbi.co.in,svaswer1.vercel.app,Phishing,,Tunneling Services
+978,State Bank of India (SBI),sbi.co.in,shaidty8dv.vercel.app,Phishing,,Tunneling Services
+979,State Bank of India (SBI),sbi.co.in,shay1ucv.vercel.app,Phishing,,Tunneling Services
+980,State Bank of India (SBI),sbi.co.in,syajd1ga.vercel.app,Phishing,,Tunneling Services
+981,State Bank of India (SBI),sbi.co.in,shaj3dy.vercel.app,Phishing,,Tunneling Services
+982,State Bank of India (SBI),sbi.co.in,sha2yeva.vercel.app,Phishing,,Tunneling Services
+983,State Bank of India (SBI),sbi.co.in,sahjj3vdy.vercel.app,Phishing,,Tunneling Services
+984,State Bank of India (SBI),sbi.co.in,sjab7vdt.vercel.app,Phishing,,Tunneling Services
+985,State Bank of India (SBI),sbi.co.in,styvsais.vercel.app,Phishing,,Tunneling Services
+986,State Bank of India (SBI),sbi.co.in,sakd3yvha.vercel.app,Phishing,,Tunneling Services
+987,State Bank of India (SBI),sbi.co.in,sua4ydha.vercel.app,Phishing,,Tunneling Services
+988,State Bank of India (SBI),sbi.co.in,ssft2yb.vercel.app,Phishing,,Tunneling Services
+989,State Bank of India (SBI),sbi.co.in,shay9ua.vercel.app,Phishing,,Tunneling Services
+990,State Bank of India (SBI),sbi.co.in,sajv3dny.vercel.app,Phishing,,Tunneling Services
+991,State Bank of India (SBI),sbi.co.in,syuc1ia.vercel.app,Phishing,,Tunneling Services
+992,State Bank of India (SBI),sbi.co.in,sja2bvr.vercel.app,Phishing,,Tunneling Services
+993,State Bank of India (SBI),sbi.co.in,fresh-self-chi.vercel.app,Phishing,,Tunneling Services
+994,State Bank of India (SBI),sbi.co.in,ahsh.vercel.app,Phishing,,Tunneling Services
+995,State Bank of India (SBI),sbi.co.in,sdzxxs.vercel.app,Phishing,,Tunneling Services
+996,State Bank of India (SBI),sbi.co.in,vssa-silk.vercel.app,Phishing,,Tunneling Services
+997,State Bank of India (SBI),sbi.co.in,s1srahb.vercel.app/,Phishing,,Tunneling Services
+998,State Bank of India (SBI),sbi.co.in,lioou.vercel.app,Phishing,,Tunneling Services
+999,State Bank of India (SBI),sbi.co.in,thiol.vercel.app,Phishing,,Tunneling Services
+1000,State Bank of India (SBI),sbi.co.in,new-contact.vercel.app,Phishing,,Tunneling Services
+1001,State Bank of India (SBI),sbi.co.in,new-contect-del.vercel.app,Phishing,,Tunneling Services
+1002,State Bank of India (SBI),sbi.co.in,um-ten.vercel.app,Phishing,,Tunneling Services
+1003,State Bank of India (SBI),sbi.co.in,devdm.vercel.app,Phishing,,Tunneling Services
+1004,State Bank of India (SBI),sbi.co.in,shgav5ya.vercel.app/pwr,Phishing,,Tunneling Services
+1005,State Bank of India (SBI),sbi.co.in,nxms.vercel.app,Phishing,,Tunneling Services
+1006,State Bank of India (SBI),sbi.co.in,sahj5dvty.vercel.app,Phishing,,Tunneling Services
+1007,State Bank of India (SBI),sbi.co.in,mkloi.vercel.app,Phishing,,Tunneling Services
+1008,State Bank of India (SBI),sbi.co.in,hgfhjk-khfx.vercel.app/firstpage.html,Phishing,,Tunneling Services
+1009,State Bank of India (SBI),sbi.co.in,bvcdm.vercel.app,Phishing,,Tunneling Services
+1010,State Bank of India (SBI),sbi.co.in,hgfhjk-wour.vercel.app,Phishing,,Tunneling Services
+1011,State Bank of India (SBI),sbi.co.in,dagsa.vercel.app,Phishing,,Tunneling Services
+1012,State Bank of India (SBI),sbi.co.in,srthgjh-6576.vercel.app/firstpage.html,Phishing,,Tunneling Services
+1013,State Bank of India (SBI),sbi.co.in,ndjs-lovat.vercel.app/,Phishing,,Tunneling Services
+1014,State Bank of India (SBI),sbi.co.in,srthgjh-6576.vercel.app,Phishing,,Tunneling Services
+1015,State Bank of India (SBI),sbi.co.in,vbhg.vercel.app,Phishing,,Tunneling Services
+1016,State Bank of India (SBI),sbi.co.in,sbveel-tyr6798i.vercel.app/,Phishing,,Tunneling Services
+1017,State Bank of India (SBI),sbi.co.in,sbitu-87uyt.vercel.app,Phishing,,Tunneling Services
+1018,State Bank of India (SBI),sbi.co.in,sbitu-87uyt.vercel.app/firstpage.html,Phishing,,Tunneling Services
+1019,State Bank of India (SBI),sbi.co.in,sbl-re56.vercel.app/firstpage.html,Phishing,,Tunneling Services
+1020,State Bank of India (SBI),sbi.co.in,egahs.vercel.app,Phishing,,Tunneling Services
+1021,State Bank of India (SBI),sbi.co.in,ashqd.vercel.app,Phishing,,Tunneling Services
+1022,State Bank of India (SBI),sbi.co.in,sbbi-nctg.vercel.app,Phishing,,Tunneling Services
+1023,State Bank of India (SBI),sbi.co.in,mjikl.vercel.app,Phishing,,Tunneling Services
+1024,State Bank of India (SBI),sbi.co.in,okiut.vercel.app,Phishing,,Tunneling Services
+1025,State Bank of India (SBI),sbi.co.in,sbbi.vercel.app,Phishing,,Tunneling Services
+1026,State Bank of India (SBI),sbi.co.in,vcxd.vercel.app,Phishing,,Tunneling Services
+1027,State Bank of India (SBI),sbi.co.in,nvcdf.vercel.app,Phishing,,Tunneling Services
+1028,State Bank of India (SBI),sbi.co.in,yjau.vercel.app/a2,Phishing,,Tunneling Services
+1029,State Bank of India (SBI),sbi.co.in,aswrt.vercel.app,Phishing,,Tunneling Services
+1030,State Bank of India (SBI),sbi.co.in,yhaga.vercel.app,Phishing,,Tunneling Services
+1031,State Bank of India (SBI),sbi.co.in,aswrr.vercel.app,Phishing,,Tunneling Services
+1032,State Bank of India (SBI),sbi.co.in,bnaqq.vercel.app,Phishing,,Tunneling Services
+1033,State Bank of India (SBI),sbi.co.in,nndaq.vercel.app,Phishing,,Tunneling Services
+1034,State Bank of India (SBI),sbi.co.in,hgaqw.vercel.app,Phishing,,Tunneling Services
+1035,State Bank of India (SBI),sbi.co.in,thhg.vercel.app,Phishing,,Tunneling Services
+1036,State Bank of India (SBI),sbi.co.in,my-next-app-silk-gamma.vercel.app,Phishing,,Tunneling Services
+1037,State Bank of India (SBI),sbi.co.in,agsw.vercel.app,Phishing,,Tunneling Services
+1038,State Bank of India (SBI),sbi.co.in,cahq.vercel.app,Phishing,,Tunneling Services
+1039,State Bank of India (SBI),sbi.co.in,nminv.vercel.app,Phishing,,Tunneling Services
+1040,State Bank of India (SBI),sbi.co.in,eiol.vercel.app,Phishing,,Tunneling Services
+1041,State Bank of India (SBI),sbi.co.in,niooi.vercel.app,Phishing,,Tunneling Services
+1042,State Bank of India (SBI),sbi.co.in,sbik3.vercel.app,Phishing,,Tunneling Services
+1043,State Bank of India (SBI),sbi.co.in,sbei.vercel.app,Phishing,,Tunneling Services

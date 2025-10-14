@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+*.egg-info/
+.ipynb_checkpoints
+
+# Model
+# We include the model directory since the app needs it
+# model/
+
+# Node / React Frontend
+frontend/node_modules
+frontend/build
+.DS_Store

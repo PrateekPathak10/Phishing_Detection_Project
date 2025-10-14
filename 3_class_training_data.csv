@@ -1,0 +1,1295 @@
+Critical Sector Entity Name,Corresponding CSE Domain Name,Identified Phishing/Suspected Domain Name,Phishing/Suspected Domains (i.e. Class Label),Levenshtein_Ratio,Length_Difference,Domain_Length,Num_Dots,Num_Hyphens,Label
+Airtel,airtel.in,airtel-merchants.in,Phishing,0.5454545454545454,10.0,19,1,1,2
+Airtel,airtel.in,airtelrecharge.co.in,Phishing,0.6,8.0,20,2,0,2
+Airtel,airtel.in,airtelmerchant.in,Phishing,0.6,8.0,17,1,0,2
+Airtel,airtel.in,airtelinternetserviceprovider.co.in,Phishing,0.34285714285714286,23.0,35,2,0,2
+Airtel,airtel.in,airtelpoint.top,Phishing,0.7058823529411765,5.0,15,1,0,2
+Airtel,airtel.in,airtela.sbs,Phishing,0.9230769230769231,1.0,11,1,0,2
+Airtel,airtel.in,airtelairfiberkarnataka.xyz,Phishing,0.41379310344827586,17.0,27,1,0,2
+Airtel,airtel.in,airtelbroadbandbangalore.xyz,Phishing,0.4,18.0,28,1,0,2
+Airtel,airtel.in,airteldthconnectionbengaluru.xyz,Phishing,0.35294117647058826,22.0,32,1,0,2
+Airtel,airtel.in,airtelwificonnectiontumakuru.xyz,Phishing,0.35294117647058826,22.0,32,1,0,2
+Airtel,airtel.in,airtel365.com,Suspected,0.8,3.0,13,1,0,1
+Airtel,airtel.in,airtel-merchants.site,Suspected,0.5454545454545454,10.0,21,1,1,1
+Airtel,airtel.in,airtelmerchnat.in,Suspected,0.6,8.0,17,1,0,1
+Airtel,airtel.in,airtel.club,Suspected,1.0,0.0,11,1,0,1
+Airtel,airtel.in,airtel121co.in,Suspected,0.7058823529411765,5.0,14,1,0,1
+Airtel,airtel.in,airtelfin.in,Suspected,0.8,3.0,12,1,0,1
+Airtel,airtel.in,airtelmerchants.in,Suspected,0.5714285714285714,9.0,18,1,0,1
+Airtel,airtel.in,airtelwifi.in,Suspected,0.75,4.0,13,1,0,1
+Airtel,airtel.in,airtel-5g.top,Suspected,0.8,3.0,13,1,1,1
+Airtel,airtel.in,airtele.xyz,Suspected,0.9230769230769231,1.0,11,1,0,1
+Airtel,airtel.in,airtelericsson.in,Suspected,0.6,8.0,17,1,0,1
+Airtel,airtel.in,airtelrechargeplan.com,Suspected,0.5,12.0,22,1,0,1
+Airtel,airtel.in,airtelspacex.in,Suspected,0.6666666666666666,6.0,15,1,0,1
+Airtel,airtel.in,airtel.cloud,Suspected,1.0,0.0,12,1,0,1
+Airtel,airtel.in,airtelrdc.shop,Suspected,0.8,3.0,14,1,0,1
+Airtel,airtel.in,airtelhd.biz,Suspected,0.8571428571428571,2.0,12,1,0,1
+Airtel,airtel.in,airtelmerchnats.net,Suspected,0.5714285714285714,9.0,19,1,0,1
+Airtel,airtel.in,airteldataloan.in,Suspected,0.6,8.0,17,1,0,1
+Airtel,airtel.in,airtel-merchants.shop,Suspected,0.5454545454545454,10.0,21,1,1,1
+Airtel,airtel.in,airtelpay.world,Phishing,0.8,3.0,15,1,0,2
+Airtel,airtel.in,airtel-quickrecharge.world,Phishing,0.46153846153846156,14.0,26,1,1,2
+Airtel,airtel.in,airtelstream.in,Suspected,0.6666666666666666,6.0,15,1,0,1
+Airtel,airtel.in,bhartiairtelnet.in,Suspected,0.5714285714285714,9.0,18,1,0,1
+Airtel,airtel.in,airtel121.in,Suspected,0.8,3.0,12,1,0,1
+Airtel,airtel.in,airtel-merchant.co.in,Suspected,0.5714285714285714,9.0,21,2,1,1
+Airtel,airtel.in,airtel-5g.net,Suspected,0.8,3.0,13,1,1,1
+Airtel,airtel.in,airtel-ug.info,Suspected,0.8,3.0,14,1,1,1
+Airtel,airtel.in,airteliqalerts.in,Suspected,0.6,8.0,17,1,0,1
+Airtel,airtel.in,airteliqmail.in,Suspected,0.6666666666666666,6.0,15,1,0,1
+Airtel,airtel.in,airtelinfotel.in,Suspected,0.631578947368421,7.0,16,1,0,1
+Airtel,airtel.in,airtelretailer.in,Suspected,0.6,8.0,17,1,0,1
+Airtel,airtel.in,airtel.org.in,Suspected,1.0,0.0,13,2,0,1
+Airtel,airtel.in,bhartiairtel.live,Suspected,0.6666666666666666,6.0,17,1,0,1
+Airtel,airtel.in,bhartiairtel.online,Suspected,0.6666666666666666,6.0,19,1,0,1
+Airtel,airtel.in,airtelconnect.com,Suspected,0.631578947368421,7.0,17,1,0,1
+Airtel,airtel.in,airtelstore.co.in,Suspected,0.7058823529411765,5.0,17,2,0,1
+Airtel,airtel.in,airteldtd.in,Suspected,0.8,3.0,12,1,0,1
+Airtel,airtel.in,airtel.website,Suspected,1.0,0.0,14,1,0,1
+Airtel,airtel.in,airtelprize.in,Suspected,0.7058823529411765,5.0,14,1,0,1
+Airtel,airtel.in,airtelapp.xyz,Suspected,0.8,3.0,13,1,0,1
+Airtel,airtel.in,airtelcare.net,Suspected,0.75,4.0,14,1,0,1
+Airtel,airtel.in,airtel-merchants.net,Suspected,0.5454545454545454,10.0,20,1,1,1
+Airtel,airtel.in,postpaidairtel.in,Suspected,0.6,8.0,17,1,0,1
+Airtel,airtel.in,airtel.exchange,Suspected,1.0,0.0,15,1,0,1
+Airtel,airtel.in,airtelpayment.online,Suspected,0.631578947368421,7.0,20,1,0,1
+Airtel,airtel.in,airtel-5gg.top,Suspected,0.75,4.0,14,1,1,1
+Airtel,airtel.in,airtelmerchnat.co.in,Suspected,0.6,8.0,20,2,0,1
+Airtel,airtel.in,airtel-ericsson.com,Suspected,0.5714285714285714,9.0,19,1,1,1
+Airtel,airtel.in,airtel-broadband-plans.today,Suspected,0.42857142857142855,16.0,28,1,2,1
+Airtel,airtel.in,airtel-broadband-plans-near-you.sbs,Suspected,0.32432432432432434,25.0,35,1,4,1
+Airtel,airtel.in,airtelstarlink.org,Suspected,0.6,8.0,18,1,0,1
+Airtel,airtel.in,airtelstarlinks.in,Suspected,0.5714285714285714,9.0,18,1,0,1
+Airtel,airtel.in,airtellink.com,Suspected,0.75,4.0,14,1,0,1
+Airtel,airtel.in,airtel.firm.in,Suspected,1.0,0.0,14,2,0,1
+Airtel,airtel.in,airtelfiber.in,Suspected,0.7058823529411765,5.0,14,1,0,1
+Airtel,airtel.in,airtelxtream.co.in,Suspected,0.6666666666666666,6.0,18,2,0,1
+Airtel,airtel.in,bhartairtel.co.in,Suspected,0.7058823529411765,5.0,17,2,0,1
+Airtel,airtel.in,airtelairfiber.in,Suspected,0.6,8.0,17,1,0,1
+Airtel,airtel.in,airtelxtreamonline.in,Suspected,0.5,12.0,21,1,0,1
+Airtel,airtel.in,bhartiairtelfoundation.co.in,Suspected,0.42857142857142855,16.0,28,2,0,1
+Airtel,airtel.in,airtelvb.top,Suspected,0.8571428571428571,2.0,12,1,0,1
+Airtel,airtel.in,airtelonebroadband.top,Suspected,0.5,12.0,22,1,0,1
+Airtel,airtel.in,airtel-merchants.services,Suspected,0.5454545454545454,10.0,25,1,1,1
+Bank of Baroda,bankofbaroda.in,bankofbarodabank.in,Suspected,0.8571428571428571,4.0,19,1,0,1
+Bank of Baroda,bankofbaroda.in,bankofbarodafin.in,Suspected,0.8888888888888888,3.0,18,1,0,1
+Bank of Baroda,bankofbaroda.in,bankofbarodaworld.co.in,Suspected,0.8275862068965517,5.0,23,2,0,1
+Bank of Baroda,bankofbaroda.in,1bankofbaroda.co.in,Suspected,0.96,1.0,19,2,0,1
+Bank of Baroda,bankofbaroda.in,thebankofbaroda.in,Suspected,0.8888888888888888,3.0,18,1,0,1
+Bank of Baroda,bankofbaroda.in,bankofbarodaa.co.in,Suspected,0.96,1.0,19,2,0,1
+Bank of Baroda,bankofbaroda.in,bankofbaroda0.co.in,Suspected,0.96,1.0,19,2,0,1
+Bank of Baroda,bankofbaroda.in,bankofbarodarewa.co.in,Suspected,0.8571428571428571,4.0,22,2,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgi-gov.site,Phishing,0.25,12.0,19,1,2,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsverifycertificate.in,Phishing,0.09090909090909091,18.0,23,1,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorge.in,Phishing,1.0,0.0,13,2,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.crs.vievvcert.info,Phishing,1.0,0.0,36,6,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsor-go.shop,Phishing,0.2,6.0,13,1,1,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov.xyz,Phishing,0.15384615384615385,9.0,15,1,1,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,janma-mrityutathya.shop,Phishing,0.0,16.0,23,1,1,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,csrorgi-gov.shop,Phishing,0.15384615384615385,9.0,16,1,1,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,www.dc.crsorgi.gov.in.verifycertificate.shop,Phishing,0.0,1.0,44,6,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,www.dc.crsorgi.gov.in.web.index.php.apnaqafila.shop,Phishing,0.0,1.0,51,9,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,www.acadmey.mange.project.indaxs.in,Phishing,0.0,1.0,35,5,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,birth.giantechnical.in,Phishing,0.0,3.0,22,2,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,verificagovv.xyz,Phishing,0.14285714285714285,10.0,16,1,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,www.service.findapi.info,Phishing,0.0,1.0,24,3,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,error404.remgoerrocount.xyz,Phishing,0.0,6.0,27,2,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.verifyc.xyz,Phishing,1.0,0.0,29,5,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,onlineservice.shop,Phishing,0.13333333333333333,11.0,18,1,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.govi.ltd,Phishing,1.0,0.0,19,3,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,my.babaprint1.xyz,Phishing,0.0,0.0,17,2,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.webi.ltd,Phishing,1.0,0.0,26,5,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.index-view.shop,Phishing,1.0,0.0,33,5,1,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.tech-site.info,Phishing,1.0,0.0,32,5,1,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.pgoneindia.shop,Phishing,1.0,0.0,18,2,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi.gov.in.verifycertificate.shop,Phishing,0.2222222222222222,5.0,37,4,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.adverify.in,Phishing,1.0,0.0,29,5,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dcrsorgi.store,Phishing,0.4,6.0,14,1,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.birth.dccrsorgi-govv.live,Phishing,1.0,0.0,28,3,1,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.viewcard.in,Phishing,1.0,0.0,29,5,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,verifycertificate.cloud,Phishing,0.10526315789473684,15.0,23,1,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorginewindex.store,Suspected,0.11764705882352941,13.0,21,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,adharprint.dccrsorgi-govv.live,Suspected,0.16666666666666666,8.0,30,2,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi.gov.in.viewcard.in,Suspected,0.2222222222222222,5.0,26,4,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi.gov.in.w.viewcard.in,Suspected,0.2222222222222222,5.0,28,5,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi.gov.in.web.index.php.viewcard.in,Suspected,0.2222222222222222,5.0,40,7,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.crovimng.online,Suspected,1.0,0.0,33,5,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,passportt.dccrsorgi-govv.live,Suspected,0.0,7.0,29,2,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,rtps.dccrsorgi-govv.live,Suspected,0.0,2.0,24,2,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,ucl.dccrsorgi-govv.live,Suspected,0.4,1.0,23,2,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgov.click,Suspected,0.25,4.0,12,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigob.xyz,Suspected,0.16666666666666666,8.0,14,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigovbirth.info,Suspected,0.11764705882352941,13.0,20,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgigov-in.in,Suspected,0.23529411764705882,13.0,18,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgovbirth.xyz,Suspected,0.15384615384615385,9.0,15,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgiportal.com,Suspected,0.13333333333333333,11.0,17,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crs-orgi.com,Suspected,1.0,0.0,15,2,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.logln.in,Suspected,1.0,0.0,23,4,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,www.birth.ypuclportala.xyz,Suspected,0.0,1.0,26,3,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,www.dc.crsorgi.gov.in.index.viewscrit.org,Suspected,0.0,1.0,41,7,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,yashcrsportal.site,Suspected,0.13333333333333333,11.0,18,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorg.xyz,Suspected,0.25,4.0,10,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crs-org-gov.xyz,Suspected,0.25,12.0,18,1,3,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgi-gov.shop,Suspected,0.25,12.0,19,1,2,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgive-gov.xyz,Suspected,0.2222222222222222,14.0,20,1,2,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgi.shop,Suspected,0.36363636363636365,7.0,14,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov-in.store,Suspected,0.125,12.0,20,1,2,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgi-gov.xyz,Suspected,0.25,12.0,18,1,2,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgi.co.in,Suspected,0.3333333333333333,8.0,16,2,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgigovinverficrs.in,Suspected,0.16666666666666666,20.0,25,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi-gov.xyz,Suspected,1.0,0.0,18,2,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,www.dc.crsorgi.gov.in.verifyinfo.xyz,Suspected,0.0,1.0,36,6,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,www.dc.crsorgi.gov.in.web.dc-crsorgi.shop,Suspected,0.0,1.0,41,7,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgi-govv.live,Suspected,0.25,12.0,19,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crs.verifycertificatecrs.live,Suspected,0.4,1.0,29,2,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dcinfinityorg.site,Suspected,0.26666666666666666,11.0,18,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorg-dccertificate.sbs,Suspected,0.18181818181818182,18.0,24,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gout.in,Suspected,0.14285714285714285,10.0,15,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgionline.in,Suspected,0.23529411764705882,13.0,18,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgigovin.website,Suspected,0.25,12.0,22,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-birh.in,Suspected,0.14285714285714285,10.0,15,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-verifycertificate.org.in,Suspected,0.18181818181818182,18.0,27,2,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi-gov.live,Suspected,1.0,0.0,19,2,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.verifycertificate.fun,Suspected,1.0,0.0,39,5,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.crs.verifycertificate.org,Suspected,1.0,0.0,43,6,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.techdc.shop,Suspected,1.0,0.0,29,5,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,deluxonlineservice.shop,Suspected,0.2,16.0,23,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi.gov.in.govi.ltd,Suspected,0.2222222222222222,5.0,23,4,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.pgoneindia.shop,Suspected,1.0,0.0,33,5,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.web.lndax.xyz,Suspected,1.0,0.0,31,6,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.web.php.lndax.xyz,Suspected,1.0,0.0,35,7,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.web.phpii.site,Suspected,1.0,0.0,32,6,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dcc.crsorgi.gov.in.viewall.in,Suspected,0.8,1.0,29,5,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,www.dc.crsorgi.gov.in.crs.xpsdigi.solutions,Suspected,0.0,1.0,43,7,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,www.dc.crsorgi.gov.in.indxn.xyz,Suspected,0.0,1.0,31,6,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi.net,Suspected,0.2222222222222222,5.0,11,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgi-gov-in.shop,Phishing,0.2222222222222222,14.0,21,1,2,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgi-gov-in.today,Phishing,0.2222222222222222,14.0,22,1,2,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgi.in,Phishing,0.36363636363636365,7.0,12,1,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorg.xyz,Phishing,0.4,6.0,12,1,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigovdc.shop,Phishing,0.2857142857142857,10.0,17,1,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgin.fun,Phishing,0.2,6.0,12,1,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigov.xyz,Phishing,0.16666666666666666,8.0,14,1,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gvo.tech,Phishing,0.15384615384615385,9.0,16,1,1,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorg.in,Phishing,0.36363636363636365,7.0,12,1,1,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgibirth.shop,Phishing,0.14285714285714285,10.0,17,1,0,2
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsapi.cloud,Suspected,0.25,4.0,12,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crs-api.com,Suspected,0.2222222222222222,5.0,11,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsapi.vip,Suspected,0.25,4.0,10,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsapi.xyz,Suspected,0.25,4.0,10,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorggi.xyz,Suspected,0.2,6.0,12,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigov.cloud,Suspected,0.16666666666666666,8.0,16,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigove.fun,Suspected,0.15384615384615385,9.0,15,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigove.shop,Suspected,0.15384615384615385,9.0,16,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-goverment.online,Suspected,0.10526315789473684,15.0,24,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigovi.shop,Suspected,0.15384615384615385,9.0,16,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov-in.digital,Suspected,0.125,12.0,22,1,2,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crs-orgi-govment.online,Suspected,0.1111111111111111,14.0,23,1,2,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-in.org,Suspected,0.16666666666666666,8.0,14,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgov.com,Suspected,0.2,6.0,12,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsroigov.online,Suspected,0.18181818181818182,7.0,16,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crcorgi-gov.online,Suspected,0.15384615384615385,9.0,18,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crseoigov.online,Suspected,0.18181818181818182,7.0,16,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsergov.online,Suspected,0.2,6.0,15,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgovgov.online,Suspected,0.18181818181818182,7.0,16,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgovi.tech,Suspected,0.2222222222222222,5.0,12,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgoviiorg.site,Suspected,0.15384615384615385,9.0,16,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgovlive.xyz,Suspected,0.16666666666666666,8.0,14,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorg.space,Suspected,0.25,4.0,12,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorg-gov.life,Suspected,0.16666666666666666,8.0,15,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorggov.tech,Suspected,0.18181818181818182,7.0,14,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgib-gov.xyz,Suspected,0.14285714285714285,10.0,16,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgiclick.cloud,Suspected,0.14285714285714285,10.0,18,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgiegov.com,Suspected,0.15384615384615385,9.0,15,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi--gov.live,Suspected,0.14285714285714285,10.0,17,1,2,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigov.org,Suspected,0.16666666666666666,8.0,14,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigovein.website,Suspected,0.13333333333333333,11.0,21,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigovi.store,Suspected,0.15384615384615385,9.0,17,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigovin.online,Suspected,0.14285714285714285,10.0,19,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgii.online,Suspected,0.2,6.0,15,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorginet.site,Suspected,0.16666666666666666,8.0,15,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgovin.org,Suspected,0.16666666666666666,8.0,14,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgi-gov-in.info,Suspected,0.21052631578947367,15.0,22,1,3,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgi.online,Suspected,0.3333333333333333,8.0,17,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorggov.xyz,Suspected,0.3076923076923077,9.0,15,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorggovin.xyz,Suspected,0.26666666666666666,11.0,17,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgi-gov-in.live,Suspected,0.2222222222222222,14.0,21,1,2,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi.info,Suspected,0.2222222222222222,5.0,12,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi.org.in,Suspected,0.2222222222222222,5.0,14,2,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov1.in,Suspected,0.14285714285714285,10.0,15,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgii.in,Suspected,0.2,6.0,11,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgiisite.co.in,Suspected,0.14285714285714285,10.0,18,2,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgs.in,Suspected,0.2222222222222222,5.0,10,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,csrogir-gov.online,Suspected,0.15384615384615385,9.0,18,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorg.co.in,Suspected,0.36363636363636365,7.0,15,2,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgg.in,Suspected,0.36363636363636365,7.0,12,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigoovi.live,Suspected,0.14285714285714285,10.0,17,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov-in.buzz,Suspected,0.125,12.0,19,1,2,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov-in-web.online,Suspected,0.1,16.0,25,1,3,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigovt.xyz,Suspected,0.15384615384615385,9.0,15,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgio.online,Suspected,0.2,6.0,15,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgi.live,Suspected,0.36363636363636365,7.0,14,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,rgdccrsorgi.xyz,Suspected,0.3076923076923077,9.0,15,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgov-in.shop,Suspected,0.18181818181818182,7.0,14,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigoov.info,Suspected,0.15384615384615385,9.0,16,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov-in-index-web.shop,Suspected,0.07692307692307693,22.0,29,1,4,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov-in-viawcert.site,Suspected,0.08,21.0,28,1,3,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,acscrsorgi.in,Suspected,0.16666666666666666,8.0,13,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgov-co.in,Suspected,0.18181818181818182,7.0,12,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigovs.co.in,Suspected,0.15384615384615385,9.0,17,2,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgovs.in,Suspected,0.18181818181818182,7.0,12,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgi.co.in,Suspected,0.36363636363636365,7.0,15,2,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorggi.co.in,Suspected,0.2,6.0,14,2,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,CRSORGI-GOV-IN-INDEX.ONLINE,Suspected,0.09090909090909091,18.0,27,1,3,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgovorg.in,Suspected,0.18181818181818182,7.0,12,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,auths.info,Suspected,0.0,3.0,10,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dcindex.xyz,Suspected,0.4444444444444444,5.0,11,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,inbex.info,Suspected,0.0,3.0,10,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,workfast.in,Suspected,0.0,6.0,11,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,verifycertificatecrs.live,Suspected,0.09090909090909091,18.0,25,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov-in.live,Suspected,0.125,12.0,19,1,2,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigov-in.online,Suspected,0.13333333333333333,11.0,20,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgii-gov.online,Suspected,0.23529411764705882,13.0,22,1,2,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgii-goiv.in,Suspected,0.2222222222222222,14.0,19,1,2,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgigoov.in,Suspected,0.26666666666666666,11.0,16,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov-in-index.site,Suspected,0.09090909090909091,18.0,25,1,3,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorg.fun,Suspected,0.25,4.0,10,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigo.site,Suspected,0.18181818181818182,7.0,14,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,csrorgi.info,Suspected,0.2222222222222222,5.0,12,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgiio.store,Suspected,0.18181818181818182,7.0,15,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgonlinebirthdeth.in,Suspected,0.08695652173913043,19.0,24,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gove.shop,Suspected,0.14285714285714285,10.0,17,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorggovrk.xyz,Suspected,0.26666666666666666,11.0,17,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dccrsorgigov.shop,Suspected,0.2857142857142857,10.0,17,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigovv.xyz,Suspected,0.15384615384615385,9.0,15,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorg.buzz,Suspected,0.25,4.0,11,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigov-certificate.xyz,Suspected,0.08333333333333333,20.0,26,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgonline.xyz,Suspected,0.14285714285714285,10.0,16,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgi-gov.online,Suspected,0.25,12.0,21,1,2,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov-xyz.in,Suspected,0.11764705882352941,13.0,18,1,2,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgie.org.in,Suspected,0.2,6.0,15,2,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-gov.online,Suspected,0.15384615384615385,9.0,18,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgig.org.in,Suspected,0.2,6.0,15,2,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgi-in.site,Suspected,0.26666666666666666,11.0,18,1,2,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsgovernment.tech,Suspected,0.13333333333333333,11.0,18,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgii.store,Suspected,0.2,6.0,14,1,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgie-gov.xyz,Suspected,0.23529411764705882,13.0,19,1,2,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgii-gov.xyz,Suspected,0.23529411764705882,13.0,19,1,2,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsogi-gov-in.website,Suspected,0.13333333333333333,11.0,21,1,2,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,acadmey.mange.project.indaxs.in,Suspected,0.2222222222222222,5.0,31,4,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc-crsorgi-gov-in.ja-ai.shop,Suspected,0.21052631578947367,15.0,28,2,4,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov-in.live,Suspected,1.0,0.0,22,3,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in.lndex.pl,Suspected,1.0,0.0,26,5,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,mail.dc.crsorgi.gov.in.web.phpii.site,Suspected,0.0,2.0,37,7,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,ww25.cpanel.crsorgi.gov.in.index.php.recidenceup.xyz,Suspected,0.0,2.0,52,8,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,ww25.crsorgi.gov.in.bdvr.co,Suspected,0.0,2.0,27,5,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,www.dc.crsorgi.gov.in.sevamaster.shop,Suspected,0.0,1.0,37,6,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,www.dcr.crsorgi.gov.in.viewall.in,Suspected,0.0,1.0,33,6,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgi-govs.in,Suspected,0.14285714285714285,10.0,15,1,1,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgidc.co.in,Suspected,0.36363636363636365,7.0,15,2,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgigoov.co.in,Suspected,0.15384615384615385,9.0,17,2,0,1
+"Civil Registration System, MHA",dc.crsorgi.gov.in,crsorgii-govi.in,Suspected,0.13333333333333333,11.0,16,1,1,1
+HDFC Bank,hdfcbank.com,hdfcl.in,Suspected,0.6153846153846154,3.0,8,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbanklogin.com,Phishing,0.7619047619047619,5.0,17,1,0,2
+HDFC Bank,hdfcbank.com,myhdfccard.com,Phishing,0.5555555555555556,2.0,14,1,0,2
+HDFC Bank,hdfcbank.com,hdfcardcare.com,Phishing,0.5263157894736842,3.0,15,1,0,2
+HDFC Bank,hdfcbank.com,hdrewardcard.com,Phishing,0.3,4.0,16,1,0,2
+HDFC Bank,hdfcbank.com,hdfcbank.red,Suspected,1.0,0.0,12,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.city,Suspected,1.0,0.0,13,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbanks.live,Suspected,0.9411764705882353,1.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbd.com,Suspected,0.7142857142857143,2.0,10,1,0,1
+HDFC Bank,hdfcbank.com,hdfcrewardz.in,Suspected,0.5263157894736842,3.0,14,1,0,1
+HDFC Bank,hdfcbank.com,myhdfc.in,Suspected,0.5714285714285714,2.0,9,1,0,1
+HDFC Bank,hdfcbank.com,hdfc-home-loan-538066002.today,Suspected,0.375,16.0,30,1,3,1
+HDFC Bank,hdfcbank.com,hdfcvg.com,Suspected,0.5714285714285714,2.0,10,1,0,1
+HDFC Bank,hdfcbank.com,hdfcsec.co.in,Suspected,0.5333333333333333,1.0,13,2,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.services,Suspected,1.0,0.0,17,1,0,1
+HDFC Bank,hdfcbank.com,hdfccredilaloan.net,Suspected,0.5217391304347826,7.0,19,1,0,1
+HDFC Bank,hdfcbank.com,hdfc-home-253888985.click,Suspected,0.2962962962962963,11.0,25,1,2,1
+HDFC Bank,hdfcbank.com,hdfc-home-336577138.click,Suspected,0.2962962962962963,11.0,25,1,2,1
+HDFC Bank,hdfcbank.com,hdfcsupport.info,Suspected,0.42105263157894735,3.0,16,1,0,1
+HDFC Bank,hdfcbank.com,hdfc-bank-internet-banking.cfd,Suspected,0.47058823529411764,18.0,30,1,3,1
+HDFC Bank,hdfcbank.com,hdfc-sif.in,Suspected,0.5,0.0,11,1,1,1
+HDFC Bank,hdfcbank.com,hdfcsif.in,Suspected,0.5333333333333333,1.0,10,1,0,1
+HDFC Bank,hdfcbank.com,hdfc-bank.cfd,Suspected,0.9411764705882353,1.0,13,1,1,1
+HDFC Bank,hdfcbank.com,hd23-df3.firebaseapp.com,Phishing,0.375,0.0,24,2,1,2
+HDFC Bank,hdfcbank.com,hd09-fc98.firebaseapp.com,Phishing,0.47058823529411764,1.0,25,2,1,2
+HDFC Bank,hdfcbank.com,hd5h-mk5.firebaseapp.com,Phishing,0.375,0.0,24,2,1,2
+HDFC Bank,hdfcbank.com,ewew-b4d13.firebaseapp.com,Phishing,0.1111111111111111,2.0,26,2,1,2
+HDFC Bank,hdfcbank.com,hd15-nmh1.firebaseapp.com,Phishing,0.35294117647058826,1.0,25,2,1,2
+HDFC Bank,hdfcbank.com,h-11av.firebaseapp.com,Phishing,0.2857142857142857,2.0,22,2,1,2
+HDFC Bank,hdfcbank.com,hdiy-3a.firebaseapp.com,Phishing,0.4,1.0,23,2,1,2
+HDFC Bank,hdfcbank.com,bfse-5378c.firebaseapp.com,Phishing,0.1111111111111111,2.0,26,2,1,2
+HDFC Bank,hdfcbank.com,hd-1fa.firebaseapp.com,Phishing,0.5714285714285714,2.0,22,2,1,2
+HDFC Bank,hdfcbank.com,hd2-fy.firebaseapp.com,Phishing,0.42857142857142855,2.0,22,2,1,2
+HDFC Bank,hdfcbank.com,hdfccapital.net,Phishing,0.5263157894736842,3.0,15,1,0,2
+HDFC Bank,hdfcbank.com,hdfcbankvyapar.com,Phishing,0.7272727272727273,6.0,18,1,0,2
+HDFC Bank,hdfcbank.com,hdfcbankdinersclub.in,Suspected,0.6153846153846154,10.0,21,1,0,1
+HDFC Bank,hdfcbank.com,hdfcmutualfund.co.in,Suspected,0.5454545454545454,6.0,20,2,0,1
+HDFC Bank,hdfcbank.com,hdfcmutualfunds.co.in,Suspected,0.5217391304347826,7.0,21,2,0,1
+HDFC Bank,hdfcbank.com,hdfcbankabslitraining.in,Suspected,0.5517241379310345,13.0,24,1,0,1
+HDFC Bank,hdfcbank.com,hdfcalerts.in,Suspected,0.5555555555555556,2.0,13,1,0,1
+HDFC Bank,hdfcbank.com,hdfcpay.in,Suspected,0.6666666666666666,1.0,10,1,0,1
+HDFC Bank,hdfcbank.com,hdfcmfsipsaheli.in,Suspected,0.43478260869565216,7.0,18,1,0,1
+HDFC Bank,hdfcbank.com,ahdfcy.com,Suspected,0.5714285714285714,2.0,10,1,0,1
+HDFC Bank,hdfcbank.com,hdfc-bank.in,Suspected,0.9411764705882353,1.0,12,1,1,1
+HDFC Bank,hdfcbank.com,hdfcbank.app,Suspected,1.0,0.0,12,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.ninja,Suspected,1.0,0.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.pink,Suspected,1.0,0.0,13,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.science,Suspected,1.0,0.0,16,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.sale,Suspected,1.0,0.0,13,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.bet,Suspected,1.0,0.0,12,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.bingo,Suspected,1.0,0.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.black,Suspected,1.0,0.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.business,Suspected,1.0,0.0,17,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.buzz,Suspected,1.0,0.0,13,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.cash,Suspected,1.0,0.0,13,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.chat,Suspected,1.0,0.0,13,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.cheap,Suspected,1.0,0.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.construction,Suspected,1.0,0.0,21,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.directory,Suspected,1.0,0.0,18,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.florist,Suspected,1.0,0.0,16,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.furniture,Suspected,1.0,0.0,18,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.gifts,Suspected,1.0,0.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.golf,Suspected,1.0,0.0,13,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.industries,Suspected,1.0,0.0,19,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.institute,Suspected,1.0,0.0,18,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.marketing,Suspected,1.0,0.0,18,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.news,Suspected,1.0,0.0,13,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.camp,Suspected,1.0,0.0,13,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.careers,Suspected,1.0,0.0,16,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.contact,Suspected,1.0,0.0,16,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.engineer,Suspected,1.0,0.0,17,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.live,Suspected,1.0,0.0,13,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.coach,Suspected,1.0,0.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.computer,Suspected,1.0,0.0,17,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.events,Suspected,1.0,0.0,15,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.clinic,Suspected,1.0,0.0,15,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.delivery,Suspected,1.0,0.0,17,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.faith,Suspected,1.0,0.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.football,Suspected,1.0,0.0,17,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.fund,Suspected,1.0,0.0,13,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.irish,Suspected,1.0,0.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.kaufen,Suspected,1.0,0.0,15,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.markets,Suspected,1.0,0.0,16,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.media,Suspected,1.0,0.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.solar,Suspected,1.0,0.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.singles,Suspected,1.0,0.0,16,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.party,Suspected,1.0,0.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.pizza,Suspected,1.0,0.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.school,Suspected,1.0,0.0,15,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank-ypb.in,Suspected,0.8,4.0,15,1,1,1
+HDFC Bank,hdfcbank.com,hdfcbankfinance.net,Suspected,0.6956521739130435,7.0,19,1,0,1
+HDFC Bank,hdfcbank.com,hdfcsecurities.in,Suspected,0.36363636363636365,6.0,17,1,0,1
+HDFC Bank,hdfcbank.com,hdfcorg.co.in,Suspected,0.5333333333333333,1.0,13,2,0,1
+HDFC Bank,hdfcbank.com,yyhdfcci.shop,Suspected,0.5,0.0,13,1,0,1
+HDFC Bank,hdfcbank.com,hdfcai.net,Suspected,0.7142857142857143,2.0,10,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.today,Suspected,1.0,0.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfconline.co.in,Suspected,0.5555555555555556,2.0,16,2,0,1
+HDFC Bank,hdfcbank.com,hdfc-story.xyz,Suspected,0.4444444444444444,2.0,14,1,1,1
+HDFC Bank,hdfcbank.com,hdfcbankinfo.co.in,Suspected,0.8,4.0,18,2,0,1
+HDFC Bank,hdfcbank.com,hdfc-banking.co.in,Suspected,0.8,4.0,18,2,1,1
+HDFC Bank,hdfcbank.com,hdfcco.co.in,Suspected,0.5714285714285714,2.0,12,2,0,1
+HDFC Bank,hdfcbank.com,hdfc-loans.in,Suspected,0.6666666666666666,2.0,13,1,1,1
+HDFC Bank,hdfcbank.com,hdfcbank.store,Suspected,1.0,0.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfc.net.in,Suspected,0.6666666666666666,4.0,11,2,0,1
+HDFC Bank,hdfcbank.com,hdfcm.com,Suspected,0.6153846153846154,3.0,9,1,0,1
+HDFC Bank,hdfcbank.com,alerts-hdfcbank.net,Suspected,0.6956521739130435,7.0,19,1,1,1
+HDFC Bank,hdfcbank.com,thehdfc.co.in,Suspected,0.5333333333333333,1.0,13,2,0,1
+HDFC Bank,hdfcbank.com,thehdfc.net.in,Suspected,0.5333333333333333,1.0,14,2,0,1
+HDFC Bank,hdfcbank.com,thehdfc.in,Suspected,0.5333333333333333,1.0,10,1,0,1
+HDFC Bank,hdfcbank.com,hffcbank.com,Suspected,0.875,0.0,12,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.poker,Suspected,1.0,0.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbanknet.info,Suspected,0.8421052631578947,3.0,16,1,0,1
+HDFC Bank,hdfcbank.com,hdfcpolicy.in,Suspected,0.4444444444444444,2.0,13,1,0,1
+HDFC Bank,hdfcbank.com,dchdfcbank.com,Suspected,0.8888888888888888,2.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.games,Suspected,1.0,0.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.support,Suspected,1.0,0.0,16,1,0,1
+HDFC Bank,hdfcbank.com,hdfbank.com,Suspected,0.9333333333333333,1.0,11,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbak.com,Suspected,0.9333333333333333,1.0,11,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbani.com,Suspected,0.875,0.0,12,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.ltd,Suspected,1.0,0.0,12,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.uk,Suspected,1.0,0.0,11,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbanki.com,Suspected,0.9411764705882353,1.0,13,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbanl.com,Suspected,0.875,0.0,12,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbsnk.com,Suspected,0.875,0.0,12,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbwnk.com,Suspected,0.875,0.0,12,1,0,1
+HDFC Bank,hdfcbank.com,hdfcnank.com,Suspected,0.875,0.0,12,1,0,1
+HDFC Bank,hdfcbank.com,hdfcergopolicyrenewalinsurances.in,Suspected,0.3076923076923077,23.0,34,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbankonline.in,Suspected,0.7272727272727273,6.0,17,1,0,1
+HDFC Bank,hdfcbank.com,hdfc.ind.in,Suspected,0.6666666666666666,4.0,11,2,0,1
+HDFC Bank,hdfcbank.com,hdfcbankltd.in,Suspected,0.8421052631578947,3.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfcsa1es.co.in,Suspected,0.5882352941176471,1.0,15,2,0,1
+HDFC Bank,hdfcbank.com,loginhdfc.in,Suspected,0.47058823529411764,1.0,12,1,0,1
+HDFC Bank,hdfcbank.com,mycardhdfc.in,Suspected,0.4444444444444444,2.0,13,1,0,1
+HDFC Bank,hdfcbank.com,hdfcodes.site,Suspected,0.5,0.0,13,1,0,1
+HDFC Bank,hdfcbank.com,hdfcretail.in,Suspected,0.5555555555555556,2.0,13,1,0,1
+HDFC Bank,hdfcbank.com,hdfcsales.info,Suspected,0.5882352941176471,1.0,14,1,0,1
+HDFC Bank,hdfcbank.com,hdfchousingfinance.com,Suspected,0.46153846153846156,10.0,22,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbank.netportall.com,Suspected,1.0,0.0,23,2,0,1
+HDFC Bank,hdfcbank.com,hdfccareer.in,Suspected,0.5555555555555556,2.0,13,1,0,1
+HDFC Bank,hdfcbank.com,hdfc.com.in,Suspected,0.6666666666666666,4.0,11,2,0,1
+HDFC Bank,hdfcbank.com,hdfcergorenewal.in,Suspected,0.43478260869565216,7.0,18,1,0,1
+HDFC Bank,hdfcbank.com,hdfcsecurities.co.in,Suspected,0.36363636363636365,6.0,20,2,0,1
+HDFC Bank,hdfcbank.com,myaccounthdfclife.co.in,Suspected,0.32,9.0,23,2,0,1
+HDFC Bank,hdfcbank.com,hdfcbankloan.in,Suspected,0.8,4.0,15,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbankcreditcard.in,Suspected,0.6153846153846154,10.0,21,1,0,1
+HDFC Bank,hdfcbank.com,hdfcincrase.today,Suspected,0.5263157894736842,3.0,17,1,0,1
+HDFC Bank,hdfcbank.com,hdfcbanking.org,Suspected,0.8421052631578947,3.0,15,1,0,1
+HDFC Bank,hdfcbank.com,hdfcergoinsurancerenewal.in,Suspected,0.375,16.0,27,1,0,1
+HDFC Bank,hdfcbank.com,workonlinehdfcbank.com,Suspected,0.6153846153846154,10.0,22,1,0,1
+HDFC Bank,hdfcbank.com,xhdfc.com,Suspected,0.6153846153846154,3.0,9,1,0,1
+HDFC Bank,hdfcbank.com,hdfc-bonus.cfd,Suspected,0.6666666666666666,2.0,14,1,1,1
+HDFC Bank,hdfcbank.com,hd94-fc67.firebaseapp.com,Phishing,0.47058823529411764,1.0,25,2,1,2
+HDFC Bank,hdfcbank.com,whsh01-ksj18.firebaseapp.com,Phishing,0.2,4.0,28,2,1,2
+HDFC Bank,hdfcbank.com,hcfc-b6a51.firebaseapp.com,Phishing,0.5555555555555556,2.0,26,2,1,2
+HDFC Bank,hdfcbank.com,sks08-akwo22.firebaseapp.com,Phishing,0.1,4.0,28,2,1,2
+HDFC Bank,hdfcbank.com,hdx6-hdr6.firebaseapp.com,Phishing,0.23529411764705882,1.0,25,2,1,2
+HDFC Bank,hdfcbank.com,hdsxd1.firebaseapp.com/f1,Phishing,0.2857142857142857,2.0,25,2,0,2
+HDFC Bank,hdfcbank.com,hda18-ms1.firebaseapp.com/,Phishing,0.35294117647058826,1.0,26,2,1,2
+HDFC Bank,hdfcbank.com,hd31-md1.firebaseapp.com/f1,Phishing,0.25,0.0,27,2,1,2
+HDFC Bank,hdfcbank.com,hd22-mu2x.firebaseapp.com/f1,Phishing,0.23529411764705882,1.0,28,2,1,2
+HDFC Bank,hdfcbank.com,hd21-mkw1.firebaseapp.com/f1,Phishing,0.35294117647058826,1.0,28,2,1,2
+HDFC Bank,hdfcbank.com,hd4s-kp4d.firebaseapp.com/f1,Phishing,0.35294117647058826,1.0,28,2,1,2
+HDFC Bank,hdfcbank.com,hd3s-kour4.firebaseapp.com/f1,Phishing,0.3333333333333333,2.0,29,2,1,2
+HDFC Bank,hdfcbank.com,hdec-f13ed.firebaseapp.com/f1 ,Phishing,0.3333333333333333,2.0,30,2,1,2
+HDFC Bank,hdfcbank.com,jsjjs09-d097e.firebaseapp.com/f1 ,Phishing,0.09523809523809523,5.0,33,2,1,2
+HDFC Bank,hdfcbank.com,hd1-mka1.firebaseapp.com/f1 ,Phishing,0.375,0.0,28,2,1,2
+HDFC Bank,hdfcbank.com,hd2a-mkae2.firebaseapp.com/f1 ,Phishing,0.4444444444444444,2.0,30,2,1,2
+HDFC Bank,hdfcbank.com,hd1-mkd1.firebaseapp.com/f1 ,Phishing,0.375,0.0,28,2,1,2
+HDFC Bank,hdfcbank.com,hbcd-f016c.firebaseapp.com/f1 ,Phishing,0.2222222222222222,2.0,30,2,1,2
+HDFC Bank,hdfcbank.com,hd-mkf24.firebaseapp.com/f1,Phishing,0.375,0.0,27,2,1,2
+HDFC Bank,hdfcbank.com,hd4w-kfd4.firebaseapp.com/,Phishing,0.35294117647058826,1.0,26,2,1,2
+HDFC Bank,hdfcbank.com,"
+hd8r-mkfd8s.firebaseapp.com/",Phishing,0.3,4.0,29,2,1,2
+HDFC Bank,hdfcbank.com,hd6-ms6d.firebaseapp.com/f1,Phishing,0.25,0.0,27,2,1,2
+HDFC Bank,hdfcbank.com,hd4-mfh4d.firebaseapp.com/f1,Phishing,0.35294117647058826,1.0,28,2,1,2
+HDFC Bank,hdfcbank.com,hd3-md3x.firebaseapp.com/f1,Phishing,0.25,0.0,27,2,1,2
+HDFC Bank,hdfcbank.com,hxz-55yt.firebaseapp.com,Phishing,0.125,0.0,24,2,1,2
+HDFC Bank,hdfcbank.com,h-11av.firebaseapp.com/,Phishing,0.2857142857142857,2.0,23,2,1,2
+HDFC Bank,hdfcbank.com,trde-bef50.firebaseapp.com/,Phishing,0.2222222222222222,2.0,27,2,1,2
+HDFC Bank,hdfcbank.com,aaaqq-89cae.firebaseapp.com/,Phishing,0.10526315789473684,3.0,28,2,1,2
+HDFC Bank,hdfcbank.com,hd-1wi.firebaseapp.com/ka,Phishing,0.2857142857142857,2.0,25,2,1,2
+HDFC Bank,hdfcbank.com,hdasw-44086.firebaseapp.com,Phishing,0.3157894736842105,3.0,27,2,1,2
+HDFC Bank,hdfcbank.com,hyt-1fa.firebaseapp.com/ka,Phishing,0.4,1.0,26,2,1,2
+HDFC Bank,hdfcbank.com,yuhh-b49cd.firebaseapp.com,Phishing,0.2222222222222222,2.0,26,2,1,2
+HDFC Bank,hdfcbank.com,awsz-81822.firebaseapp.com,Phishing,0.1111111111111111,2.0,26,2,1,2
+HDFC Bank,hdfcbank.com,ljhy-128fd.firebaseapp.com,Phishing,0.2222222222222222,2.0,26,2,1,2
+HDFC Bank,hdfcbank.com,nmcv-5cc34.firebaseapp.com,Phishing,0.1111111111111111,2.0,26,2,1,2
+HDFC Bank,hdfcbank.com,dfkjd-b7601.firebaseapp.com,Phishing,0.3157894736842105,3.0,27,2,1,2
+HDFC Bank,hdfcbank.com,hgjk-7354f.firebaseapp.com,Phishing,0.2222222222222222,2.0,26,2,1,2
+HDFC Bank,hdfcbank.com,kilik-eb4d5.firebaseapp.com,Phishing,0.10526315789473684,3.0,27,2,1,2
+HDFC Bank,hdfcbank.com,dfjf-b29b1.firebaseapp.com,Phishing,0.3333333333333333,2.0,26,2,1,2
+HDFC Bank,hdfcbank.com,mnjde-b2973.firebaseapp.com,Phishing,0.10526315789473684,3.0,27,2,1,2
+HDFC Bank,hdfcbank.com,fekjre-df4e4.firebaseapp.com/,Phishing,0.2,4.0,29,2,1,2
+HDFC Bank,hdfcbank.com,fyyu-3f1de.firebaseapp.com,Phishing,0.1111111111111111,2.0,26,2,1,2
+HDFC Bank,hdfcbank.com,ewkw-a4ef1.firebaseapp.com,Phishing,0.1111111111111111,2.0,26,2,1,2
+HDFC Bank,hdfcbank.com,erwe-3b3d0.firebaseapp.com/,Phishing,0.1111111111111111,2.0,27,2,1,2
+HDFC Bank,hdfcbank.com,dfkdd-b3641.firebaseapp.com,Phishing,0.3157894736842105,3.0,27,2,1,2
+HDFC Bank,hdfcbank.com,jai-amma.firebaseapp.com,Phishing,0.125,0.0,24,2,1,2
+HDFC Bank,hdfcbank.com,radhe--jai.firebaseapp.com,Phishing,0.1111111111111111,2.0,26,2,2,2
+HDFC Bank,hdfcbank.com,ukfr-c5da9.firebaseapp.com,Phishing,0.1111111111111111,2.0,26,2,1,2
+HDFC Bank,hdfcbank.com,shya-pjt9.firebaseapp.com,Phishing,0.23529411764705882,1.0,25,2,1,2
+HDFC Bank,hdfcbank.com,hd-ujfc1.firebaseapp.com,Phishing,0.5,0.0,24,2,1,2
+HDFC Bank,hdfcbank.com,dfg-kmn.firebaseapp.com/a,Phishing,0.4,1.0,25,2,1,2
+HDFC Bank,hdfcbank.com,rane-1d1ee.firebaseapp.com/h,Phishing,0.2222222222222222,2.0,28,2,1,2
+HDFC Ergo,hdfcergo.com,hdfcergoinsurancerenewpolicy.in,Suspected,0.4444444444444444,20.0,31,1,0,1
+HDFC Ergo,hdfcergo.com,hdfcergorenewhealthinsurancepolicy.in,Suspected,0.38095238095238093,26.0,37,1,0,1
+HDFC Ergo,hdfcergo.com,hdfcergohealthinsurancerenewyourpolicyhere.in,Suspected,0.32,34.0,45,1,0,1
+HDFC Ergo,hdfcergo.com,hdfcergogeneralhealthinsurance.in,Suspected,0.42105263157894735,22.0,33,1,0,1
+HDFC Ergo,hdfcergo.com,hdfcergopolicyrenewhere.in,Suspected,0.5161290322580645,15.0,26,1,0,1
+HDFC Ergo,hdfcergo.com,hdfcergopolicyrenewinsurances.in,Suspected,0.43243243243243246,21.0,32,1,0,1
+HDFC Ergo,hdfcergo.com,hdfcergorenewinsurancehere.in,Suspected,0.47058823529411764,18.0,29,1,0,1
+HDFC Ergo,hdfcergo.com,hdfcergorenewalpolicy.in,Suspected,0.5517241379310345,13.0,24,1,0,1
+HDFC Ergo,hdfcergo.com,hdfcergopolicyrenewalinsurance.in,Phishing,0.42105263157894735,22.0,33,1,0,2
+HDFC Life,hdfclife.com,el-hdfclife.in,Suspected,0.8421052631578947,3.0,14,1,1,1
+HDFC Life,hdfclife.com,hdfclife-el.in,Suspected,0.8421052631578947,3.0,14,1,1,1
+HDFC Life,hdfclife.com,el-hdfclife.co.in,Suspected,0.8421052631578947,3.0,17,2,1,1
+ICICI Bank,icicibank.com,loginicici.com,Phishing,0.5263157894736842,1.0,14,1,0,2
+ICICI Bank,icicibank.com,icici-india.com,Phishing,0.6,2.0,15,1,1,2
+ICICI Bank,icicibank.com,icicilogin.com,Phishing,0.631578947368421,1.0,14,1,0,2
+ICICI Bank,icicibank.com,country3.icicibank.adobecqms.net,Phishing,0.23529411764705882,1.0,32,3,0,2
+ICICI Bank,icicibank.com,icicibctk.icu,Phishing,0.7777777777777778,0.0,13,1,0,2
+ICICI Bank,icicibank.com,icicibank-coin.buzz,Phishing,0.782608695652174,5.0,19,1,1,2
+ICICI Bank,icicibank.com,icicibank-coin.top,Phishing,0.782608695652174,5.0,18,1,1,2
+ICICI Bank,icicibank.com,icicincion.top,Phishing,0.631578947368421,1.0,14,1,0,2
+ICICI Bank,icicibank.com,icicibank-nwnb.top,Phishing,0.782608695652174,5.0,18,1,1,2
+ICICI Bank,icicibank.com,icici-paypoint.cfd,Phishing,0.6086956521739131,5.0,18,1,1,2
+ICICI Bank,icicibank.com,icici-paypoint.sbs,Phishing,0.6086956521739131,5.0,18,1,1,2
+ICICI Bank,icicibank.com,icici-paypoint.top,Phishing,0.6086956521739131,5.0,18,1,1,2
+ICICI Bank,icicibank.com,icici-paypoints.cfd,Phishing,0.5833333333333334,6.0,19,1,1,2
+ICICI Bank,icicibank.com,icici-paypoints.sbs,Phishing,0.5833333333333334,6.0,19,1,1,2
+ICICI Bank,icicibank.com,icici-paylink.cfd,Phishing,0.7272727272727273,4.0,17,1,1,2
+ICICI Bank,icicibank.com,icici-paylink.xyz,Phishing,0.7272727272727273,4.0,17,1,1,2
+ICICI Bank,icicibank.com,imobileservices.online,Phishing,0.16666666666666666,6.0,22,1,0,2
+ICICI Bank,icicibank.com,country1.icicibank.adobecqms.net,Phishing,0.23529411764705882,1.0,32,3,0,2
+ICICI Bank,icicibank.com,icicibahnk.com,Suspected,0.9473684210526315,1.0,14,1,0,1
+ICICI Bank,icicibank.com,icicibajnk.com,Suspected,0.9473684210526315,1.0,14,1,0,1
+ICICI Bank,icicibank.com,icicibanc.com,Suspected,0.8888888888888888,0.0,13,1,0,1
+ICICI Bank,icicibank.com,icicibasnk.com,Suspected,0.9473684210526315,1.0,14,1,0,1
+ICICI Bank,icicibank.com,icicibamnk.com,Suspected,0.9473684210526315,1.0,14,1,0,1
+ICICI Bank,icicibank.com,iciciappstore.in,Suspected,0.5454545454545454,4.0,16,1,0,1
+ICICI Bank,icicibank.com,icicicardapp.co.in,Suspected,0.5714285714285714,3.0,18,2,0,1
+ICICI Bank,icicidirect.com,icicidirectfin.in,Suspected,0.88,3.0,17,1,0,1
+ICICI Bank,icicibank.com,icicifin.in,Suspected,0.7058823529411765,1.0,11,1,0,1
+ICICI Bank,icicibank.com,icicibank.tech,Suspected,1.0,0.0,14,1,0,1
+ICICI Bank,icicibank.com,iciciinfor.website,Suspected,0.631578947368421,1.0,18,1,0,1
+ICICI Bank,icicibank.com,icicicoins.sbs,Suspected,0.631578947368421,1.0,14,1,0,1
+ICICI Bank,icicibank.com,icici-game.in,Suspected,0.631578947368421,1.0,13,1,1,1
+ICICI Bank,icicibank.com,icicichest.in,Suspected,0.5263157894736842,1.0,13,1,0,1
+ICICI Bank,icicibank.com,icicicarloans.in,Suspected,0.6363636363636364,4.0,16,1,0,1
+ICICI Bank,icicibank.com,icici-paylink.sbs,Suspected,0.7272727272727273,4.0,17,1,1,1
+ICICI Bank,icicibank.com,icicib.co.in,Suspected,0.8,3.0,12,2,0,1
+ICICI Bank,icicibank.com,iciciback.top,Suspected,0.8888888888888888,0.0,13,1,0,1
+ICICI Bank,icicibank.com,icicibank.online,Suspected,1.0,0.0,16,1,0,1
+ICICI Bank,icicibank.com,icicibank.website,Suspected,1.0,0.0,17,1,0,1
+ICICI Bank,icicibank.com,icicibazk.top,Suspected,0.8888888888888888,0.0,13,1,0,1
+ICICI Bank,icicibank.com,icicibxek.shop,Suspected,0.7777777777777778,0.0,14,1,0,1
+ICICI Bank,icicibank.com,icicibxsak.shop,Suspected,0.8421052631578947,1.0,15,1,0,1
+ICICI Bank,icicibank.com,icicibxsek.shop,Suspected,0.7368421052631579,1.0,15,1,0,1
+ICICI Bank,icicibank.com,icicibxsrk.shop,Suspected,0.7368421052631579,1.0,15,1,0,1
+ICICI Bank,icicibank.com,iciciibank.top,Suspected,0.9473684210526315,1.0,14,1,0,1
+ICICI Bank,icicibank.com,icici.homes,Suspected,0.7142857142857143,4.0,11,1,0,1
+ICICI Bank,icicibank.com,icicibankcareer.xyz,Suspected,0.75,6.0,19,1,0,1
+ICICI Bank,icicibank.com,icicibankpersonalloan.xyz,Suspected,0.6,12.0,25,1,0,1
+ICICI Bank,icicibank.com,points-icici.cfd,Suspected,0.47619047619047616,3.0,16,1,1,1
+ICICI Bank,icicibank.com,points-icici.click,Suspected,0.47619047619047616,3.0,18,1,1,1
+ICICI Bank,icicibank.com,points-icici.top,Suspected,0.47619047619047616,3.0,16,1,1,1
+ICICI Bank,icicibank.com,points-icici.xyz,Suspected,0.47619047619047616,3.0,16,1,1,1
+ICICI Bank,icicibank.com,icici.xyz,Suspected,0.7142857142857143,4.0,9,1,0,1
+ICICI Bank,icicibank.com,icicimua520.xyz,Suspected,0.6,2.0,15,1,0,1
+ICICI Bank,icicibank.com,imobile.services,Suspected,0.25,2.0,16,1,0,1
+ICICI bank,icicibank.com,icicilbank.vip,Suspected,0.9473684210526315,1.0,14,1,0,1
+ICICI bank,icicibank.com,icicillbank.vip,Suspected,0.9,2.0,15,1,0,1
+ICICI Bank,icicibank.com,iciciibank.vip,Suspected,0.9473684210526315,1.0,14,1,0,1
+ICICI Bank,icicibank.com,icicibanka.sbs,Suspected,0.9473684210526315,1.0,14,1,0,1
+ICICI Bank,icicibank.com,icicirewardspro.in,Phishing,0.5,6.0,18,1,0,2
+ICICI Bank,icicibank.com,icicibak.com,Phishing,0.9411764705882353,1.0,12,1,0,2
+ICICI Bank,icicibank.com,icicirewardstore.in,Suspected,0.48,7.0,19,1,0,1
+ICICI Bank,icicibank.com,icicipruamc.co.in,Suspected,0.6,2.0,17,2,0,1
+ICICI Bank,icicibank.com,icicicreditcards.in,Suspected,0.48,7.0,19,1,0,1
+ICICI Bank,icicibank.com,mycardicici.in,Suspected,0.5,2.0,14,1,0,1
+ICICI Bank,icicibank.com,icicipruamc.in,Suspected,0.6,2.0,14,1,0,1
+ICICI Bank,icicibank.com,icicicard.xyz,Suspected,0.6666666666666666,0.0,13,1,0,1
+ICICI Bank,icicibank.com,iciciapp.in,Suspected,0.7058823529411765,1.0,11,1,0,1
+ICICI Bank,icicibank.com,mycardicici.co.in,Suspected,0.5,2.0,17,2,0,1
+ICICI Bank,icicibank.com,icici-bank.org.in,Suspected,0.9473684210526315,1.0,17,2,1,1
+ICICI Bank,icicibank.com,icicibankstatement.co.in,Suspected,0.6666666666666666,9.0,24,2,0,1
+ICICI Bank,icicibank.com,iciciapp.co.in,Suspected,0.7058823529411765,1.0,14,2,0,1
+ICICI Bank,icicibank.com,iciciicard.in,Suspected,0.631578947368421,1.0,13,1,0,1
+ICICI Bank,icicibank.com,cardiciciapply.co.in,Suspected,0.5217391304347826,5.0,20,2,0,1
+ICICI Bank,icicibank.com,icicibankcarrers.in,Suspected,0.72,7.0,19,1,0,1
+ICICI Bank,icicibank.com,icicimyrewards.net,Suspected,0.5217391304347826,5.0,18,1,0,1
+ICICI Bank,icicibank.com,icicisavingsreward.net ,Suspected,0.5185185185185185,9.0,23,1,0,1
+ICICI Bank,icicibank.com,icicibank.auction,Suspected,1.0,0.0,17,1,0,1
+ICICI Bank,icicibank.com,icicibank.boutique,Suspected,1.0,0.0,18,1,0,1
+ICICI Bank,icicibank.com,icicibank.buzz,Suspected,1.0,0.0,14,1,0,1
+ICICI Bank,icicibank.com,icici.direct,Suspected,0.7142857142857143,4.0,12,1,0,1
+ICICI Bank,icicibank.com,icicibank.chat,Suspected,1.0,0.0,14,1,0,1
+ICICI Bank,icicibank.com,icicibank.florist,Suspected,1.0,0.0,17,1,0,1
+ICICI Bank,icicibank.com,infoicicibank.xyz,Suspected,0.8181818181818182,4.0,17,1,0,1
+ICICI Bank,icicibank.com,icicidemafinance.in,Suspected,0.56,7.0,19,1,0,1
+ICICI Bank,icicibank.com,icicico.in,Suspected,0.625,2.0,10,1,0,1
+ICICI Bank,icicibank.com,icicidemat.co.in,Suspected,0.631578947368421,1.0,16,2,0,1
+ICICI Bank,icicibank.com,icici-demat-168169687.click,Suspected,0.4,12.0,27,1,2,1
+ICICI Bank,icicibank.com,theicici.co.in,Suspected,0.5882352941176471,1.0,14,2,0,1
+ICICI Bank,icicibank.com,icicibank.bingo,Suspected,1.0,0.0,15,1,0,1
+ICICI Bank,icicibank.com,icicibank.bond,Suspected,1.0,0.0,14,1,0,1
+ICICI Bank,icicibank.com,icicibank.college,Suspected,1.0,0.0,17,1,0,1
+ICICI Bank,icicibank.com,icicibank.download,Suspected,1.0,0.0,18,1,0,1
+ICICI Bank,icicibank.com,icicibank.engineer,Suspected,1.0,0.0,18,1,0,1
+ICICI Bank,icicibank.com,icicibank.events,Suspected,1.0,0.0,16,1,0,1
+ICICI Bank,icicibank.com,icicibank.football,Suspected,1.0,0.0,18,1,0,1
+ICICI Bank,icicibank.com,icicibank.furniture,Suspected,1.0,0.0,19,1,0,1
+ICICI Bank,icicibank.com,icicibank.gifts,Suspected,1.0,0.0,15,1,0,1
+ICICI Bank,icicibank.com,icicibank.global,Suspected,1.0,0.0,16,1,0,1
+ICICI Bank,icicibank.com,icicibank.golf,Suspected,1.0,0.0,14,1,0,1
+ICICI Bank,icicibank.com,icicibank.group,Suspected,1.0,0.0,15,1,0,1
+ICICI Bank,icicibank.com,icicibank.hockey,Suspected,1.0,0.0,16,1,0,1
+ICICI Bank,icicibank.com,icicibank.homes,Suspected,1.0,0.0,15,1,0,1
+ICICI Bank,icicibank.com,icicibank.industries,Suspected,1.0,0.0,20,1,0,1
+ICICI Bank,icicibank.com,icicibank.institute,Suspected,1.0,0.0,19,1,0,1
+ICICI Bank,icicibank.com,icicibank.kaufen,Suspected,1.0,0.0,16,1,0,1
+ICICI Bank,icicibank.com,icicibank.mba,Suspected,1.0,0.0,13,1,0,1
+ICICI Bank,icicibank.com,icicibank.plumbing,Suspected,1.0,0.0,18,1,0,1
+ICICI Bank,icicibank.com,icicibank.sbs,Suspected,1.0,0.0,13,1,0,1
+ICICI Bank,icicibank.com,icicibank.singles,Suspected,1.0,0.0,17,1,0,1
+ICICI Bank,icicibank.com,icicibank.media,Suspected,1.0,0.0,15,1,0,1
+ICICI Bank,icicibank.com,icicibank.men,Suspected,1.0,0.0,13,1,0,1
+ICICI Bank,icicibank.com,icicibank.rentals,Suspected,1.0,0.0,17,1,0,1
+ICICI Bank,icicibank.com,icicibank.run,Suspected,1.0,0.0,13,1,0,1
+ICICI Bank,icicibank.com,icicibank.sale,Suspected,1.0,0.0,14,1,0,1
+ICICI Bank,icicibank.com,icicibank.solar,Suspected,1.0,0.0,15,1,0,1
+ICICI Bank,icicibank.com,icicibank.studio,Suspected,1.0,0.0,16,1,0,1
+ICICI Bank,icicibank.com,icicibank.taxi,Suspected,1.0,0.0,14,1,0,1
+ICICI Bank,icicibank.com,icicibank.team,Suspected,1.0,0.0,14,1,0,1
+ICICI Bank,icicibank.com,icicibank.tools,Suspected,1.0,0.0,15,1,0,1
+ICICI Bank,icicibank.com,icicibank.vin,Suspected,1.0,0.0,13,1,0,1
+ICICI Bank,icicibank.com,icicibank.voyage,Suspected,1.0,0.0,16,1,0,1
+ICICI Bank,icicibank.com,icicibank.works,Suspected,1.0,0.0,15,1,0,1
+ICICI Bank,icicibank.com,icicibank.zone,Suspected,1.0,0.0,14,1,0,1
+ICICI Bank,icicibank.com,icicibamk.com,Suspected,0.8888888888888888,0.0,13,1,0,1
+ICICI Bank,icicibank.com,icici.today,Suspected,0.7142857142857143,4.0,11,1,0,1
+ICICI Bank,icicibank.com,icicbank.com,Suspected,0.9411764705882353,1.0,12,1,0,1
+ICICI Bank,icicibank.com,icicibanj.com,Suspected,0.8888888888888888,0.0,13,1,0,1
+ICICI Bank,icicibank.com,icicibank.live,Suspected,1.0,0.0,14,1,0,1
+ICICI Bank,icicibank.com,icicibannk.com,Suspected,0.9473684210526315,1.0,14,1,0,1
+ICICI Bank,icicibank.com,icicipank.com,Suspected,0.8888888888888888,0.0,13,1,0,1
+ICICI Bank,icicibank.com,iicicibank.com,Suspected,0.9473684210526315,1.0,14,1,0,1
+ICICI Bank,icicibank.com,icicibank.poker,Suspected,1.0,0.0,15,1,0,1
+ICICI Bank,icicibank.com,icici.cash,Suspected,0.7142857142857143,4.0,10,1,0,1
+ICICI Bank,icicibank.com,icicidirect.shop,Suspected,0.5,2.0,16,1,0,1
+ICICI Bank,icicibank.com,icicidirect.website,Suspected,0.5,2.0,19,1,0,1
+ICICI Bank,icicibank.com,iciciamc.in,Suspected,0.7058823529411765,1.0,11,1,0,1
+ICICI Bank,icicibank.com,iciciloan.ltd,Suspected,0.7777777777777778,0.0,13,1,0,1
+ICICI Bank,icicibank.com,icicinetbanking.in,Suspected,0.75,6.0,18,1,0,1
+ICICI Bank,icicibank.com,rewardicicimobile.in,Suspected,0.46153846153846156,8.0,20,1,0,1
+ICICI Bank,icicibank.com,icicistoreapp.in,Suspected,0.5454545454545454,4.0,16,1,0,1
+ICICI Bank,icicibank.com,icici-services.co.in,Suspected,0.43478260869565216,5.0,20,2,1,1
+ICICI Bank,icicibank.com,icicibvank.com,Suspected,0.9473684210526315,1.0,14,1,0,1
+ICICI Bank,icicibank.com,icicibwnk.com,Suspected,0.8888888888888888,0.0,13,1,0,1
+ICICI Bank,icicibank.com,icicikbank.com,Suspected,0.9473684210526315,1.0,14,1,0,1
+ICICI Bank,icicibank.com,iciciubank.com,Suspected,0.9473684210526315,1.0,14,1,0,1
+ICICI Bank,icicibank.com,licicibank.com,Suspected,0.9473684210526315,1.0,14,1,0,1
+ICICI Bank,icicibank.com,iciciprolife.com,Suspected,0.47619047619047616,3.0,16,1,0,1
+ICICI Bank,icicibank.com,icicispor.in,Suspected,0.5555555555555556,0.0,12,1,0,1
+ICICI Bank,icicibank.com,icicibank.ind.in,Suspected,1.0,0.0,16,2,0,1
+ICICI Bank,icicibank.com,icicicreditcard.com,Suspected,0.5,6.0,19,1,0,1
+ICICI Bank,icicibank.com,icicifastag.co.in,Suspected,0.6,2.0,17,2,0,1
+ICICI Bank,icicibank.com,icicifastag.in,Suspected,0.6,2.0,14,1,0,1
+ICICI Bank,icicibank.com,theicicirwd.co.in,Suspected,0.5,2.0,17,2,0,1
+ICICI Bank,icicibank.com,icici.online,Suspected,0.7142857142857143,4.0,12,1,0,1
+ICICI Bank,icicibank.com,icicistoreapp.co.in,Suspected,0.5454545454545454,4.0,19,2,0,1
+ICICI Bank,icicibank.com,icici-direct.info,Suspected,0.47619047619047616,3.0,17,1,1,1
+ICICI Bank,icicibank.com,icicipru.in,Suspected,0.5882352941176471,1.0,11,1,0,1
+ICICI Bank,icicibank.com,icicipru-amc.in,Suspected,0.5714285714285714,3.0,15,1,1,1
+ICICI Bank,icicibank.com,icici-bank.sbs,Suspected,0.9473684210526315,1.0,14,1,1,1
+ICICI Bank,icicibank.com,icici-direct.in,Suspected,0.47619047619047616,3.0,15,1,1,1
+ICICI Bank,icicibank.com,icicisecurities.org.in,Suspected,0.4166666666666667,6.0,22,2,0,1
+ICICI Bank,icicibank.com,icicibank-coin.cfd,Suspected,0.782608695652174,5.0,18,1,1,1
+ICICI Bank,icicibank.com,icicibank-in.homes,Suspected,0.8571428571428571,3.0,18,1,1,1
+ICICI Bank,icicibank.com,icicibzak.shop,Suspected,0.8888888888888888,0.0,14,1,0,1
+ICICI Bank,icicibank.com,icici-linkpoint.cfd,Suspected,0.5833333333333334,6.0,19,1,1,1
+ICICI Bank,icicibank.com,icici-linkpoint.click,Suspected,0.5833333333333334,6.0,21,1,1,1
+ICICI Bank,icicibank.com,icici-linkpoint.lol,Suspected,0.5833333333333334,6.0,19,1,1,1
+ICICI Bank,icicibank.com,icici-linkpoint.top,Suspected,0.5833333333333334,6.0,19,1,1,1
+ICICI Bank,icicibank.com,icici-linkpoint.xyz,Suspected,0.5833333333333334,6.0,19,1,1,1
+ICICI Bank,icicibank.com,iciciinbank.cfd,Suspected,0.9,2.0,15,1,0,1
+ICICI bank,icicibank.com,0613iconnect.online,Suspected,0.2857142857142857,3.0,19,1,0,1
+ICICI bank,icicibank.com,icicibankbg.cfd,Suspected,0.9,2.0,15,1,0,1
+ICICI bank,icicibank.com,icicibankbg.sbs,Suspected,0.9,2.0,15,1,0,1
+ICICI bank,icicibank.com,icicilbank.cfd,Suspected,0.9473684210526315,1.0,14,1,0,1
+ICICI Bank,icicibank.com,icicibank.xyz,Suspected,1.0,0.0,13,1,0,1
+ICICI Lombard,icicilombard.com,icicilombard.xxx,Suspected,1.0,0.0,16,1,0,1
+ICICI Prudential Life Insurance,iciciprulife.com,iciciprulife-online.co.in,Suspected,0.7741935483870968,7.0,25,2,1,1
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclinfo.in,Suspected,0.6666666666666666,4.0,11,1,0,1
+Indian Oil Corporation Limited (IOCL),iocl.com,tpilpgiocl.in,Suspected,0.5714285714285714,6.0,13,1,0,1
+Indian Oil Corporation Limited (IOCL),iocl.com,indianiocl.top,Suspected,0.5714285714285714,6.0,14,1,0,1
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclsja.icu,Suspected,0.7272727272727273,3.0,11,1,0,1
+Indian Oil Corporation Limited (IOCL),iocl.com,iocl.app,Suspected,1.0,0.0,8,1,0,1
+Indian Oil Corporation Limited (IOCL),iocl.com,iocllpg.in,Suspected,0.7272727272727273,3.0,10,1,0,1
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclghfd.top,Phishing,0.6666666666666666,4.0,12,1,0,2
+Indian Oil Corporation Limited (IOCL),iocl.com,iocllinp.top,Phishing,0.6666666666666666,4.0,12,1,0,2
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclpwts.top,Phishing,0.6666666666666666,4.0,12,1,0,2
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclshwe.top,Phishing,0.6666666666666666,4.0,12,1,0,2
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclshwg.top,Phishing,0.6666666666666666,4.0,12,1,0,2
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclshwhx.top,Phishing,0.6153846153846154,5.0,13,1,0,2
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclshwsg.top,Phishing,0.6153846153846154,5.0,13,1,0,2
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclsiuy.top,Phishing,0.6666666666666666,4.0,12,1,0,2
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclsptrwa.top,Phishing,0.5714285714285714,6.0,14,1,0,2
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclxgsw.top,Phishing,0.6666666666666666,4.0,12,1,0,2
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclywts.top,Phishing,0.6666666666666666,4.0,12,1,0,2
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclsgwfg.top,Phishing,0.6153846153846154,5.0,13,1,0,2
+Indian Oil Corporation Limited (IOCL),iocl.com,iocllumding.co.in,Phishing,0.5333333333333333,7.0,17,2,0,2
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclsywt.top,Phishing,0.6666666666666666,4.0,12,1,0,2
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclgwag.top,Phishing,0.6666666666666666,4.0,12,1,0,2
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclshywtas.top,Phishing,0.5333333333333333,7.0,15,1,0,2
+Indian Oil Corporation Limited (IOCL),iocl.com,indianioclpts.top,Phishing,0.47058823529411764,9.0,17,1,0,2
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclapply.co.in,Suspected,0.6153846153846154,5.0,15,2,0,1
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclhgtx.top,Suspected,0.6666666666666666,4.0,12,1,0,1
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclindn.icu,Suspected,0.6666666666666666,4.0,12,1,0,1
+Indian Oil Corporation Limited (IOCL),iocl.com,iocliurz.fun,Suspected,0.6666666666666666,4.0,12,1,0,1
+Indian Oil Corporation Limited (IOCL),iocl.com,i8cl.com,Suspected,0.75,0.0,8,1,0,1
+Indian Oil Corporation Limited (IOCL),iocl.com,iiocl.com,Suspected,0.8888888888888888,1.0,9,1,0,1
+Indian Oil Corporation Limited (IOCL),iocl.com,ioclapply.net,Suspected,0.6153846153846154,5.0,13,1,0,1
+IRCTC,irctc.co.in,irctc.corover.ai,Phishing,1.0,0.0,16,2,0,2
+IRCTC,irctc.co.in,irctc.ind.in,Suspected,1.0,0.0,12,2,0,1
+"National Crime Records Bureau, Ministry of Home Affairs",ncrb.gov.in,aeludi.cyou,Phishing,0.0,2.0,11,1,0,2
+"National Crime Records Bureau, Ministry of Home Affairs",ncrb.gov.in,inludi.cyou,Phishing,0.2,2.0,11,1,0,2
+National Informatics Centre (NIC),email.gov.in,kavachsafety.in,Suspected,0.11764705882352941,7.0,15,1,0,1
+National Informatics Centre (NIC),email.gov.in,kavachrail.in,Suspected,0.4,5.0,13,1,0,1
+National Informatics Centre (NIC),email.gov.in,kavach-ai.in,Suspected,0.2857142857142857,4.0,12,1,1,1
+National Informatics Centre (NIC),email.gov.in,rudrakavach.in,Suspected,0.125,6.0,14,1,0,1
+National Informatics Centre (NIC),kavach.mail.gov.in,kavachonline.in,Suspected,0.6666666666666666,6.0,15,1,0,1
+National Informatics Centre (NIC),email.gov.in,email-govs.click,Phishing,0.6666666666666666,5.0,16,1,1,2
+National Informatics Centre (NIC),email.gov.in,twilight-glade-76955.pktriot.net,Phishing,0.16,15.0,32,2,2,2
+National Informatics Centre (NIC),email.gov.in,email.gov.in.drdosurvey.info,Suspected,1.0,0.0,28,4,0,1
+National Informatics Centre (NIC),email.gov.in,zohidsindia.com/random/auth.php,Phishing,0.125,6.0,31,2,0,2
+National Informatics Centre (NIC),email.gov.in,email.gov.in.avtzyu.store,Suspected,1.0,0.0,25,4,0,1
+National Informatics Centre (NIC),email.gov.in,email.gov.in.briefcases.email,Suspected,1.0,0.0,29,4,0,1
+National Informatics Centre (NIC),email.gov.in,email.gov.in.defenceindia.ltd,Suspected,1.0,0.0,29,4,0,1
+National Informatics Centre (NIC),email.gov.in,email.gov.in.departmentofdefence.de,Suspected,1.0,0.0,35,4,0,1
+National Informatics Centre (NIC),email.gov.in,email.gov.in.departmentofspace.info,Suspected,1.0,0.0,35,4,0,1
+National Informatics Centre (NIC),email.gov.in,email.gov.in.indiangov.site,Suspected,1.0,0.0,27,4,0,1
+National Informatics Centre (NIC),email.gov.in,email.gov.in.modindia.link,Suspected,1.0,0.0,26,4,0,1
+National Informatics Centre (NIC),email.gov.in,emailindia.in,Suspected,0.6666666666666666,5.0,13,1,0,1
+National Informatics Centre (NIC),kavach.mail.gov.in,kavach360.in,Suspected,0.8,3.0,12,1,0,1
+National Informatics Centre (NIC),kavach.mail.gov.in,kavach.biz,Suspected,1.0,0.0,10,1,0,1
+National Informatics Centre (NIC),accounts.mgovcloud.in,accounts.mgovcloud.in.cloudshare.digital,Suspected,1.0,0.0,40,4,0,1
+National Informatics Centre (NIC),accounts.mgovcloud.in,accounts.mgovcloud.in.virtualeoffice.cloud,Suspected,1.0,0.0,42,4,0,1
+National Informatics Centre (NIC),email.gov.in,email.gov.in.gov.in.ihws.co.in,Suspected,1.0,0.0,30,7,0,1
+National Informatics Centre (NIC),email.gov.in,email.gov.in.ihws.co.in,Suspected,1.0,0.0,23,5,0,1
+National Informatics Centre (NIC),email.gov.in,email.gov.in.leadadmin.in,Suspected,1.0,0.0,25,4,0,1
+National Informatics Centre (NIC),email.gov.in,email.gov.in.mygov.pw,Suspected,1.0,0.0,21,4,0,1
+National Informatics Centre (NIC),email.gov.in,email-info.dev,Suspected,0.6666666666666666,5.0,14,1,1,1
+National Informatics Centre (NIC),email.gov.in,email-info.xyz,Suspected,0.6666666666666666,5.0,14,1,1,1
+National Informatics Centre (NIC),nic.gov.in,nic-in.net,Suspected,0.6666666666666666,3.0,10,1,1,1
+National Informatics Centre (NIC),email.gov.in,email-govs.in,Suspected,0.6666666666666666,5.0,13,1,1,1
+National Informatics Centre (NIC),email.gov.in,nicemail.in,Suspected,0.7692307692307693,3.0,11,1,0,1
+National Informatics Centre (NIC),email.gov.in,nic-mails.in,Suspected,0.5714285714285714,4.0,12,1,1,1
+National Informatics Centre (NIC),email.gov.in,gov-email.com,Suspected,0.7142857142857143,4.0,13,1,1,1
+National Informatics Centre (NIC),kavach.mail.gov.in,kavachh.co.in,Suspected,0.9230769230769231,1.0,13,2,0,1
+National Informatics Centre (NIC),nic.gov.in,nic-tech.top,Suspected,0.5454545454545454,5.0,12,1,1,1
+National Informatics Centre (NIC),nic.gov.in,nicmail.top,Suspected,0.6,4.0,11,1,0,1
+National Informatics Centre (NIC),email.gov.in,red-surf-08881.pktriot.net,Suspected,0.10526315789473684,9.0,26,2,2,1
+National Informatics Centre (NIC),email.gov.in,email.gov.in.ministryofdefenceindia.org,Suspected,1.0,0.0,39,4,0,1
+National Informatics Centre (NIC),email.gov.in,email-gov.icu,Suspected,0.7142857142857143,4.0,13,1,1,1
+National Informatics Centre (NIC),email.gov.in,mail.e-gov.in.ua,Suspected,0.8888888888888888,1.0,16,3,1,1
+National Informatics Centre (NIC),email.gov.in,gov-nicz.cfd,Suspected,0.15384615384615385,3.0,12,1,1,1
+National Informatics Centre (NIC),email.gov.in,nicemail.xyz,Suspected,0.7692307692307693,3.0,12,1,0,1
+Punjab National Bank,pnbindia.in,helppnbindia.in,Suspected,0.8,4.0,15,1,0,1
+Punjab National Bank,pnbindia.in,pnbmail.co.in,Suspected,0.5333333333333333,1.0,13,2,0,1
+SBI Card,sbicard.com,loginsbicard.in,Suspected,0.7368421052631579,5.0,15,1,0,1
+SBI Card,sbicard.com,onlinesbicard.in,Suspected,0.7,6.0,16,1,0,1
+SBI Life,sbilife.co.in,onlineplanssbilife.co.in,Suspected,0.56,11.0,24,2,0,1
+SBI Life,sbilife.co.in,onlinesbilifeinsurance.co.in,Suspected,0.4827586206896552,15.0,28,2,0,1
+SBI Life,sbilife.co.in,sbilifefinance.in,Suspected,0.6666666666666666,7.0,17,1,0,1
+SBI Life,sbilife.co.in,sbilifeinsurancequote.co.in,Suspected,0.5,14.0,27,2,0,1
+SBI Life,sbilife.co.in,sbilifeinsurancequote.in,Suspected,0.5,14.0,24,1,0,1
+SBI Life,sbilife.co.in,sbilifeinsurancequote.net,Suspected,0.5,14.0,25,1,0,1
+SBI Life,sbilife.co.in,sbilifeinsuranceservices.co.in,Suspected,0.45161290322580644,17.0,30,2,0,1
+SBI Life,sbilife.co.in,sbilifeinsuranceservices.in,Suspected,0.45161290322580644,17.0,27,1,0,1
+SBI Life,sbilife.co.in,sbilifeinsuranceservices.net,Suspected,0.45161290322580644,17.0,28,1,0,1
+SBI Life,sbilife.co.in,sbilifeonlineplans.co.in,Suspected,0.56,11.0,24,2,0,1
+SBI Life,sbilife.co.in,sbilifeonlineplans.in,Suspected,0.56,11.0,21,1,0,1
+SBI Life,sbilife.co.in,sbilifeonlineplans.net,Suspected,0.56,11.0,22,1,0,1
+SBI Life,sbilife.co.in,sbilifeplans.co.in,Suspected,0.7368421052631579,5.0,18,2,0,1
+SBI Life,sbilife.co.in,sbilifeplans.in,Suspected,0.7368421052631579,5.0,15,1,0,1
+SBI Life,sbilife.co.in,sbilifeplans.live,Suspected,0.7368421052631579,5.0,17,1,0,1
+SBI Life,sbilife.co.in,sbilifeplans.net ,Suspected,0.7368421052631579,5.0,17,1,0,1
+SBI Life,sbilife.co.in,sbilifepolicy.co.in,Suspected,0.7,6.0,19,2,0,1
+SBI Life,sbilife.co.in,onlinesbilifeinsurance.in,Suspected,0.4827586206896552,15.0,25,1,0,1
+SBI Life,sbilife.co.in,onlinesbilifeinsurance.net,Suspected,0.4827586206896552,15.0,26,1,0,1
+SBI Life,sbilife.co.in,sbiinsurance.in,Suspected,0.5263157894736842,5.0,15,1,0,1
+SBI Life,sbilife.co.in,sbiinsurance.net,Suspected,0.5263157894736842,5.0,16,1,0,1
+SBI Life,sbilife.co.in,sbilifefinance.net,Suspected,0.6666666666666666,7.0,18,1,0,1
+SBI Life,sbilife.co.in,sbilifeinsurance.co.in,Suspected,0.6086956521739131,9.0,22,2,0,1
+SBI Life,sbilife.co.in,sbilifeinsurance.net,Suspected,0.6086956521739131,9.0,20,1,0,1
+SBI Life,sbilife.co.in,sbilifeinsuranceonline.co.in,Suspected,0.4827586206896552,15.0,28,2,0,1
+SBI Life,sbilife.co.in,sbilifeinsuranceonline.in,Suspected,0.4827586206896552,15.0,25,1,0,1
+SBI Life,sbilife.co.in,sbilifeinsuranceonline.net,Suspected,0.4827586206896552,15.0,26,1,0,1
+SBI Life,sbilife.co.in,sbilifepolicy.in,Suspected,0.7,6.0,16,1,0,1
+State Bank Of India (SBI),sbi.co.in,sbibankcorp.co.in,Phishing,0.42857142857142855,8.0,17,2,0,2
+State Bank Of India (SBI),sbi.co.in,mysbibank.co.in,Suspected,0.5,6.0,15,2,0,1
+State Bank Of India (SBI),sbi.co.in,alert-sbi.co.in,Suspected,0.5,6.0,15,2,1,1
+State Bank Of India (SBI),sbi.co.in,sbistatement.co.in,Suspected,0.4,9.0,18,2,0,1
+State Bank Of India (SBI),sbi.co.in,loginsbi.in,Suspected,0.5454545454545454,5.0,11,1,0,1
+State Bank Of India (SBI),sbi.co.in,sbicardshr.in,Suspected,0.46153846153846156,7.0,13,1,0,1
+State Bank Of India (SBI),sbi.co.in,updatessbi.co.in,Suspected,0.46153846153846156,7.0,16,2,0,1
+State Bank Of India (SBI),sbi.co.in,sbifm.in,Suspected,0.75,2.0,8,1,0,1
+State Bank Of India (SBI),sbi.co.in,sbicardlogin.in,Suspected,0.4,9.0,15,1,0,1
+State Bank Of India (SBI),sbi.co.in,sbifashascholarship.in,Suspected,0.2727272727272727,16.0,22,1,0,1
+State Bank Of India (SBI),sbi.co.in,sbifashascholarship.co.in,Suspected,0.2727272727272727,16.0,25,2,0,1
+State Bank Of India (SBI),sbi.co.in,sbigrahaksevakendranet.co.in,Suspected,0.24,19.0,28,2,0,1
+State Bank Of India (SBI),sbi.co.in,sbi01-bank.co.in,Suspected,0.46153846153846156,7.0,16,2,1,1
+State Bank Of India (SBI),sbi.co.in,wbsbi.co.in,Suspected,0.75,2.0,11,2,0,1
+State Bank Of India (SBI),sbi.co.in,sbionlinehelp.in,Suspected,0.375,10.0,16,1,0,1
+State Bank Of India (SBI),sbi.co.in,sbibroker.in,Suspected,0.5,6.0,12,1,0,1
+State Bank Of India (SBI),sbi.co.in,noeticsbiotech.co.in,Suspected,0.35294117647058826,11.0,20,2,0,1
+State Bank Of India (SBI),sbi.co.in,alerts-sbi.net,Suspected,0.46153846153846156,7.0,14,1,1,1
+State Bank Of India (SBI),sbi.co.in,esbi.in,Suspected,0.8571428571428571,1.0,7,1,0,1
+State Bank Of India (SBI),sbi.co.in,esbi-informer.info,Suspected,0.375,10.0,18,1,1,1
+State Bank Of India (SBI),sbi.co.in,loanfinancesbi.co.in,Suspected,0.35294117647058826,11.0,20,2,0,1
+State Bank Of India (SBI),sbi.co.in,onlinesbi.digital,Suspected,0.5,6.0,17,1,0,1
+State Bank Of India (SBI),sbi.co.in,sbibank.ind.in,Suspected,0.6,4.0,14,2,0,1
+State Bank Of India (SBI),sbi.co.in,sbiloanapply.in,Suspected,0.4,9.0,15,1,0,1
+State Bank Of India (SBI),sbi.co.in,sbirewardcard.in,Suspected,0.375,10.0,16,1,0,1
+State Bank Of India (SBI),sbi.co.in,csb1.lat,Suspected,0.5714285714285714,1.0,8,1,0,1
+State Bank Of India (SBI),sbi.co.in,00674sbi.co.in,Suspected,0.5454545454545454,5.0,14,2,0,1
+State Bank Of India (SBI),sbi.co.in,msbi.in,Suspected,0.8571428571428571,1.0,7,1,0,1
+State Bank Of India (SBI),sbi.co.in,sbi13355cbs.co.in,Suspected,0.42857142857142855,8.0,17,2,0,1
+State Bank Of India (SBI),sbi.co.in,sbifin.in,Suspected,0.6666666666666666,3.0,9,1,0,1
+State Bank Of India (SBI),sbi.co.in,sbinbank.in,Suspected,0.5454545454545454,5.0,11,1,0,1
+State Bank Of India (SBI),sbicard.com,sbicard.website,Suspected,1.0,0.0,15,1,0,1
+State Bank Of India (SBI),sbilife.co.in,sbilife.website,Suspected,1.0,0.0,15,1,0,1
+State Bank Of India (SBI),sbi.co.in,18sbip04.shop,Suspected,0.5454545454545454,5.0,13,1,0,1
+State Bank Of India (SBI),sbi.co.in,sbiin.in,Suspected,0.75,2.0,8,1,0,1
+State Bank Of India (SBI),sbi.co.in,cybersupportsbi.co.in,Suspected,0.3333333333333333,12.0,21,2,0,1
+State Bank Of India (SBI),sbi.co.in,sbi-alerts.co.in,Suspected,0.46153846153846156,7.0,16,2,1,1
+State Bank Of India (SBI),sbicard.com,sbicardservice.in,Suspected,0.6666666666666666,7.0,17,1,0,1
+State Bank Of India (SBI),sbi.co.in,sbiindia.in,Suspected,0.5454545454545454,5.0,11,1,0,1
+State Bank Of India (SBI),sbi.co.in,sbindustries.org.in,Suspected,0.4,9.0,19,2,0,1
+State Bank Of India (SBI),sbi.co.in,sbinps.org,Suspected,0.6666666666666666,3.0,10,1,0,1
+State Bank Of India (SBI),sbi.co.in,usbi.top,Suspected,0.8571428571428571,1.0,8,1,0,1
+State Bank Of India (SBI),sbi.co.in,accounts-sbi.co.in,Suspected,0.4,9.0,18,2,1,1
+State Bank Of India (SBI),sbi.co.in,esbi.co.in,Suspected,0.8571428571428571,1.0,10,2,0,1
+State Bank Of India (SBI),sbi.co.in,transactions-sbi.co.in,Suspected,0.3157894736842105,13.0,22,2,1,1
+State Bank Of India (SBI),sbi.co.in,sbicmsbanglore.in,Suspected,0.35294117647058826,11.0,17,1,0,1
+State Bank Of India (SBI),sbi.co.in,zonalsbi.co.in,Suspected,0.5454545454545454,5.0,14,2,0,1
+State Bank Of India (SBI),sbi.co.in,sbico.net,Suspected,0.75,2.0,9,1,0,1
+State Bank Of India (SBI),sbi.co.in,noreplysbi.in,Suspected,0.46153846153846156,7.0,13,1,0,1
+State Bank Of India (SBI),sbi.co.in,mysbi-co.net,Suspected,0.5454545454545454,5.0,12,1,1,1
+State Bank Of India (SBI),sbi.co.in,sbi-updatb.xyz,Suspected,0.46153846153846156,7.0,14,1,1,1
+State Bank Of India (SBI),sbi.co.in,sbi-update.cfd,Suspected,0.46153846153846156,7.0,14,1,1,1
+State Bank Of India (SBI),sbi.co.in,sbi-update.top,Suspected,0.46153846153846156,7.0,14,1,1,1
+State Bank Of India (SBI),sbi.co.in,sbi-update.xyz,Suspected,0.46153846153846156,7.0,14,1,1,1
+State Bank Of India (SBI),sbi.co.in,sbi-updats.top,Suspected,0.46153846153846156,7.0,14,1,1,1
+State Bank Of India (SBI),sbi.co.in,sbi-updats.xyz,Suspected,0.46153846153846156,7.0,14,1,1,1
+State Bank Of India (SBI),sbi.co.in,sbi-updaty.top,Suspected,0.46153846153846156,7.0,14,1,1,1
+State Bank Of India (SBI),sbi.co.in,sbi-updaty.xyz,Suspected,0.46153846153846156,7.0,14,1,1,1
+State Bank Of India (SBI),sbi.co.in,sbiverify-jp.cfd,Suspected,0.4,9.0,16,1,1,1
+State Bank Of India (SBI),sbi.co.in,moli-bai.pages.dev,Phishing,0.18181818181818182,5.0,18,2,1,2
+State Bank Of India (SBI),sbi.co.in,ogf.pages.dev,Phishing,0.0,0.0,13,2,0,2
+State Bank Of India (SBI),sbi.co.in,erftgj.pages.dev,Phishing,0.0,3.0,16,2,0,2
+State Bank Of India (SBI),sbi.co.in,jhctth.pages.dev,Phishing,0.0,3.0,16,2,0,2
+State Bank Of India (SBI),sbi.co.in,bee4.pages.dev,Phishing,0.2857142857142857,1.0,14,2,0,2
+State Bank Of India (SBI),sbi.co.in,pqvoy.pages.dev,Phishing,0.0,2.0,15,2,0,2
+State Bank Of India (SBI),sbi.co.in,lkvgt.pages.dev,Phishing,0.0,2.0,15,2,0,2
+State Bank Of India (SBI),sbi.co.in,wqoy.pages.dev,Phishing,0.0,1.0,14,2,0,2
+State Bank Of India (SBI),sbi.co.in,sbikyc-5g4.pages.dev,Phishing,0.46153846153846156,7.0,20,2,1,2
+State Bank Of India (SBI),sbi.co.in,jkfnlk.pages.dev,Phishing,0.0,3.0,16,2,0,2
+State Bank Of India (SBI),sbi.co.in,sav1h4da.vercel.app,Phishing,0.18181818181818182,5.0,19,2,0,2
+State Bank Of India (SBI),sbi.co.in,bczxx.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank Of India (SBI),sbi.co.in,czsei.vercel.app,Phishing,0.5,2.0,16,2,0,2
+State Bank Of India (SBI),sbi.co.in,sahc1d1yta.vercel.app/uof,Phishing,0.15384615384615385,7.0,25,2,0,2
+State Bank Of India (SBI),sbi.co.in,lkjbb.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank Of India (SBI),sbi.co.in,sagv1ctd.vercel.app,Phishing,0.18181818181818182,5.0,19,2,0,2
+State Bank Of India (SBI),sbi.co.in,rdcvb.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank Of India (SBI),sbi.co.in,kloii.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank Of India (SBI),sbi.co.in,satydh7va.vercel.app/gor,Phishing,0.16666666666666666,6.0,24,2,0,2
+State Bank Of India (SBI),sbi.co.in,satysv5aj.vercel.app/pwr,Phishing,0.16666666666666666,6.0,24,2,0,2
+State Bank Of India (SBI),sbi.co.in,rsbi.online,Suspected,0.8571428571428571,1.0,11,1,0,1
+State Bank Of India (SBI),sbi.co.in,sbibilisim.online,Suspected,0.46153846153846156,7.0,17,1,0,1
+State Bank of India (SBI),sbi.co.in,sbii.co.in,Suspected,0.8571428571428571,1.0,10,2,0,1
+State Bank of India (SBI),sbi.co.in,sbi-oiddasdeq.cfd,Suspected,0.375,10.0,17,1,1,1
+State Bank of India (SBI),sbi.co.in,sbi-oiderweq.cfd,Suspected,0.4,9.0,16,1,1,1
+State Bank of India (SBI),sbi.co.in,sbi-help.top,Suspected,0.5454545454545454,5.0,12,1,1,1
+State Bank of India (SBI),sbi.co.in,sbi-help.xyz,Suspected,0.5454545454545454,5.0,12,1,1,1
+State Bank of India (SBI),sbi.co.in,pqvoy.pages.dev/,Phishing,0.0,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,sun1-3pr.pages.dev/eAqD,Phishing,0.18181818181818182,5.0,23,2,1,2
+State Bank of India (SBI),sbi.co.in,gtcgl.pages.dev,Phishing,0.0,2.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,tgw8t54r.pages.dev/wq1,Phishing,0.0,5.0,22,2,0,2
+State Bank of India (SBI),sbi.co.in,ciyk.pages.dev/,Phishing,0.2857142857142857,1.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,djal.pages.dev/,Phishing,0.0,1.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,rewardsbi.pages.dev/public/,Phishing,0.5,6.0,27,2,0,2
+State Bank of India (SBI),sbi.co.in,dcvtd.pages.dev,Phishing,0.0,2.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,ktfju-21n.pages.dev,Phishing,0.0,6.0,19,2,1,2
+State Bank of India (SBI),sbi.co.in,quxe.pages.dev,Phishing,0.0,1.0,14,2,0,2
+State Bank of India (SBI),sbi.co.in,zirvjj.pages.dev,Phishing,0.2222222222222222,3.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,zoebo.pages.dev,Phishing,0.25,2.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,vfhtlk.pages.dev,Phishing,0.0,3.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,qotgj.pages.dev,Phishing,0.0,2.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,yehiv.pages.dev/,Phishing,0.25,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,fri9-4v8.pages.dev,Phishing,0.18181818181818182,5.0,18,2,1,2
+State Bank of India (SBI),sbi.co.in,fri7.pages.dev/,Phishing,0.2857142857142857,1.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,fri2.pages.dev,Phishing,0.2857142857142857,1.0,14,2,0,2
+State Bank of India (SBI),sbi.co.in,jazgy.pages.dev,Phishing,0.0,2.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,qpmz.pages.dev,Phishing,0.0,1.0,14,2,0,2
+State Bank of India (SBI),sbi.co.in,rew-czs.pages.dev,Phishing,0.2,4.0,17,2,1,2
+State Bank of India (SBI),sbi.co.in,qausb.pages.dev,Phishing,0.5,2.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,aqgcyj.pages.dev,Phishing,0.0,3.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,iskvno.pages.dev/,Phishing,0.2222222222222222,3.0,17,2,0,2
+State Bank of India (SBI),sbi.co.in,aurji.pages.dev/bbx,Phishing,0.25,2.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,payebm.pages.dev,Phishing,0.2222222222222222,3.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,sx2.pages.dev/,Phishing,0.3333333333333333,0.0,14,2,0,2
+State Bank of India (SBI),sbi.co.in,yuiii.pages.dev,Phishing,0.25,2.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,tg765rftf.pages.dev/wq1,Phishing,0.0,6.0,23,2,0,2
+State Bank of India (SBI),sbi.co.in,ifsjab.pages.dev/bbx,Phishing,0.2222222222222222,3.0,20,2,0,2
+State Bank of India (SBI),sbi.co.in,jtdubb.pages.dev,Phishing,0.2222222222222222,3.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,zieviv.pages.dev/,Phishing,0.2222222222222222,3.0,17,2,0,2
+State Bank of India (SBI),sbi.co.in,prip.pages.dev,Phishing,0.2857142857142857,1.0,14,2,0,2
+State Bank of India (SBI),sbi.co.in,gttt.pages.dev/,Phishing,0.0,1.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,pevox.pages.dev,Phishing,0.0,2.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,sbikyc-4g.pages.dev/,Phishing,0.5,6.0,20,2,1,2
+State Bank of India (SBI),sbi.co.in,sbi-kyc.pages.dev/,Phishing,0.6,4.0,18,2,1,2
+State Bank of India (SBI),sbi.co.in,a-2-6ua.pages.dev,Phishing,0.0,4.0,17,2,2,2
+State Bank of India (SBI),sbi.co.in,sbikyc-dy1.pages.dev/,Phishing,0.46153846153846156,7.0,21,2,1,2
+State Bank of India (SBI),sbi.co.in,biyuthj.pages.dev/,Phishing,0.4,4.0,18,2,0,2
+State Bank of India (SBI),sbi.co.in,pqgib.pages.dev,Phishing,0.25,2.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,aklp.pages.dev,Phishing,0.0,1.0,14,2,0,2
+State Bank of India (SBI),sbi.co.in,prcobl.pages.dev,Phishing,0.2222222222222222,3.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,zzraz.pages.dev,Phishing,0.0,2.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,ump11.pages.dev,Phishing,0.0,2.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,ump3.pages.dev/eAqD,Phishing,0.0,1.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,qhuvp.pages.dev,Phishing,0.0,2.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,tripal-a.pages.dev,Phishing,0.18181818181818182,5.0,18,2,1,2
+State Bank of India (SBI),sbi.co.in,yaegcu.pages.dev,Phishing,0.0,3.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,orvkb.pages.dev,Phishing,0.25,2.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,tyftrk.pages.dev,Phishing,0.0,3.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,prcibn.pages.dev,Phishing,0.2222222222222222,3.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,apk5.pages.dev,Phishing,0.0,1.0,14,2,0,2
+State Bank of India (SBI),sbi.co.in,kilpzcmk.pages.dev,Phishing,0.18181818181818182,5.0,18,2,0,2
+State Bank of India (SBI),sbi.co.in,kop-3b3.pages.dev,Phishing,0.2,4.0,17,2,1,2
+State Bank of India (SBI),sbi.co.in,sdf-89v.pages.dev,Phishing,0.2,4.0,17,2,1,2
+State Bank of India (SBI),sbi.co.in,gooa.pages.dev/,Phishing,0.0,1.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,ierbk.pages.dev,Phishing,0.25,2.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,usehcs.pages.dev,Phishing,0.2222222222222222,3.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,ifbib.pages.dev/bbx,Phishing,0.5,2.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,irhvj.pages.dev,Phishing,0.25,2.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,usjbo.pages.dev,Phishing,0.5,2.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,idobog.pages.dev,Phishing,0.2222222222222222,3.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,yvys.pages.dev/,Phishing,0.2857142857142857,1.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,edho.pages.dev/,Phishing,0.0,1.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,iehjjj.pages.dev,Phishing,0.2222222222222222,3.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,udyhji.pages.dev/,Phishing,0.2222222222222222,3.0,17,2,0,2
+State Bank of India (SBI),sbi.co.in,itjibj.pages.dev,Phishing,0.2222222222222222,3.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,ysibih.pages.dev,Phishing,0.6666666666666666,3.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,vmk.pages.dev,Phishing,0.0,0.0,13,2,0,2
+State Bank of India (SBI),sbi.co.in,usijop.pages.dev,Phishing,0.4444444444444444,3.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,yshhvk.pages.dev,Phishing,0.2222222222222222,3.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,rewarsdsbi.pages.dev/,Phishing,0.46153846153846156,7.0,21,2,0,2
+State Bank of India (SBI),sbi.co.in,sah1v1bt.vercel.app,Phishing,0.36363636363636365,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,mals.vercel.app,Phishing,0.2857142857142857,1.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,savchg8d.vercel.app,Phishing,0.18181818181818182,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,sacdyu3a.vercel.app,Phishing,0.18181818181818182,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,savc4hdty.vercel.app,Phishing,0.16666666666666666,6.0,20,2,0,2
+State Bank of India (SBI),sbi.co.in,sagcd8af.vercel.app,Phishing,0.18181818181818182,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,youn-delta.vercel.app,Phishing,0.0,7.0,21,2,1,2
+State Bank of India (SBI),sbi.co.in,sah5dyva.vercel.app,Phishing,0.18181818181818182,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,sagdy6tcv.vercel.app,Phishing,0.16666666666666666,6.0,20,2,0,2
+State Bank of India (SBI),sbi.co.in,sa3adtyv.vercel.app,Phishing,0.18181818181818182,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,sav1h4da.vercel.app/pwr,Phishing,0.18181818181818182,5.0,23,2,0,2
+State Bank of India (SBI),sbi.co.in,sahcd1j3a.vercel.app/pwr,Phishing,0.16666666666666666,6.0,24,2,0,2
+State Bank of India (SBI),sbi.co.in,saays5dvty.vercel.app/pwr,Phishing,0.15384615384615385,7.0,25,2,0,2
+State Bank of India (SBI),sbi.co.in,sacd1otyac.vercel.app/uof,Phishing,0.15384615384615385,7.0,25,2,0,2
+State Bank of India (SBI),sbi.co.in,sahd6jat.vercel.app,Phishing,0.18181818181818182,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,sahcd7ya.vercel.app,Phishing,0.18181818181818182,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,sah1vd2nty.vercel.app,Phishing,0.15384615384615385,7.0,21,2,0,2
+State Bank of India (SBI),sbi.co.in,say1uvga.vercel.app,Phishing,0.18181818181818182,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,shaidty8dv.vercel.app/gor,Phishing,0.3076923076923077,7.0,25,2,0,2
+State Bank of India (SBI),sbi.co.in,vndns.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,sav6ftyuj.vercel.app/qml,Phishing,0.16666666666666666,6.0,24,2,0,2
+State Bank of India (SBI),sbi.co.in,syeh2vfty.vercel.app/sg,Phishing,0.16666666666666666,6.0,23,2,0,2
+State Bank of India (SBI),sbi.co.in,kldss.vercel.app/,Phishing,0.25,2.0,17,2,0,2
+State Bank of India (SBI),sbi.co.in,shab3vta.vercel.app/pwr,Phishing,0.36363636363636365,5.0,23,2,0,2
+State Bank of India (SBI),sbi.co.in,syertv2aj.vercel.app,Phishing,0.16666666666666666,6.0,20,2,0,2
+State Bank of India (SBI),sbi.co.in,shaty7dv.vercel.app,Phishing,0.18181818181818182,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,shgav5ya.vercel.app,Phishing,0.18181818181818182,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,svaswer1.vercel.app,Phishing,0.18181818181818182,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,shaidty8dv.vercel.app,Phishing,0.3076923076923077,7.0,21,2,0,2
+State Bank of India (SBI),sbi.co.in,shay1ucv.vercel.app,Phishing,0.18181818181818182,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,syajd1ga.vercel.app,Phishing,0.18181818181818182,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,shaj3dy.vercel.app,Phishing,0.2,4.0,18,2,0,2
+State Bank of India (SBI),sbi.co.in,sha2yeva.vercel.app,Phishing,0.18181818181818182,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,sahjj3vdy.vercel.app,Phishing,0.16666666666666666,6.0,20,2,0,2
+State Bank of India (SBI),sbi.co.in,sjab7vdt.vercel.app,Phishing,0.36363636363636365,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,styvsais.vercel.app,Phishing,0.36363636363636365,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,sakd3yvha.vercel.app,Phishing,0.16666666666666666,6.0,20,2,0,2
+State Bank of India (SBI),sbi.co.in,sua4ydha.vercel.app,Phishing,0.18181818181818182,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,ssft2yb.vercel.app,Phishing,0.4,4.0,18,2,0,2
+State Bank of India (SBI),sbi.co.in,shay9ua.vercel.app,Phishing,0.2,4.0,18,2,0,2
+State Bank of India (SBI),sbi.co.in,sajv3dny.vercel.app,Phishing,0.18181818181818182,5.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,syuc1ia.vercel.app,Phishing,0.4,4.0,18,2,0,2
+State Bank of India (SBI),sbi.co.in,sja2bvr.vercel.app,Phishing,0.4,4.0,18,2,0,2
+State Bank of India (SBI),sbi.co.in,fresh-self-chi.vercel.app,Phishing,0.23529411764705882,11.0,25,2,2,2
+State Bank of India (SBI),sbi.co.in,ahsh.vercel.app,Phishing,0.2857142857142857,1.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,sdzxxs.vercel.app,Phishing,0.2222222222222222,3.0,17,2,0,2
+State Bank of India (SBI),sbi.co.in,vssa-silk.vercel.app,Phishing,0.3333333333333333,6.0,20,2,1,2
+State Bank of India (SBI),sbi.co.in,s1srahb.vercel.app/,Phishing,0.4,4.0,19,2,0,2
+State Bank of India (SBI),sbi.co.in,lioou.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,thiol.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,new-contact.vercel.app,Phishing,0.0,8.0,22,2,1,2
+State Bank of India (SBI),sbi.co.in,new-contect-del.vercel.app,Phishing,0.0,12.0,26,2,2,2
+State Bank of India (SBI),sbi.co.in,um-ten.vercel.app,Phishing,0.0,3.0,17,2,1,2
+State Bank of India (SBI),sbi.co.in,devdm.vercel.app,Phishing,0.0,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,shgav5ya.vercel.app/pwr,Phishing,0.18181818181818182,5.0,23,2,0,2
+State Bank of India (SBI),sbi.co.in,nxms.vercel.app,Phishing,0.2857142857142857,1.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,sahj5dvty.vercel.app,Phishing,0.16666666666666666,6.0,20,2,0,2
+State Bank of India (SBI),sbi.co.in,mkloi.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,hgfhjk-khfx.vercel.app/firstpage.html,Phishing,0.0,8.0,37,3,1,2
+State Bank of India (SBI),sbi.co.in,bvcdm.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,hgfhjk-wour.vercel.app,Phishing,0.0,8.0,22,2,1,2
+State Bank of India (SBI),sbi.co.in,dagsa.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,srthgjh-6576.vercel.app/firstpage.html,Phishing,0.13333333333333333,9.0,38,3,1,2
+State Bank of India (SBI),sbi.co.in,ndjs-lovat.vercel.app/,Phishing,0.15384615384615385,7.0,22,2,1,2
+State Bank of India (SBI),sbi.co.in,srthgjh-6576.vercel.app,Phishing,0.13333333333333333,9.0,23,2,1,2
+State Bank of India (SBI),sbi.co.in,vbhg.vercel.app,Phishing,0.2857142857142857,1.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,sbveel-tyr6798i.vercel.app/,Phishing,0.3333333333333333,12.0,27,2,1,2
+State Bank of India (SBI),sbi.co.in,sbitu-87uyt.vercel.app,Phishing,0.42857142857142855,8.0,22,2,1,2
+State Bank of India (SBI),sbi.co.in,sbitu-87uyt.vercel.app/firstpage.html,Phishing,0.42857142857142855,8.0,37,3,1,2
+State Bank of India (SBI),sbi.co.in,sbl-re56.vercel.app/firstpage.html,Phishing,0.36363636363636365,5.0,34,3,1,2
+State Bank of India (SBI),sbi.co.in,egahs.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,ashqd.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,sbbi-nctg.vercel.app,Phishing,0.5,6.0,20,2,1,2
+State Bank of India (SBI),sbi.co.in,mjikl.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,okiut.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,sbbi.vercel.app,Phishing,0.8571428571428571,1.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,vcxd.vercel.app,Phishing,0.0,1.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,nvcdf.vercel.app,Phishing,0.0,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,yjau.vercel.app/a2,Phishing,0.0,1.0,18,2,0,2
+State Bank of India (SBI),sbi.co.in,aswrt.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,yhaga.vercel.app,Phishing,0.0,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,aswrr.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,bnaqq.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,nndaq.vercel.app,Phishing,0.0,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,hgaqw.vercel.app,Phishing,0.0,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,thhg.vercel.app,Phishing,0.0,1.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,my-next-app-silk-gamma.vercel.app,Phishing,0.16,19.0,33,2,4,2
+State Bank of India (SBI),sbi.co.in,agsw.vercel.app,Phishing,0.2857142857142857,1.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,cahq.vercel.app,Phishing,0.0,1.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,nminv.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,eiol.vercel.app,Phishing,0.2857142857142857,1.0,15,2,0,2
+State Bank of India (SBI),sbi.co.in,niooi.vercel.app,Phishing,0.25,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,sbik3.vercel.app,Phishing,0.75,2.0,16,2,0,2
+State Bank of India (SBI),sbi.co.in,sbei.vercel.app,Phishing,0.8571428571428571,1.0,15,2,0,2
+Airtel,airtel.in,airtel.in,Legitimate,1.0,0.0,9,1,0,0
+Airtel,airtel.in,airtel.in,Legitimate,1.0,0.0,9,1,0,0
+Airtel,airtel.in,airtel.in,Legitimate,1.0,0.0,9,1,0,0
+Airtel,airtel.in,airtel.in,Legitimate,1.0,0.0,9,1,0,0
+Airtel,airtel.in,airtel.in,Legitimate,1.0,0.0,9,1,0,0
+Airtel,airtel.in,airtel.in,Legitimate,1.0,0.0,9,1,0,0
+Airtel,airtel.in,airtel.in,Legitimate,1.0,0.0,9,1,0,0
+Airtel,airtel.in,airtel.in,Legitimate,1.0,0.0,9,1,0,0
+Airtel,airtel.in,airtel.in,Legitimate,1.0,0.0,9,1,0,0
+Airtel,airtel.in,airtel.in,Legitimate,1.0,0.0,9,1,0,0
+Bank of Baroda,bankofbaroda.in,bankofbaroda.in,Legitimate,1.0,0.0,15,1,0,0
+Bank of Baroda,bankofbaroda.in,bankofbaroda.in,Legitimate,1.0,0.0,15,1,0,0
+Bank of Baroda,bankofbaroda.in,bankofbaroda.in,Legitimate,1.0,0.0,15,1,0,0
+Bank of Baroda,bankofbaroda.in,bankofbaroda.in,Legitimate,1.0,0.0,15,1,0,0
+Bank of Baroda,bankofbaroda.in,bankofbaroda.in,Legitimate,1.0,0.0,15,1,0,0
+Bank of Baroda,bankofbaroda.in,bankofbaroda.in,Legitimate,1.0,0.0,15,1,0,0
+Bank of Baroda,bankofbaroda.in,bankofbaroda.in,Legitimate,1.0,0.0,15,1,0,0
+Bank of Baroda,bankofbaroda.in,bankofbaroda.in,Legitimate,1.0,0.0,15,1,0,0
+Bank of Baroda,bankofbaroda.in,bankofbaroda.in,Legitimate,1.0,0.0,15,1,0,0
+Bank of Baroda,bankofbaroda.in,bankofbaroda.in,Legitimate,1.0,0.0,15,1,0,0
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in,Legitimate,1.0,0.0,17,3,0,0
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in,Legitimate,1.0,0.0,17,3,0,0
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in,Legitimate,1.0,0.0,17,3,0,0
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in,Legitimate,1.0,0.0,17,3,0,0
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in,Legitimate,1.0,0.0,17,3,0,0
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in,Legitimate,1.0,0.0,17,3,0,0
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in,Legitimate,1.0,0.0,17,3,0,0
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in,Legitimate,1.0,0.0,17,3,0,0
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in,Legitimate,1.0,0.0,17,3,0,0
+"Civil Registration System, MHA",dc.crsorgi.gov.in,dc.crsorgi.gov.in,Legitimate,1.0,0.0,17,3,0,0
+HDFC Bank,hdfcbank.com,hdfcbank.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Bank,hdfcbank.com,hdfcbank.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Bank,hdfcbank.com,hdfcbank.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Bank,hdfcbank.com,hdfcbank.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Bank,hdfcbank.com,hdfcbank.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Bank,hdfcbank.com,hdfcbank.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Bank,hdfcbank.com,hdfcbank.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Bank,hdfcbank.com,hdfcbank.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Bank,hdfcbank.com,hdfcbank.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Bank,hdfcbank.com,hdfcbank.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Ergo,hdfcergo.com,hdfcergo.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Ergo,hdfcergo.com,hdfcergo.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Ergo,hdfcergo.com,hdfcergo.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Ergo,hdfcergo.com,hdfcergo.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Ergo,hdfcergo.com,hdfcergo.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Ergo,hdfcergo.com,hdfcergo.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Ergo,hdfcergo.com,hdfcergo.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Ergo,hdfcergo.com,hdfcergo.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Ergo,hdfcergo.com,hdfcergo.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Ergo,hdfcergo.com,hdfcergo.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Life,hdfclife.com,hdfclife.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Life,hdfclife.com,hdfclife.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Life,hdfclife.com,hdfclife.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Life,hdfclife.com,hdfclife.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Life,hdfclife.com,hdfclife.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Life,hdfclife.com,hdfclife.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Life,hdfclife.com,hdfclife.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Life,hdfclife.com,hdfclife.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Life,hdfclife.com,hdfclife.com,Legitimate,1.0,0.0,12,1,0,0
+HDFC Life,hdfclife.com,hdfclife.com,Legitimate,1.0,0.0,12,1,0,0
+ICICI Bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI Bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI Bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI Bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI Bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI Bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI Bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI Bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI Bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI Bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI Bank,icicidirect.com,icicidirect.com,Legitimate,1.0,0.0,15,1,0,0
+ICICI Bank,icicidirect.com,icicidirect.com,Legitimate,1.0,0.0,15,1,0,0
+ICICI Bank,icicidirect.com,icicidirect.com,Legitimate,1.0,0.0,15,1,0,0
+ICICI Bank,icicidirect.com,icicidirect.com,Legitimate,1.0,0.0,15,1,0,0
+ICICI Bank,icicidirect.com,icicidirect.com,Legitimate,1.0,0.0,15,1,0,0
+ICICI Bank,icicidirect.com,icicidirect.com,Legitimate,1.0,0.0,15,1,0,0
+ICICI Bank,icicidirect.com,icicidirect.com,Legitimate,1.0,0.0,15,1,0,0
+ICICI Bank,icicidirect.com,icicidirect.com,Legitimate,1.0,0.0,15,1,0,0
+ICICI Bank,icicidirect.com,icicidirect.com,Legitimate,1.0,0.0,15,1,0,0
+ICICI Bank,icicidirect.com,icicidirect.com,Legitimate,1.0,0.0,15,1,0,0
+ICICI bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI bank,icicibank.com,icicibank.com,Legitimate,1.0,0.0,13,1,0,0
+ICICI Lombard,icicilombard.com,icicilombard.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Lombard,icicilombard.com,icicilombard.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Lombard,icicilombard.com,icicilombard.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Lombard,icicilombard.com,icicilombard.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Lombard,icicilombard.com,icicilombard.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Lombard,icicilombard.com,icicilombard.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Lombard,icicilombard.com,icicilombard.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Lombard,icicilombard.com,icicilombard.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Lombard,icicilombard.com,icicilombard.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Lombard,icicilombard.com,icicilombard.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Prudential Life Insurance,iciciprulife.com,iciciprulife.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Prudential Life Insurance,iciciprulife.com,iciciprulife.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Prudential Life Insurance,iciciprulife.com,iciciprulife.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Prudential Life Insurance,iciciprulife.com,iciciprulife.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Prudential Life Insurance,iciciprulife.com,iciciprulife.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Prudential Life Insurance,iciciprulife.com,iciciprulife.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Prudential Life Insurance,iciciprulife.com,iciciprulife.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Prudential Life Insurance,iciciprulife.com,iciciprulife.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Prudential Life Insurance,iciciprulife.com,iciciprulife.com,Legitimate,1.0,0.0,16,1,0,0
+ICICI Prudential Life Insurance,iciciprulife.com,iciciprulife.com,Legitimate,1.0,0.0,16,1,0,0
+Indian Oil Corporation Limited (IOCL),iocl.com,iocl.com,Legitimate,1.0,0.0,8,1,0,0
+Indian Oil Corporation Limited (IOCL),iocl.com,iocl.com,Legitimate,1.0,0.0,8,1,0,0
+Indian Oil Corporation Limited (IOCL),iocl.com,iocl.com,Legitimate,1.0,0.0,8,1,0,0
+Indian Oil Corporation Limited (IOCL),iocl.com,iocl.com,Legitimate,1.0,0.0,8,1,0,0
+Indian Oil Corporation Limited (IOCL),iocl.com,iocl.com,Legitimate,1.0,0.0,8,1,0,0
+Indian Oil Corporation Limited (IOCL),iocl.com,iocl.com,Legitimate,1.0,0.0,8,1,0,0
+Indian Oil Corporation Limited (IOCL),iocl.com,iocl.com,Legitimate,1.0,0.0,8,1,0,0
+Indian Oil Corporation Limited (IOCL),iocl.com,iocl.com,Legitimate,1.0,0.0,8,1,0,0
+Indian Oil Corporation Limited (IOCL),iocl.com,iocl.com,Legitimate,1.0,0.0,8,1,0,0
+Indian Oil Corporation Limited (IOCL),iocl.com,iocl.com,Legitimate,1.0,0.0,8,1,0,0
+IRCTC,irctc.co.in,irctc.co.in,Legitimate,1.0,0.0,11,2,0,0
+IRCTC,irctc.co.in,irctc.co.in,Legitimate,1.0,0.0,11,2,0,0
+IRCTC,irctc.co.in,irctc.co.in,Legitimate,1.0,0.0,11,2,0,0
+IRCTC,irctc.co.in,irctc.co.in,Legitimate,1.0,0.0,11,2,0,0
+IRCTC,irctc.co.in,irctc.co.in,Legitimate,1.0,0.0,11,2,0,0
+IRCTC,irctc.co.in,irctc.co.in,Legitimate,1.0,0.0,11,2,0,0
+IRCTC,irctc.co.in,irctc.co.in,Legitimate,1.0,0.0,11,2,0,0
+IRCTC,irctc.co.in,irctc.co.in,Legitimate,1.0,0.0,11,2,0,0
+IRCTC,irctc.co.in,irctc.co.in,Legitimate,1.0,0.0,11,2,0,0
+IRCTC,irctc.co.in,irctc.co.in,Legitimate,1.0,0.0,11,2,0,0
+"National Crime Records Bureau, Ministry of Home Affairs",ncrb.gov.in,ncrb.gov.in,Legitimate,1.0,0.0,11,2,0,0
+"National Crime Records Bureau, Ministry of Home Affairs",ncrb.gov.in,ncrb.gov.in,Legitimate,1.0,0.0,11,2,0,0
+"National Crime Records Bureau, Ministry of Home Affairs",ncrb.gov.in,ncrb.gov.in,Legitimate,1.0,0.0,11,2,0,0
+"National Crime Records Bureau, Ministry of Home Affairs",ncrb.gov.in,ncrb.gov.in,Legitimate,1.0,0.0,11,2,0,0
+"National Crime Records Bureau, Ministry of Home Affairs",ncrb.gov.in,ncrb.gov.in,Legitimate,1.0,0.0,11,2,0,0
+"National Crime Records Bureau, Ministry of Home Affairs",ncrb.gov.in,ncrb.gov.in,Legitimate,1.0,0.0,11,2,0,0
+"National Crime Records Bureau, Ministry of Home Affairs",ncrb.gov.in,ncrb.gov.in,Legitimate,1.0,0.0,11,2,0,0
+"National Crime Records Bureau, Ministry of Home Affairs",ncrb.gov.in,ncrb.gov.in,Legitimate,1.0,0.0,11,2,0,0
+"National Crime Records Bureau, Ministry of Home Affairs",ncrb.gov.in,ncrb.gov.in,Legitimate,1.0,0.0,11,2,0,0
+"National Crime Records Bureau, Ministry of Home Affairs",ncrb.gov.in,ncrb.gov.in,Legitimate,1.0,0.0,11,2,0,0
+National Informatics Centre (NIC),email.gov.in,email.gov.in,Legitimate,1.0,0.0,12,2,0,0
+National Informatics Centre (NIC),email.gov.in,email.gov.in,Legitimate,1.0,0.0,12,2,0,0
+National Informatics Centre (NIC),email.gov.in,email.gov.in,Legitimate,1.0,0.0,12,2,0,0
+National Informatics Centre (NIC),email.gov.in,email.gov.in,Legitimate,1.0,0.0,12,2,0,0
+National Informatics Centre (NIC),email.gov.in,email.gov.in,Legitimate,1.0,0.0,12,2,0,0
+National Informatics Centre (NIC),email.gov.in,email.gov.in,Legitimate,1.0,0.0,12,2,0,0
+National Informatics Centre (NIC),email.gov.in,email.gov.in,Legitimate,1.0,0.0,12,2,0,0
+National Informatics Centre (NIC),email.gov.in,email.gov.in,Legitimate,1.0,0.0,12,2,0,0
+National Informatics Centre (NIC),email.gov.in,email.gov.in,Legitimate,1.0,0.0,12,2,0,0
+National Informatics Centre (NIC),email.gov.in,email.gov.in,Legitimate,1.0,0.0,12,2,0,0
+National Informatics Centre (NIC),kavach.mail.gov.in,kavach.mail.gov.in,Legitimate,1.0,0.0,18,3,0,0
+National Informatics Centre (NIC),kavach.mail.gov.in,kavach.mail.gov.in,Legitimate,1.0,0.0,18,3,0,0
+National Informatics Centre (NIC),kavach.mail.gov.in,kavach.mail.gov.in,Legitimate,1.0,0.0,18,3,0,0
+National Informatics Centre (NIC),kavach.mail.gov.in,kavach.mail.gov.in,Legitimate,1.0,0.0,18,3,0,0
+National Informatics Centre (NIC),kavach.mail.gov.in,kavach.mail.gov.in,Legitimate,1.0,0.0,18,3,0,0
+National Informatics Centre (NIC),kavach.mail.gov.in,kavach.mail.gov.in,Legitimate,1.0,0.0,18,3,0,0
+National Informatics Centre (NIC),kavach.mail.gov.in,kavach.mail.gov.in,Legitimate,1.0,0.0,18,3,0,0
+National Informatics Centre (NIC),kavach.mail.gov.in,kavach.mail.gov.in,Legitimate,1.0,0.0,18,3,0,0
+National Informatics Centre (NIC),kavach.mail.gov.in,kavach.mail.gov.in,Legitimate,1.0,0.0,18,3,0,0
+National Informatics Centre (NIC),kavach.mail.gov.in,kavach.mail.gov.in,Legitimate,1.0,0.0,18,3,0,0
+National Informatics Centre (NIC),accounts.mgovcloud.in,accounts.mgovcloud.in,Legitimate,1.0,0.0,21,2,0,0
+National Informatics Centre (NIC),accounts.mgovcloud.in,accounts.mgovcloud.in,Legitimate,1.0,0.0,21,2,0,0
+National Informatics Centre (NIC),accounts.mgovcloud.in,accounts.mgovcloud.in,Legitimate,1.0,0.0,21,2,0,0
+National Informatics Centre (NIC),accounts.mgovcloud.in,accounts.mgovcloud.in,Legitimate,1.0,0.0,21,2,0,0
+National Informatics Centre (NIC),accounts.mgovcloud.in,accounts.mgovcloud.in,Legitimate,1.0,0.0,21,2,0,0
+National Informatics Centre (NIC),accounts.mgovcloud.in,accounts.mgovcloud.in,Legitimate,1.0,0.0,21,2,0,0
+National Informatics Centre (NIC),accounts.mgovcloud.in,accounts.mgovcloud.in,Legitimate,1.0,0.0,21,2,0,0
+National Informatics Centre (NIC),accounts.mgovcloud.in,accounts.mgovcloud.in,Legitimate,1.0,0.0,21,2,0,0
+National Informatics Centre (NIC),accounts.mgovcloud.in,accounts.mgovcloud.in,Legitimate,1.0,0.0,21,2,0,0
+National Informatics Centre (NIC),accounts.mgovcloud.in,accounts.mgovcloud.in,Legitimate,1.0,0.0,21,2,0,0
+National Informatics Centre (NIC),nic.gov.in,nic.gov.in,Legitimate,1.0,0.0,10,2,0,0
+National Informatics Centre (NIC),nic.gov.in,nic.gov.in,Legitimate,1.0,0.0,10,2,0,0
+National Informatics Centre (NIC),nic.gov.in,nic.gov.in,Legitimate,1.0,0.0,10,2,0,0
+National Informatics Centre (NIC),nic.gov.in,nic.gov.in,Legitimate,1.0,0.0,10,2,0,0
+National Informatics Centre (NIC),nic.gov.in,nic.gov.in,Legitimate,1.0,0.0,10,2,0,0
+National Informatics Centre (NIC),nic.gov.in,nic.gov.in,Legitimate,1.0,0.0,10,2,0,0
+National Informatics Centre (NIC),nic.gov.in,nic.gov.in,Legitimate,1.0,0.0,10,2,0,0
+National Informatics Centre (NIC),nic.gov.in,nic.gov.in,Legitimate,1.0,0.0,10,2,0,0
+National Informatics Centre (NIC),nic.gov.in,nic.gov.in,Legitimate,1.0,0.0,10,2,0,0
+National Informatics Centre (NIC),nic.gov.in,nic.gov.in,Legitimate,1.0,0.0,10,2,0,0
+Punjab National Bank,pnbindia.in,pnbindia.in,Legitimate,1.0,0.0,11,1,0,0
+Punjab National Bank,pnbindia.in,pnbindia.in,Legitimate,1.0,0.0,11,1,0,0
+Punjab National Bank,pnbindia.in,pnbindia.in,Legitimate,1.0,0.0,11,1,0,0
+Punjab National Bank,pnbindia.in,pnbindia.in,Legitimate,1.0,0.0,11,1,0,0
+Punjab National Bank,pnbindia.in,pnbindia.in,Legitimate,1.0,0.0,11,1,0,0
+Punjab National Bank,pnbindia.in,pnbindia.in,Legitimate,1.0,0.0,11,1,0,0
+Punjab National Bank,pnbindia.in,pnbindia.in,Legitimate,1.0,0.0,11,1,0,0
+Punjab National Bank,pnbindia.in,pnbindia.in,Legitimate,1.0,0.0,11,1,0,0
+Punjab National Bank,pnbindia.in,pnbindia.in,Legitimate,1.0,0.0,11,1,0,0
+Punjab National Bank,pnbindia.in,pnbindia.in,Legitimate,1.0,0.0,11,1,0,0
+SBI Card,sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+SBI Card,sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+SBI Card,sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+SBI Card,sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+SBI Card,sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+SBI Card,sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+SBI Card,sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+SBI Card,sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+SBI Card,sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+SBI Card,sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+SBI Life,sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+SBI Life,sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+SBI Life,sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+SBI Life,sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+SBI Life,sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+SBI Life,sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+SBI Life,sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+SBI Life,sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+SBI Life,sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+SBI Life,sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+State Bank Of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank Of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank Of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank Of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank Of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank Of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank Of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank Of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank Of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank Of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank Of India (SBI),sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+State Bank Of India (SBI),sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+State Bank Of India (SBI),sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+State Bank Of India (SBI),sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+State Bank Of India (SBI),sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+State Bank Of India (SBI),sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+State Bank Of India (SBI),sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+State Bank Of India (SBI),sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+State Bank Of India (SBI),sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+State Bank Of India (SBI),sbicard.com,sbicard.com,Legitimate,1.0,0.0,11,1,0,0
+State Bank Of India (SBI),sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+State Bank Of India (SBI),sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+State Bank Of India (SBI),sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+State Bank Of India (SBI),sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+State Bank Of India (SBI),sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+State Bank Of India (SBI),sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+State Bank Of India (SBI),sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+State Bank Of India (SBI),sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+State Bank Of India (SBI),sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+State Bank Of India (SBI),sbilife.co.in,sbilife.co.in,Legitimate,1.0,0.0,13,2,0,0
+State Bank of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0
+State Bank of India (SBI),sbi.co.in,sbi.co.in,Legitimate,1.0,0.0,9,2,0,0

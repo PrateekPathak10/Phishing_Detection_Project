@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+flask
+memory_profiler
+streamlit
+scikit-learn
+plotly 
+catboost
+xgboost
+xgboost
+flask_cors
