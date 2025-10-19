@@ -11,3 +11,4 @@ catboost
 xgboost
 xgboost
 flask_cors
+gunicorn
