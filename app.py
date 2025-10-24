@@ -5,32 +5,31 @@ import pandas as pd
 import numpy as np
 import datetime
 import os
-import json # <-- Added this import, though it might be present in your local file
+import json 
+from urllib.parse import urlparse
 
 # --- Import Utilities ---
 from feature_engineer import create_model_input_features 
-from external_lookups import mock_whois_lookup, mock_dns_geoip_lookup
-from reporting_engine import generate_full_detection_report # Imports the report generation logic
+from external_lookups import mock_whois_lookup
+from reporting_engine import generate_full_detection_report 
 
 # --- CONFIGURATION ---
-# Assumes the model is saved in a 'model' subdirectory. Adjust path if necessary.
 MODEL_PATH = 'model/final_phishing_model_pipeline.joblib' 
 LABEL_MAP = {0: 'Legitimate', 1: 'Suspected', 2: 'Phishing'}
+APPLICATION_ID = os.environ.get('APP_ID', 'PS02-AIGR-XXXXXX') # Read ID from environment or use placeholder
 
 app = Flask(__name__)
-# Enable CORS for local development to allow the React frontend to communicate with this API
 CORS(app) 
 
 # --- Load Model ---
-# The model pipeline must be loaded once when the application starts
 FINAL_MODEL_PIPELINE = None
+# ... (Model Loading Logic remains the same, omitted for brevity) ...
+
 try:
-    # Look for the model file in the current working directory or subdirectories
     if os.path.exists(MODEL_PATH):
         FINAL_MODEL_PIPELINE = joblib.load(MODEL_PATH) 
         print(f"AI Model loaded successfully from {MODEL_PATH}.")
     else:
-        # Fallback for local testing if model isn't in 'model/'
         FALLBACK_PATH = 'final_phishing_model_pipeline.joblib'
         FINAL_MODEL_PIPELINE = joblib.load(FALLBACK_PATH) 
         print(f"AI Model loaded successfully from {FALLBACK_PATH} (FALLBACK).")
@@ -38,62 +37,69 @@ try:
 except Exception as e:
     print(f"\nFATAL ERROR: Could not load model pipeline. Prediction will fail.")
     print(f"Details: {e}")
-
+    
+# --- END Model Loading Logic ---
 
 @app.route('/api/classify', methods=['POST'])
 def classify_domain():
     """
-    Endpoint to classify a new domain and generate the complete detection report.
-    This fulfills the core AI/ML engine and reporting requirements (3.1 & 3.4).
+    Endpoint to classify a new URL/domain and generate the complete detection report.
+    Expected Input: {"url": "http://suspicious.in/login", "cse_domain": "airtel.in", "cse_name": "Airtel"}
     """
     if not FINAL_MODEL_PIPELINE:
         return jsonify({"error": "AI Model is not initialized. Check server logs."}), 503
 
     try:
-        # Expected input: {"domain": "suspicious.in", "cse_domain": "airtel.in", "cse_name": "Airtel"}
         data = request.get_json()
-        identified_domain = data.get('domain')
+        identified_url = data.get('url') # Input is now the full URL
         cse_domain = data.get('cse_domain')
         cse_name = data.get('cse_name')
 
-        if not identified_domain or not cse_domain or not cse_name:
-             return jsonify({"error": "Missing one or more required inputs (domain, cse_domain, cse_name)."}), 400
+        if not identified_url or not cse_domain or not cse_name:
+             return jsonify({"error": "Missing one or more required inputs (url, cse_domain, cse_name)."}), 400
 
-        # 1. Feature Engineering
-        input_df = create_model_input_features(identified_domain, cse_domain, cse_name)
-
-        # 2. Prediction
-        prediction_id = FINAL_MODEL_PIPELINE.predict(input_df)[0]
+        # Extract domain from URL for external lookups
+        identified_domain = urlparse(identified_url).netloc
         
-        # --- FIX: Convert numpy.int64 to native Python int ---
-        prediction_id = int(prediction_id) # <-- CRITICAL FIX
+        # 1. Fetch WHOIS data to get Domain Age (needed for Feature Engineering)
+        whois_mock_result = mock_whois_lookup(identified_domain)
+        domain_age_days = whois_mock_result["domain_age_days"]
+        
+        # 2. Feature Engineering
+        input_df = create_model_input_features(
+            identified_url, 
+            cse_domain, 
+            cse_name, 
+            domain_age_days # Pass the WHOIS feature
+        )
 
-        # Convert numpy array of probabilities to a native Python list
+        # 3. Prediction
+        prediction_id = FINAL_MODEL_PIPELINE.predict(input_df)[0]
+        prediction_id = int(prediction_id) # Convert numpy.int64 to native Python int
         prediction_proba = FINAL_MODEL_PIPELINE.predict_proba(input_df)[0].tolist()
 
-        # 3. Generate Full Report (Requirement 3.4)
-        # This function fetches all mock external data (WHOIS, DNS) and formats the final JSON string.
+        # 4. Generate Full Report (Requirement 3.4 & Annexure B)
         report_json_string = generate_full_detection_report(
-            identified_domain=identified_domain,
+            identified_url=identified_url,
             cse_domain=cse_domain,
             cse_name=cse_name,
             model_prediction_id=prediction_id,
-            model_confidence_scores=prediction_proba
+            model_confidence_scores=prediction_proba,
+            application_id=APPLICATION_ID # Pass Application ID
         )
         
-        # Parse the JSON string back into a Python object for the final API response
         report_data = json.loads(report_json_string) 
 
-        # 4. Compile API Response for the Frontend
-        # The 'prediction_id' here is already a native int due to the fix above
+        # 5. Compile API Response
         response = {
-            # Core Prediction Results
             'prediction_id': prediction_id, 
             'label': LABEL_MAP.get(prediction_id),
-            
-            # Detailed Report (Including all external attributes)
-            'report_data': report_data
+            'report_data': report_data # Includes the full Annexure B data under 'submission_data'
         }
+        
+        # --- NOTE ---
+        # The 'report_data["submission_data"]' structure can be used to generate
+        # the required Excel file upon submission completion.
         
         return jsonify(response)
 
@@ -110,8 +116,6 @@ def server_status():
 
 
 if __name__ == '__main__':
-    # Flask startup command for local testing.
-    # The frontend will call this endpoint (e.g., http://127.0.0.1:5000/api/classify)
     print("\n--- Starting Flask AI Backend ---")
     print("API is available at http://127.0.0.1:5000")
     app.run(host='0.0.0.0', port=5000, debug=True)
