@@ -7,7 +7,7 @@ class SuspectedDomainMonitor:
     def __init__(self, monitor_duration_days=90):
         self.monitoring_queue = {}
         self.duration = monitor_duration_days
-        self.alerts = [] # Storage for reclassified alerts
+        self.alerts = [] 
 
     def add_to_queue(self, domain, cse_domain, cse_name, initial_confidence):
         """Adds a domain classified as 'Suspected' (Label 1) to the queue."""
@@ -75,7 +75,6 @@ class SuspectedDomainMonitor:
         print(f"Monitoring cycle finished. {len(self.monitoring_queue)} domains remaining in queue.")
         return self.alerts
 
-# --- DEMONSTRATION OF MONITORING AND REPORTING ---
 
 if __name__ == '__main__':
     # Initialize Monitor (set to 5 days for easy testing)

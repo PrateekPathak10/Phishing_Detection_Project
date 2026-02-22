@@ -5,15 +5,15 @@ from datetime import datetime
 from urllib.parse import urlparse
 import random
 
-# --- IMPORT NECESSARY MODULES FROM YOUR PROJECT ---
+
 from external_lookups import mock_whois_lookup, mock_dns_geoip_lookup
 from reporting_engine import generate_full_detection_report, LABEL_MAP
 
-# --- CONFIGURATION (REPLACED WITH PROVIDED ID) ---
+
 APPLICATION_ID = "PS02-AIGR-S68411" 
 OUTPUT_FILENAME = f"PS-02_{APPLICATION_ID}_Submission_Set.xlsx"
 
-# --- MOCK CLASSIFICATION PIPELINE (function code omitted, only structure shown) ---
+
 def mock_classify_domain(identified_url, cse_domain, cse_name):
     """
     Simulates the model prediction and report generation steps.
@@ -60,7 +60,7 @@ def load_and_run_shortlisting_data():
             
     return all_reports
 
-# The official Annexure B Column Headers - MUST BE EXACTLY THIS LIST
+
 OFFICIAL_HEADERS = [
     'Application_ID',
     'Source of detection',
@@ -91,7 +91,7 @@ def create_submission_xlsx(raw_reports):
     """
     submission_list = []
     
-    # Check for empty report list (no threats found)
+    
     if not raw_reports:
         print("\n⚠️ No Phishing or Suspected domains were detected. Creating an empty file.")
         df = pd.DataFrame(columns=OFFICIAL_HEADERS)
@@ -101,10 +101,10 @@ def create_submission_xlsx(raw_reports):
     for report in raw_reports:
         submission_data = report.get('submission_data', {})
         
-        # --- Directly map internal keys (from reporting_engine.py) to final headers ---
+        
         row = {}
         
-        # Map fields from the submission_data dictionary
+       
         row['Application_ID'] = submission_data.get('application_id')
         row['Source of detection'] = submission_data.get('source_of_detection')
         row['Identified Phishing/Suspected Domain Name'] = submission_data.get('identified_domain_name')
@@ -128,19 +128,18 @@ def create_submission_xlsx(raw_reports):
         
         submission_list.append(row)
 
-    # Create DataFrame from the list of dictionaries
+    
     df = pd.DataFrame(submission_list)
 
-    # Enforce final column order using the OFFICIAL_HEADERS list
-    # This step is now safe because we built the dictionary keys explicitly using the headers.
+    
     df = df[OFFICIAL_HEADERS] 
     
-    # Save to Excel
+    
     df.to_excel(OUTPUT_FILENAME, index=False)
     print(f"\n Successfully created submission file: {OUTPUT_FILENAME}")
     print(f"Total entries logged: {len(df)}")
     
-# --- MAIN EXECUTION ---
+
 if __name__ == '__main__':
     print(f"--- Starting PS-02 Submission Set Generation for ID: {APPLICATION_ID} ---")
     

@@ -15,5 +15,5 @@ COPY . .
 EXPOSE 5000
 
 # Command to run the Flask application using Gunicorn (production server)
-# The format is 'module:variable' (app.py:app)
+# The format is module:variable
 CMD ["gunicorn", "--bind", "0.0.0.0:5000", "app:app"]

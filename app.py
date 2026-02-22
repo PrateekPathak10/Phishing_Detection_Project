@@ -16,10 +16,10 @@ LABEL_MAP = {0: 'Legitimate', 1: 'Suspected', 2: 'Phishing'}
 
 APPLICATION_ID = os.environ.get('APP_ID', 'PS02-AIGR-S68411') 
 
-# --- Define the directory where the React build files are located ---
+# Define the directory where the React build files are located ---
 BUILD_FOLDER = 'build' 
 
-#Initialize Flask with static configuration ---
+#Initialize Flask with static configuration
 app = Flask(
     __name__, 
     static_folder=BUILD_FOLDER, 
@@ -27,7 +27,7 @@ app = Flask(
 )
 CORS(app) 
 
-#Load Model (Loading logic omitted for brevity) ---
+#Load Model (Loading logic omitted for brevity)
 FINAL_MODEL_PIPELINE = None
 try:
     if os.path.exists(MODEL_PATH):
@@ -41,7 +41,7 @@ try:
 except Exception as e:
     print(f"\nFATAL ERROR: Could not load model pipeline. Prediction will fail. Details: {e}")
 
-#Route to serve the React Frontend ---
+#Route to serve the React Frontend
 @app.route('/', defaults={'path': ''})
 @app.route('/<path:path>')
 def serve_frontend(path):

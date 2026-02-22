@@ -1,7 +1,7 @@
 import random
 from datetime import datetime, timedelta
 
-# --- MOCK WHOIS LOOKUP ---
+# MOCK WHOIS LOOKUP 
 def mock_whois_lookup(domain):
     """
     Simulates fetching Domain Registration (WHOIS) data, including
@@ -9,7 +9,7 @@ def mock_whois_lookup(domain):
     Returns the domain age in days for the model input.
     """
     
-    # Calculate creation date and age
+
     if 'legit' in domain:
         creation_date = datetime.now() - timedelta(days=random.randint(2000, 5000))
         registrar = "Google LLC"
@@ -30,23 +30,23 @@ def mock_whois_lookup(domain):
         
     return {
         "domain_creation_date": creation_date.strftime("%Y-%m-%d %H:%M:%S"),
-        "registrar_name": registrar, # Matches h. Registrar Name
-        "registrant_name_org": registrant_org, # Matches i. Registrant Name or Registrant Organisation
-        "registrant_country": registrant_country, # Matches j. Registrant Country
+        "registrar_name": registrar, 
+        "registrant_name_org": registrant_org, 
+        "registrant_country": registrant_country, 
         "is_privacy_protected": random.choice([True, False]),
-        "domain_age_days": domain_age # New feature for the model
+        "domain_age_days": domain_age 
     }
 
-# --- MOCK DNS AND GEO-IP LOOKUP ---
+
 def mock_dns_geoip_lookup(domain):
     """
     Simulates fetching IP, Geo-location, and Hosting details (Annexure B).
     """
     if 'vercel.app' in domain:
         ip = "76.76.21.21"
-        hosting_isp = "Vercel" # Matches m. Hosting ISP
-        geo_location = "San Francisco, US" # Matches n. Hosting Country (partially)
-        name_servers = ["dns1.vercel-dns.com", "dns2.vercel-dns.com"] # Matches k. Name Servers
+        hosting_isp = "Vercel" 
+        geo_location = "San Francisco, US" 
+        name_servers = ["dns1.vercel-dns.com", "dns2.vercel-dns.com"] 
     elif 'suspected' in domain:
         ip = f"192.168.1.{random.randint(100, 200)}"
         hosting_isp = random.choice(["DigitalOcean", "Linode"])
@@ -58,7 +58,7 @@ def mock_dns_geoip_lookup(domain):
         geo_location = random.choice(["Singapore, SG", "London, UK"])
         name_servers = ["ns1.registrar.net", "ns2.registrar.net"]
         
-    # Mock DNS Records (Annexure B, o.)
+    
     mock_dns_records = {
         "A": ip,
         "MX": f"mail.{domain}",
@@ -66,7 +66,7 @@ def mock_dns_geoip_lookup(domain):
     }
         
     return {
-        "ip_address": ip, # Matches l. Hosting IP
+        "ip_address": ip, 
         "hosting_isp": hosting_isp,
         "geo_location": geo_location,
         "ip_reputation_score": round(random.uniform(0.1, 0.9), 2),
@@ -74,13 +74,12 @@ def mock_dns_geoip_lookup(domain):
         "dns_records": mock_dns_records
     }
 
-# --- MOCK DYNAMIC CONTENT CHECK ---
+
 def mock_dynamic_content_check(identified_domain, cse_domain):
     """
     Simulates checking if a suspected domain has started hosting lookalike content.
     (No change needed here as it satisfies the conceptual content check for Req 3.3).
     """
-    # 5% chance the domain becomes malicious on any given check
     if random.random() < 0.05:
         visual_similarity = round(random.uniform(0.85, 0.98), 2)
         return {

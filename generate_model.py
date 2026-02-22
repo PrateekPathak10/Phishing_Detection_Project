@@ -12,28 +12,27 @@ import warnings
 warnings.filterwarnings('ignore', category=FutureWarning)
 warnings.filterwarnings('ignore', category=UserWarning)
 
-# --- Configuration ---
+
 # NOTE: The data must be generated with the new features before running this.
 DATA_FILE = '3_class_training_data.csv' 
 MODEL_FILENAME = 'final_phishing_model_pipeline.joblib'
 MODEL_SAVE_PATH = 'model/'
 TARGET_LABEL = 'Label'
 
-# --- 1. Load Data ---
+
 try:
     df = pd.read_csv(DATA_FILE)
     print(f"Data loaded successfully from {DATA_FILE}. Total rows: {len(df)}")
 except FileNotFoundError:
     print(f"\nFATAL ERROR: Training data not found. Please ensure {DATA_FILE} is in the same directory.")
-    # You MUST re-run the feature engineering notebook to create this file!
+
     exit()
 
-# --- 2. Define Features and Target ---
-# UPDATED LIST of FEATURES to match the new feature_engineer.py logic:
+
 numerical_features = [
     'Levenshtein_Ratio', 
     'Length_Difference', 
-    # New URL/Lexical Features
+  
     'URL_Length',
     'Num_Slashes',
     'Num_Underscores',
@@ -46,13 +45,13 @@ numerical_features = [
     'Domain_Length',
     'Num_Dots',
     'Num_Hyphens',
-    # New Network/WHOIS Feature (Must be derived in the notebook/data prep)
+    
     'Domain_Age_Days'
 ]
 
 categorical_features = ['Critical Sector Entity Name'] 
 
-# Ensure all columns exist in the DataFrame before proceeding
+
 missing_features = [f for f in numerical_features if f not in df.columns]
 if missing_features:
     print(f"\nFATAL ERROR: Missing features in {DATA_FILE}: {missing_features}")
@@ -66,7 +65,7 @@ y = df[TARGET_LABEL]
 # Split data (necessary for GridSearchCV which uses cross-validation)
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42, stratify=y)
 
-# --- 3. Create Preprocessor and Pipeline (No structural change needed) ---
+
 preprocessor = ColumnTransformer(
     transformers=[
         ('num', 'passthrough', numerical_features),
@@ -75,13 +74,13 @@ preprocessor = ColumnTransformer(
     remainder='drop' 
 )
 
-# Define the base model pipeline
+
 model = Pipeline(steps=[
     ('preprocessor', preprocessor),
     ('classifier', RandomForestClassifier(random_state=42))
 ])
 
-# --- 4. Hyperparameter Tuning (Using previous best fit values) ---
+
 param_grid = {
     'classifier__n_estimators': [100], 
     'classifier__max_depth': [20],      
@@ -100,10 +99,10 @@ grid_search = GridSearchCV(
 print("Starting model training and hyperparameter optimization...")
 grid_search.fit(X_train, y_train)
 
-# Get the final tuned model
+
 final_model_pipeline = grid_search.best_estimator_
 
-# --- 5. Save the Final Model Pipeline ---
+
 os.makedirs(MODEL_SAVE_PATH, exist_ok=True)
 full_path = os.path.join(MODEL_SAVE_PATH, MODEL_FILENAME)
 

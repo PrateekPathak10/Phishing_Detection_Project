@@ -14,7 +14,6 @@ def get_full_domain_report(identified_domain):
     whois_data = mock_whois_lookup(identified_domain)
     dns_data = mock_dns_geoip_lookup(identified_domain)
     
-    # We combine WHOIS and DNS data into a single object for transport
     report_attributes = {
         "domain_creation_date": whois_data["domain_creation_date"],
         "registrar_info": whois_data["registrar_info"],

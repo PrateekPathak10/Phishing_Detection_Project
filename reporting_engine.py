@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 from urllib.parse import urlparse 
 
-# Define the label map for human-readable output
+
 LABEL_MAP = {0: 'Legitimate', 1: 'Suspected', 2: 'Phishing'}
 
 def generate_full_detection_report(

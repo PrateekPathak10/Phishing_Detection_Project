@@ -14,10 +14,9 @@ const LABEL_ICONS = {
     Phishing: Zap,
 };
 
-// --- Helper component to display key data points in the card ---
+
 const DetailItem = ({ label, value, isLink = false }) => {
-    // Ensure value is a string before attempting truncation or display
-    // Use nullish coalescing to safely default to 'N/A'
+    
     const displayValue = String(value ?? 'N/A');
     const truncatedValue = displayValue.length > 50 ? displayValue.substring(0, 50) + '...' : displayValue;
 
@@ -44,7 +43,7 @@ const DetailItem = ({ label, value, isLink = false }) => {
 
 
 const PhishingDetectionDashboard = () => {
-    // State updated to handle full URL input
+    
     const [url, setUrl] = useState('');
     const [cseDomain, setCseDomain] = useState('airtel.in');
     const [cseName, setCseName] = useState('Airtel');
@@ -53,12 +52,12 @@ const PhishingDetectionDashboard = () => {
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState(null);
 
-    // --- Status Check (Minimal useEffect retained) ---
+    
     useEffect(() => {
     }, []);
 
 
-    // --- Classification Logic ---
+    
     const handleClassification = async (e) => {
         e.preventDefault();
         setLoading(true);
@@ -77,7 +76,7 @@ const PhishingDetectionDashboard = () => {
                 headers: {
                     'Content-Type': 'application/json',
                 },
-                // Sending 'url' as required by the updated backend API
+               
                 body: JSON.stringify({ 
                     url: url.trim(), 
                     cse_domain: cseDomain.trim(), 
@@ -101,22 +100,20 @@ const PhishingDetectionDashboard = () => {
         }
     };
 
-    // --- Render Component ---
     
-    // Safety checks and destructuring
     const resultIsReady = result && result.report_data;
     const reportData = result?.report_data;
     const submissionData = reportData?.submission_data;
     const confidenceScores = reportData?.maliciousness_information?.model_confidence;
     const finalLabel = result?.label;
     
-    // SAFE Logic: Define icon/color defaults to prevent render crash
+    
     const IconComponent = finalLabel ? LABEL_ICONS[finalLabel] : XCircle;
     const labelColorClass = finalLabel 
         ? LABEL_COLORS[finalLabel] 
         : 'bg-gray-100 text-gray-800 border-gray-400';
     
-    // Explicitly define text color to avoid complex string manipulation (the crash source)
+
     let textBaseColor = 'text-gray-800'; 
     if (finalLabel === 'Phishing') textBaseColor = 'text-red-800';
     else if (finalLabel === 'Suspected') textBaseColor = 'text-yellow-800';
